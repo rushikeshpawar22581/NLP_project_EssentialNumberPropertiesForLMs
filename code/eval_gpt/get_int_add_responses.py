@@ -25,13 +25,14 @@ outputs = []
 index = 0
 
 while index < len(data):
-    expected_num_tokens = max(30, len(data[index])//3) #a heuristic. Can be made more accurate by counting number of tokens.
-    if len(batch_prompts) < 27:
+    expected_num_tokens = 45 #a heuristic. Can be made more accurate by counting number of tokens.
+    
+    if len(batch_prompts) < 25:
         num_prompts = tokens_per_request// expected_num_tokens
-    elif len(batch_prompts) < 88:
-        num_prompts = 15
+
     else:
         num_prompts = 150
+    
     batch_prompt = data[index:min(index+num_prompts, len(data))]
     batch_prompts.append(batch_prompt)
     index += num_prompts
@@ -43,8 +44,6 @@ filepath = "./int_addition_responses.txt"
 
 for _, batch_prompt in enumerate(batch_prompts):
 
-    if _ < 88:
-        continue
     print("Sending batch {} of {}".format(_+1, len(batch_prompts)))
 
     num_prompts = len(batch_prompt)
