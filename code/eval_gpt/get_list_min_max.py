@@ -46,7 +46,7 @@ for _, batch_prompt in enumerate(batch_prompts):
     num_prompts = len(batch_prompt)
 
     response = client.chat.completions.create(model="gpt-3.5-turbo", messages=
-            [{"role": "user", "content": "You are a math assistant. I will ask you to find the minimum number in a list. Please answer in the correct format. For example, if I ask 'Find the minimum number in the list [1, 2, 3]', you should answer 'Min = 1'. Each question is in a separate line. Please return each answer in a separate line."},
+            [{"role": "user", "content": "You are a math assistant. I will ask you to find the minimum number in a list. Please answer in the correct format. For example, if I ask 'Find the minimum number in the list [1, 2, 3]', you should answer 'Min([1, 2, 3]) = 1'. Each question is in a separate line. Please return each answer in a separate line."},
             {"role" : "user", "content" : "".join([f"{prompt}\n" for prompt in batch_prompt])}])
 
     responses = response.choices[0].message.content.split("\n")
@@ -79,7 +79,7 @@ for _, batch_prompt in enumerate(batch_prompts):
     num_prompts = len(batch_prompt)
 
     response = client.chat.completions.create(model="gpt-3.5-turbo", messages=
-            [{"role": "user", "content": "You are a math assistant. I will ask you to find the maximum number in a list. Please answer in the correct format. For example, if I ask 'Find the maximum number in the list [1, 2, 3]', you should answer 'Max = 3'. Each question is in a separate line. Please return each answer in a separate line."},
+            [{"role": "user", "content": "You are a math assistant. I will ask you to find the maximum number in a list. Please answer in the correct format. For example, if I ask 'Find the maximum number in the list [1, 2, 3]', you should answer 'Max([1, 2, 3]) = 3'. Each question is in a separate line. Please return each answer in a separate line."},
             {"role" : "user", "content" : "".join([f"{prompt}\n" for prompt in batch_prompt])}])
 
     responses = response.choices[0].message.content.split("\n")
