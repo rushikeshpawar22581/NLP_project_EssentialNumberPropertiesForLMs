@@ -113,13 +113,13 @@ def plot_for_int_addition(responses_path):
 
     for i in range(3):
 
-        plt.figure(figsize=(60, 5))
+        plt.figure(figsize=(60, 14 if i==2 else 5))
         accuracy_i = np.expand_dims(accuracy[i], axis=0)
         mask = np.expand_dims(strike_off[i], axis=0)
-        sns.heatmap(accuracy_i, cmap = "Blues", annot=False, cbar=True, mask=mask, square=True, xticklabels=5, cbar_kws={"orientation": "horizontal"}, linewidths=1, linecolor='black', yticklabels=False)
-        plt.title("Accuracy for integer addition when " + ["both numbers are positive", "one number is negative", "both numbers are negative"][i], fontsize=20)
-        plt.xlabel("Number of digits in the numbers", fontsize=16)
-        plt.xticks(np.arange(1, 61, 5), np.arange(1, 61, 5), fontsize=14)
+        sns.heatmap(accuracy_i, cmap = "Blues", annot=False, cbar=True if i==2 else False, mask=mask, square=True, xticklabels=5, cbar_kws={"orientation": "horizontal"}, linewidths=1, linecolor='black', yticklabels=False)
+        #plt.title("Accuracy for integer addition when " + ["both numbers are positive", "one number is negative", "both numbers are negative"][i], fontsize=20)
+        plt.xlabel("Number of digits in the numbers", fontsize=46)
+        plt.xticks(np.arange(1, 61, 5), np.arange(1, 61, 5), fontsize=44)
         
         #cancel out the strike off cells
         for j in range(len(accuracy_i[0])):
@@ -413,7 +413,7 @@ def plot_for_list_sort(responses_path):
 
 
 if __name__ == "__main__":
-    #plot_for_int_addition("./int_addition_responses.txt")
+    plot_for_int_addition("./int_addition_responses.txt")
     plot_for_list_min("./list_min_responses.txt")
     plot_for_list_max("./list_max_responses.txt")
     plot_for_list_sort("./list_sort_responses.txt")
