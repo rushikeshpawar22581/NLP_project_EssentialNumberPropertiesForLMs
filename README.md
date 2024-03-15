@@ -1,15 +1,15 @@
 # NLP_project
-Defining and Testing Essential Number Properties for LMs
+**Defining and Testing Essential Number Properties for LMs**
 
 Students:
 1. Karan Raj Bagri              (karanraj@iisc.ac.in)
 2. Dhamale Vivek Shrikrishna    (viveksd@iisc.ac.in)
 3. Pawar Rushikesh Gajanansa    (rushikeshp@iisc.ac.in)
 
-Abstract
-Language Models have achieved impressive feats in Natural Language Processing, 
-excelling at tasks like text generation, machine translation, Question Answers, 
-text summarization. However, NLP systems rarely give special considerations to numbers. 
+Abstract:
+Language Models have achieved impressive feats in Natural Language Processing, 
+excelling at tasks like text generation, machine translation, Question Answers, 
+text summarization. However, NLP systems rarely give special considerations to numbers. 
 They are treated just like any other text tokens, but there is a fundamental 
 difference between words/letters and numbers. Also, during preprocessing most of the numbers get mapped to
 <UNK> token because of absence from the vocabulary. This results in
