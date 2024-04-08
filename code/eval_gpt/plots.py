@@ -109,8 +109,9 @@ def plot_for_int_addition(responses_path):
     correct[strike_off] = 0
     total[strike_off] = 1
 
-    accuracy = correct/total
+    accuracy = correct*100/total
 
+    """
     for i in range(3):
 
         plt.figure(figsize=(60, 14 if i==2 else 5))
@@ -126,7 +127,56 @@ def plot_for_int_addition(responses_path):
             if mask[0][j]:
                 plt.text(j + 0.5, 0.6, 'X', ha='center', va='center', color='black', fontsize=58)
                 
-        plt.savefig("./int_addition_plots/" + ["both_positive", "one_negative", "both_negative"][i] + ".png")
+        plt.savefig("./int_addition_plots/" + ["both_positive", "one_negative", "both_negative"][i] + ".png")"""
+    
+    #make a simple plot, include all the three cases. Only include those data points where total >= 40.
+    plt.figure()
+    #both_positive_x_vals is a list of x values where total >= 40 for the case when both numbers are positive
+    both_positive_x_vals = np.where(total[0] >= 40)[0] + 1
+    both_positive_y_vals = accuracy[0][total[0] >= 40]
+    #plt.plot(both_positive_x_vals, both_positive_y_vals, label="Both positive", color="green")
+    #plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    #one_negative_x_vals is a list of x values where total >= 40 for the case when one number is negative
+    one_negative_x_vals = np.where(total[1] >= 40)[0] + 1
+    one_negative_y_vals = accuracy[1][total[1] >= 40]
+    #plt.plot(one_negative_x_vals, one_negative_y_vals, label="One positive, one negative", color="blue")
+    #plt.scatter(one_negative_x_vals, one_negative_y_vals, color="blue")
+
+    #both_negative_x_vals is a list of x values where total >= 40 for the case when both numbers are negative
+    both_negative_x_vals = np.where(total[2] >= 40)[0] + 1
+    both_negative_y_vals = accuracy[2][total[2] >= 40]
+    #plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
+    #plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    def moving_average(a, n=2):
+        ret = np.cumsum(a, dtype=float)
+        ret[n:] = ret[n:] - ret[:-n]
+        return ret[n - 1:] / n
+
+    # Apply moving average to y values
+    both_positive_y_vals_smooth = moving_average(both_positive_y_vals)
+    one_negative_y_vals_smooth = moving_average(one_negative_y_vals)
+    both_negative_y_vals_smooth = moving_average(both_negative_y_vals)
+
+    # Adjust x values to match the length of the smoothed y values
+    both_positive_x_vals = both_positive_x_vals[:len(both_positive_y_vals_smooth)]
+    one_negative_x_vals = one_negative_x_vals[:len(one_negative_y_vals_smooth)]
+    both_negative_x_vals = both_negative_x_vals[:len(both_negative_y_vals_smooth)]
+
+    plt.plot(both_positive_x_vals, both_positive_y_vals_smooth, label="Both positive", color="green")
+    plt.plot(one_negative_x_vals, one_negative_y_vals_smooth, label="One positive, one negative", color="blue")
+    plt.plot(both_negative_x_vals, both_negative_y_vals_smooth, label="Both negative", color="red")
+
+    plt.xticks(np.arange(0, 61, 5))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Accuracy for integer addition")
+    plt.grid()
+
+    plt.xlabel('Number of digits')
+    plt.ylabel('Accuracy (%)')
+    plt.legend()
+    plt.savefig("./int_addition_plots/accuracy_vs_digits.png")
 
 
 def plot_for_list_min(responses_path):
@@ -195,9 +245,9 @@ def plot_for_list_min(responses_path):
             total_size10[is_neg, n_digits-1] += 1
         
 
-    accuracies_size3 = correct_size3/total_size3
-    accuracies_size5 = correct_size5/total_size5
-    accuracies_size10 = correct_size10/total_size10
+    accuracies_size3 = correct_size3*100/total_size3
+    accuracies_size5 = correct_size5*100/total_size5
+    accuracies_size10 = correct_size10*100/total_size10
 
     #plot how the accuracy varies with the number of digits in the numbers. draw two curves, one for when all the numbers are positive, and one for when at least one number is negative. Show the points through scatter plot.
     #separate plots for each list size.
@@ -212,12 +262,12 @@ def plot_for_list_min(responses_path):
         plt.scatter(x_range, accuracies[1])
 
         plt.xlabel("Number of digits in the numbers")
-        plt.ylabel("Accuracy")
+        plt.ylabel("Accuracy (%)")
 
-        plt.ylim(0.9, 1.01)
+        plt.ylim(90, 101)
         plt.xticks(x_range)
-        plt.yticks(np.arange(0.9, 1.01, 0.02))
-        plt.title("Accuracy for finding the minimum number in a list of size " + str(size))
+        plt.yticks(np.arange(90, 101, 2))
+        plt.title("GPT-3.5 Turbo: Finding the minimum number in a list of size " + str(size))
         plt.legend()
         plt.grid()
         plt.savefig("./list_min_plots/size" + str(size) + ".png")
@@ -288,9 +338,9 @@ def plot_for_list_max(responses_path):
                 total_size10[is_neg, n_digits-1] += 1                                  
                 
         
-        accuracies_size3 = correct_size3/total_size3
-        accuracies_size5 = correct_size5/total_size5
-        accuracies_size10 = correct_size10/total_size10
+        accuracies_size3 = correct_size3*100/total_size3
+        accuracies_size5 = correct_size5*100/total_size5
+        accuracies_size10 = correct_size10*100/total_size10
     
         #plot how the accuracy varies with the number of digits in the numbers. draw two curves, one for when all the numbers are positive, and one for when at least one number is negative. Show the points through scatter plot.
         #separate plots for each list size.
@@ -299,17 +349,17 @@ def plot_for_list_max(responses_path):
 
             plt.figure()
             x_range = np.arange(1, max_num_digits+1)
-            plt.plot(x_range, accuracies[0], label="All numbers are positive")
+            plt.plot(x_range, accuracies[0], label="All positive")
             plt.scatter(x_range, accuracies[0])
-            plt.plot(x_range, accuracies[1], label="At least one number is negative")
+            plt.plot(x_range, accuracies[1], label="At least one negative")
             plt.scatter(x_range, accuracies[1])
 
             plt.xlabel("Number of digits in the numbers")
-            plt.ylim(0.9, 1.01)
+            plt.ylim(90, 101)
             plt.xticks(x_range)
-            plt.yticks(np.arange(0.9, 1.01, 0.02))
-            plt.ylabel("Accuracy")
-            plt.title("Accuracy for finding the maximum number in a list of size " + str(size))
+            plt.yticks(np.arange(90, 101, 2))
+            plt.ylabel("Accuracy (%)")
+            plt.title("GPT-3.5 Turbo: Finding the maximum number in a list of size " + str(size))
             plt.legend()
             plt.grid()
             plt.savefig("./list_max_plots/size" + str(size) + ".png")
@@ -386,9 +436,9 @@ def plot_for_list_sort(responses_path):
             total_size_10[is_neg, n_digits-1] += 1
             
 
-    accuracies_size_3 = correct_size_3/total_size_3
-    accuracies_size_5 = correct_size_5/total_size_5
-    accuracies_size_10 = correct_size_10/total_size_10
+    accuracies_size_3 = correct_size_3*100/total_size_3
+    accuracies_size_5 = correct_size_5*100/total_size_5
+    accuracies_size_10 = correct_size_10*100/total_size_10
 
     #plot how the accuracy varies with the number of digits in the numbers. draw two curves, one for when all the numbers are positive, and one for when at least one number is negative. Show the points through scatter plot.
     #separate plots for each list size.
@@ -403,9 +453,9 @@ def plot_for_list_sort(responses_path):
         plt.scatter(x_range, accuracies[1])
 
         plt.xlabel("Number of digits in the numbers")
-        plt.ylabel("Accuracy")
+        plt.ylabel("Accuracy (%)")
         plt.xticks(x_range)
-        plt.title("Accuracy for sorting a list of size " + str(size))
+        plt.title("GPT-3.5 Turbo: Accuracy for sorting a list of size " + str(size))
         plt.legend()
         plt.grid()
         plt.savefig("./list_sort_plots/size" + str(size) + ".png")
