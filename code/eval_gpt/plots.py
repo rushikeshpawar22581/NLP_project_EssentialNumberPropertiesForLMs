@@ -256,9 +256,9 @@ def plot_for_list_min(responses_path):
 
         plt.figure()
         x_range = np.arange(1, max_num_digits+1)
-        plt.plot(x_range, accuracies[0], label="All numbers are positive")
+        plt.plot(x_range, accuracies[0], label="All numbers are positive", linestyle=":", marker="+", color="green")
         plt.scatter(x_range, accuracies[0])
-        plt.plot(x_range, accuracies[1], label="At least one number is negative")
+        plt.plot(x_range, accuracies[1], label="At least one number is negative", linestyle="--", marker="*", color="red")
         plt.scatter(x_range, accuracies[1])
 
         plt.xlabel("Number of digits in the numbers")
@@ -349,10 +349,10 @@ def plot_for_list_max(responses_path):
 
             plt.figure()
             x_range = np.arange(1, max_num_digits+1)
-            plt.plot(x_range, accuracies[0], label="All positive")
-            plt.scatter(x_range, accuracies[0])
-            plt.plot(x_range, accuracies[1], label="At least one negative")
-            plt.scatter(x_range, accuracies[1])
+            plt.plot(x_range, accuracies[0], label="All positive", color="green", marker="+", linestyle=":")
+            plt.scatter(x_range, accuracies[0], color="green")
+            plt.plot(x_range, accuracies[1], label="At least one negative", color="red", linestyle="--", marker="*")
+            plt.scatter(x_range, accuracies[1], color="red")
 
             plt.xlabel("Number of digits in the numbers")
             plt.ylim(90, 101)
@@ -447,10 +447,10 @@ def plot_for_list_sort(responses_path):
             
         plt.figure()
         x_range = np.arange(1, max_num_digits+1)
-        plt.plot(x_range, accuracies[0], label="All numbers are positive")
-        plt.scatter(x_range, accuracies[0])
-        plt.plot(x_range, accuracies[1], label="At least one number is negative")
-        plt.scatter(x_range, accuracies[1])
+        plt.plot(x_range, accuracies[0], label="All numbers are positive", color="green", linestyle=":", marker="+")
+        plt.scatter(x_range, accuracies[0], color="green")
+        plt.plot(x_range, accuracies[1], label="At least one number is negative", color="red", linestyle="--", marker="*")
+        plt.scatter(x_range, accuracies[1], color="red")
 
         plt.xlabel("Number of digits in the numbers")
         plt.ylabel("Accuracy (%)")
