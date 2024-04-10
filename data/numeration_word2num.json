@@ -2231,7 +2231,7 @@
             "minus seven million, nine hundred and thirty-three thousand, one hundred and forty-three"
         ]
     },
-    "positive frac": {
+    "positive dec": {
         "d1": [
             "five point zero one",
             "three point six five",
@@ -3647,7 +3647,7 @@
             "five million, five hundred and eighty-six thousand, seven hundred and seventy-seven point nine one"
         ]
     },
-    "negative frac": {
+    "negative dec": {
         "d1": [
             "minus seven point five eight",
             "minus nine point two three",
