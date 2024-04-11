@@ -40,7 +40,7 @@ while index < len(data):
 print("Number of batches:", len(batch_prompts))
 print("Number of prompts in each batch:", [len(batch) for batch in batch_prompts])
 
-filepath = "./int_addition_responses.txt"
+filepath = "./int_addition_responses1.txt"
 
 for _, batch_prompt in enumerate(batch_prompts):
 

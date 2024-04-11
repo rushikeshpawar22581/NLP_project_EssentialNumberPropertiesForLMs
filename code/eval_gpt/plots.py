@@ -6,10 +6,18 @@ import seaborn as sns
 
 MAX_DIGITS = 60
 
-def plot_for_int_addition(responses_path):
+def plot_for_int_addition(responses_path1, responses_path2):
 
-    with open(responses_path, "r") as f:
+    responses = []
+
+    with open(responses_path1, "r") as f:
         responses = f.readlines()
+
+    responses1 = []
+
+    with open(responses_path2, "r") as f:
+        responses1 = f.readlines()
+
     
     #have to go through the responses manually and extract the numbers
     
@@ -24,67 +32,133 @@ def plot_for_int_addition(responses_path):
     def get_num_digits(num):
         return len(str(num).replace("-", ""))
     
+    #for first run (responses in int_addition_responses.txt)
     #There are 6 formats in which the responses were received, even though the model was asked to follow a certain pattern. 
     #since these formats are non-overlapping, we can use 6 different regex patterns to extract the numbers from the responses, looping over all the responses.
-    
-    #format 1. Format is '[2, 2, 4] = 4'.
+
     for response in responses:
+
+        #format 1. Format is '[2, 2, 4] = 4'.
         match = re.search(r'\[([-+]?\d+), ([-+]?\d+), ([-+]?\d+)\] = ([-+]?\d+)', response)
 
         if match:
             a, b, c, answer = match.groups()
             a, b, answer = int(a), int(b), int(answer)
             triplets.append((a, b, answer))
-    
-    #format 2. Format is '[-17 + -81 = -98]'.
-    for response in responses:
-        match = re.search(r'(\[)?([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)(\])?', response)
-
-        if match:
-            a, b, answer = match.groups()[1: -1]
-            a, b, answer = int(a), int(b), int(answer)
-            triplets.append((a, b, answer))
-    
-    #format 3. Format is '[2, 2, 4]'.
-    for response in responses:
+            continue
+        
+        #format 3. Format is '[2, 2, 4]'.
         match = re.search(r'\[([-+]?\d+), ([-+]?\d+), ([-+]?\d+)\]', response)
 
         if match:
             a, b, answer = match.groups()
             a, b, answer = int(a), int(b), int(answer)
             triplets.append((a, b, answer))
-    
-    #1540 to 1563. 
-    #format 4. Format is '2 - 4 = -2'.
-    for response in responses:
+            continue
 
-        match = re.search(r'([-+]?\d+) \- ([-+]?\d+) = ([-+]?\d+)', response)
-
-        if match:
-            a, b, answer = match.groups()
-            a, b, answer = int(a), -int(b), int(answer)
-            triplets.append((a, b, answer))
-
-    #format 5. format is '2106518290868 + (-5009410029817) = -2902891738949'.
-    
-    for response in responses:
-
-        match = re.search(r'([-+]?\d+) \+ \(([-+]?\d+)\) = ([-+]?\d+)', response)
-
-        if match:
-            a, b, answer = match.groups()
-            a, b, answer = int(a), int(b), int(answer)
-            triplets.append((a, b, answer))
-    
-    #format 6. format is '\[ -382080619849359354451962436565147864320463465990184530075 + 371914144627003178302099873114871577476724839546326059237 = -10166475222356176149862563450276286843738626443858470838 \]'.
-    for response in responses:
+        #format 6. format is '\[ -382080619849359354451962436565147864320463465990184530075 + 371914144627003178302099873114871577476724839546326059237 = -10166475222356176149862563450276286843738626443858470838 \]'.
         match = re.search(r'[\\]\[ ([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+) [\\]\]', response)
 
         if match:
             a, b, answer = match.groups()
             a, b, answer = int(a), int(b), int(answer)
             triplets.append((a, b, answer))
-   
+            
+        #format 5. format is '2106518290868 + (-5009410029817) = -2902891738949'.
+        match = re.search(r'([-+]?\d+) \+ \(([-+]?\d+)\) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
+        #format 4. Format is '2 - 4 = -2'.
+        match = re.search(r'([-+]?\d+) \- ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), -int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
+        #format 2. Format is '[-17 + -81 = -98]' or -17 + 81 = -98.
+        match = re.search(r'(\[)?([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)(\])?', response)
+
+        if match:
+            a, b, answer = match.groups()[1: -1]
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+
+    
+    #for second run (responses in int_addition_responses1.txt)
+    
+    for response in responses1:
+
+        #follow format 7. format is '-160666855963254480065007 + -292265345502247650599465 + -452932201465502130664472 = -905863402930004261268944'.
+        match = re.search(r'([-+]?\d+) \+ ([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer, _ = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            #triplets.append((a, b, answer))
+            #there is too much inconsistency in these responses. Sometimes in "a + b + c = d", a + b = c. Sometimes, it is a + b + c = d. So, we will not consider these responses.
+            continue
+        
+        #follow format 1. Format is '[2, 2, 4] = 8'.
+        match = re.search(r'\[([-+]?\d+), ([-+]?\d+), ([-+]?\d+)\] = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer, _ = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
+        #follow format 3. Format is '[2, 2, 4]'.
+        match = re.search(r'\[([-+]?\d+), ([-+]?\d+), ([-+]?\d+)\]', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
+        #format 6. format is '\[-382080619849359354451962436565147864320463465990184530075 + 371914144627003178302099873114871577476724839546326059237 = -10166475222356176149862563450276286843738626443858470838\]'.
+        match = re.search(r'[\\]\[([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)[\\]\]', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
+        #format 5. format is '2106518290868 + (-5009410029817) = -2902891738949'.
+        match = re.search(r'([-+]?\d+) \+ \(([-+]?\d+)\) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+        
+        #format 4. Format is '2 - 4 = -2'.
+        match = re.search(r'([-+]?\d+) \- ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), -int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+        
+        #format 2. Format is '[-17 + -81 = -98]' or -17 + 81 = -98.
+        match = re.search(r'([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = int(a), int(b), int(answer)
+            triplets.append((a, b, answer))
+            continue
+
 
     for a, b, answer in triplets:
 
@@ -149,7 +223,7 @@ def plot_for_int_addition(responses_path):
     #plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
     #plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
 
-    def moving_average(a, n=2):
+    def moving_average(a, n=3):
         ret = np.cumsum(a, dtype=float)
         ret[n:] = ret[n:] - ret[:-n]
         return ret[n - 1:] / n
@@ -463,7 +537,7 @@ def plot_for_list_sort(responses_path):
 
 
 if __name__ == "__main__":
-    plot_for_int_addition("./int_addition_responses.txt")
+    plot_for_int_addition("./int_addition_responses.txt", "./int_addition_responses1.txt")
     plot_for_list_min("./list_min_responses.txt")
     plot_for_list_max("./list_max_responses.txt")
     plot_for_list_sort("./list_sort_responses.txt")
