@@ -3,6 +3,7 @@ import numpy as np
 import json
 import re
 import seaborn as sns
+from utils import edit_distance_integers
 
 MAX_DIGITS = 60
 
@@ -229,9 +230,9 @@ def plot_for_int_addition(responses_path1, responses_path2):
         return ret[n - 1:] / n
 
     # Apply moving average to y values
-    both_positive_y_vals_smooth = moving_average(both_positive_y_vals)
-    one_negative_y_vals_smooth = moving_average(one_negative_y_vals)
-    both_negative_y_vals_smooth = moving_average(both_negative_y_vals)
+    both_positive_y_vals_smooth = moving_average(both_positive_y_vals, 2)
+    one_negative_y_vals_smooth = moving_average(one_negative_y_vals, 2)
+    both_negative_y_vals_smooth = moving_average(both_negative_y_vals, 2)
 
     # Adjust x values to match the length of the smoothed y values
     both_positive_x_vals = both_positive_x_vals[:len(both_positive_y_vals_smooth)]
@@ -251,6 +252,74 @@ def plot_for_int_addition(responses_path1, responses_path2):
     plt.ylabel('Accuracy (%)')
     plt.legend()
     plt.savefig("./int_addition_plots/accuracy_vs_digits.png")
+
+    #now calc soft accuracy (= length of correct answer including '-' sign if present - edit distance between correct answer and predicted answer / length of correct ans) for each case
+    #soft accuracy = 1 - edit distance / length of correct answer
+
+    soft_correct_totals = np.zeros((3, MAX_DIGITS))
+
+    for a, b, answer in triplets:
+            
+        num_digits = get_num_digits(a)
+
+        if a >= 0 and b >= 0:
+            correct_answer = str(a + b)
+            soft_correct_totals[0, num_digits-1] += 1 - edit_distance_integers(a + b, answer)/len(correct_answer)
+
+        elif a < 0 and b < 0:
+            correct_answer = str(a + b)
+            soft_correct_totals[2, num_digits-1] += 1 - edit_distance_integers(a + b, answer)/len(correct_answer)
+
+        else:
+            correct_answer = str(a + b)
+            soft_correct_totals[1, num_digits-1] += 1 - edit_distance_integers(a + b, answer)/len(correct_answer)
+    
+    #calculate soft accuracy
+    soft_accuracy = soft_correct_totals*100/total
+    #plot the soft accuracies  but only use data points where the total > 40
+    plt.figure()
+    #both_positive_x_vals is a list of x values where total >= 40 for the case when both numbers are positive
+    both_positive_x_vals = np.where(total[0] >= 40)[0] + 1
+    both_positive_y_vals = soft_accuracy[0][total[0] >= 40]
+    #plt.plot(both_positive_x_vals, both_positive_y_vals, label="Both positive", color="green")
+    #plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    #one_negative_x_vals is a list of x values where total >= 40 for the case when one number is negative
+    one_negative_x_vals = np.where(total[1] >= 40)[0] + 1
+    one_negative_y_vals = soft_accuracy[1][total[1] >= 40]
+
+    #plt.plot(one_negative_x_vals, one_negative_y_vals, label="One positive, one negative", color="blue")
+    #plt.scatter(one_negative_x_vals, one_negative_y_vals, color="blue")
+
+    #both_negative_x_vals is a list of x values where total >= 40 for the case when both numbers are negative
+    both_negative_x_vals = np.where(total[2] >= 40)[0] + 1
+    both_negative_y_vals = soft_accuracy[2][total[2] >= 40]
+    #plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
+    #plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    # Apply moving average to y values
+    both_positive_y_vals_smooth = moving_average(both_positive_y_vals, 2)
+    one_negative_y_vals_smooth = moving_average(one_negative_y_vals, 2)
+    both_negative_y_vals_smooth = moving_average(both_negative_y_vals, 2)
+
+    # Adjust x values to match the length of the smoothed y values
+    both_positive_x_vals = both_positive_x_vals[:len(both_positive_y_vals_smooth)]
+    one_negative_x_vals = one_negative_x_vals[:len(one_negative_y_vals_smooth)]
+    both_negative_x_vals = both_negative_x_vals[:len(both_negative_y_vals_smooth)]
+
+    plt.plot(both_positive_x_vals, both_positive_y_vals_smooth, label="Both positive", color="green")
+    plt.plot(one_negative_x_vals, one_negative_y_vals_smooth, label="One positive, one negative", color="blue")
+    plt.plot(both_negative_x_vals, both_negative_y_vals_smooth, label="Both negative", color="red")
+
+    plt.xticks(np.arange(0, 61, 5))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Soft accuracy for integer addition")
+    plt.grid()
+
+    plt.xlabel('Number of digits')
+    plt.ylabel('Soft accuracy (%)')
+    plt.legend()
+    plt.savefig("./int_addition_plots/soft_accuracy_vs_digits.png")
 
 
 def plot_for_list_min(responses_path):
