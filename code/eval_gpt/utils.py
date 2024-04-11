@@ -20,3 +20,17 @@ def edit_distance_integers(a, b):
                 dp[i][j] = 1 + min(dp[i][j-1], dp[i-1][j], dp[i-1][j-1])
 
     return dp[m][n]
+
+
+def length_longest_nondecreasing_subsequence(nums):
+
+    n = len(nums)
+
+    dp = [1 for _ in range(n)]
+
+    for i in range(1, n):
+        for j in range(i):
+            if nums[i] >= nums[j]:
+                dp[i] = max(dp[i], 1 + dp[j])
+
+    return max(dp)

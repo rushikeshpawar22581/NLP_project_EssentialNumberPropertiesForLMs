@@ -3,7 +3,7 @@ import numpy as np
 import json
 import re
 import seaborn as sns
-from utils import edit_distance_integers
+from utils import edit_distance_integers, length_longest_nondecreasing_subsequence
 
 MAX_DIGITS = 60
 
@@ -548,6 +548,11 @@ def plot_for_list_sort(responses_path):
     correct_size_5 = np.zeros((2, max_num_digits))
     correct_size_10 = np.zeros((2, max_num_digits))
 
+    # soft accuracy is defined as length of longest non-decreasing subsequence/length of the list
+    soft_correct_3 = np.zeros((2, max_num_digits))
+    soft_correct_5 = np.zeros((2, max_num_digits))
+    soft_correct_10 = np.zeros((2, max_num_digits))
+
     total_size_3 = np.zeros((2, max_num_digits))
     total_size_5 = np.zeros((2, max_num_digits))
     total_size_10 = np.zeros((2, max_num_digits))
@@ -564,24 +569,34 @@ def plot_for_list_sort(responses_path):
 
             if check_sorted(list_):
                 correct_size_3[is_neg, n_digits-1] += 1
+
+            soft_correct_3[is_neg, n_digits-1] += length_longest_nondecreasing_subsequence(list_)/list_size
             total_size_3[is_neg, n_digits-1] += 1
         
         elif list_size == 5:
 
             if check_sorted(list_):
                 correct_size_5[is_neg, n_digits-1] += 1
+
+            soft_correct_5[is_neg, n_digits-1] += length_longest_nondecreasing_subsequence(list_)/list_size
             total_size_5[is_neg, n_digits-1] += 1
         
         else:
 
             if check_sorted(list_):
                 correct_size_10[is_neg, n_digits-1] += 1
+            
+            soft_correct_10[is_neg, n_digits-1] += length_longest_nondecreasing_subsequence(list_)/list_size
             total_size_10[is_neg, n_digits-1] += 1
             
 
     accuracies_size_3 = correct_size_3*100/total_size_3
     accuracies_size_5 = correct_size_5*100/total_size_5
     accuracies_size_10 = correct_size_10*100/total_size_10
+
+    soft_accuracies_size_3 = soft_correct_3*100/total_size_3
+    soft_accuracies_size_5 = soft_correct_5*100/total_size_5
+    soft_accuracies_size_10 = soft_correct_10*100/total_size_10
 
     #plot how the accuracy varies with the number of digits in the numbers. draw two curves, one for when all the numbers are positive, and one for when at least one number is negative. Show the points through scatter plot.
     #separate plots for each list size.
@@ -602,6 +617,23 @@ def plot_for_list_sort(responses_path):
         plt.legend()
         plt.grid()
         plt.savefig("./list_sort_plots/size" + str(size) + ".png")
+
+    for size, accuracies in zip([3, 5, 10], [soft_accuracies_size_3, soft_accuracies_size_5, soft_accuracies_size_10]):
+                
+        plt.figure()
+        x_range = np.arange(1, max_num_digits+1)
+        plt.plot(x_range, accuracies[0], label="All numbers are positive", color="green", linestyle=":", marker="+")
+        plt.scatter(x_range, accuracies[0], color="green")
+        plt.plot(x_range, accuracies[1], label="At least one number is negative", color="red", linestyle="--", marker="*")
+        plt.scatter(x_range, accuracies[1], color="red")
+
+        plt.xlabel("Number of digits in the numbers")
+        plt.ylabel("Soft accuracy (%)")
+        plt.xticks(x_range)
+        plt.title("GPT-3.5 Turbo: Soft accuracy for sorting a list of size " + str(size))
+        plt.legend()
+        plt.grid()
+        plt.savefig("./list_sort_plots/soft_accuracy_size" + str(size) + ".png")
 
 
 
