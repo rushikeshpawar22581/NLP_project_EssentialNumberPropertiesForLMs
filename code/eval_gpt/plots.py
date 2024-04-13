@@ -3,9 +3,11 @@ import numpy as np
 import json
 import re
 import seaborn as sns
+from word2number.w2n import word_to_num 
 from utils import edit_distance_integers, length_longest_nondecreasing_subsequence
 
 MAX_DIGITS = 60
+MAX_DIGITS_NUMERATION = 7
 
 def plot_for_int_addition(responses_path1, responses_path2):
 
@@ -636,9 +638,236 @@ def plot_for_list_sort(responses_path):
         plt.savefig("./list_sort_plots/soft_accuracy_size" + str(size) + ".png")
 
 
+def plot_numeration_int_addition_df(responses_path):
+
+    def get_num_digits(num):
+        return len(str(num).replace('-',''))
+
+    def word2num(word):
+        # strip spaces
+        word = word.strip()
+        # remove commas
+        word = word.replace(',','')
+        # get sign
+        sign = word.startswith('minus')
+        num = ((-1)**sign)* word_to_num(word)
+        return num
+    
+    def is_correct(a,b,sum):
+        return a+b == sum
+    
+    with open(responses_path, "r") as f:
+        responses = f.readlines()
+    
+    correct_df = np.zeros((3, 2, MAX_DIGITS_NUMERATION)) # 3 -> one for case when both numbers are positive, one for case when one number is negative, one for case when both numbers are negative. 2 -> when one of the numbers is in word form, when both numbers are in word form
+    total_df = np.zeros((3, 2, MAX_DIGITS_NUMERATION))
+
+    # a lot of responses have the format num_digit_form + num_digit_form = num_digit_form
+    #remove them after matching with regex
+    responses_filtered = []
+
+    for response in responses:
+        match = re.search(r'([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)', response)
+        if match:
+            continue
+        responses_filtered.append(response)
+    
+    for response in responses_filtered:
+
+        #format 1. Format is '8971 + three thousand, seven hundred and thirty-four = 12705'.
+        match = re.search(r'([-+]?\d+) \+ ([a-zA-Z, -]+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, answer = int(a), int(answer)
+            b = word2num(b)
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 0, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 0, num_digits-1] += 1
+            else:
+                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 0, num_digits-1] += 1
+            continue
+
+        #format 2. Format is 'one thousand, one hundred and forty-five + 1510 = 2655'.
+        match = re.search(r'([a-zA-Z, -]+) \+ ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = word2num(a), int(b), int(answer)
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 0, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 0, num_digits-1] += 1
+            else:
+                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 0, num_digits-1] += 1
+            continue
+
+        #format 3. Format is 'one thousand, one hundred and forty-five + three thousand, seven hundred and thirty-four = 4879'.
+        match = re.search(r'([a-zA-Z, -]+) \+ ([a-zA-Z, -]+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = word2num(a), word2num(b), int(answer)
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 0, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 0, num_digits-1] += 1
+            else:
+                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 0, num_digits-1] += 1
+            continue
+
+    
+    #plot the accuracy for each case
+    plt.figure(figsize=(8, 6))
+
+    both_positive_x_vals = np.where(total_df[0, 0] > 0)[0] + 1
+    both_positive_y_vals = correct_df[0, 0][total_df[0, 0] > 0]*100/total_df[0, 0][total_df[0, 0] > 0]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, linestyle='--', color='green', label='Both positive')
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    one_negative_x_vals = np.where(total_df[1, 0] > 0)[0] + 1
+    one_negative_y_vals = correct_df[1, 0][total_df[1, 0] > 0]*100/total_df[1, 0][total_df[1, 0] > 0]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative')
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
+
+    both_negative_x_vals = np.where(total_df[2, 0] > 0)[0] + 1
+    both_negative_y_vals = correct_df[2, 0][total_df[2, 0] > 0]*100/total_df[2, 0][total_df[2, 0] > 0]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, linestyle='--', color='red', label='Both negative')
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    plt.xticks(np.arange(1, 7))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Accuracy for post-numeration integer addition (output - digits)")
+    plt.grid()
+
+    plt.xlabel('Number of digits')
+    plt.ylabel('Accuracy (%)')
+    plt.legend()
+    plt.savefig("./int_addition_plots/accuracy_vs_digits_numeration.png")
+
+
+def plot_numeration_int_addition_wf(responses_path):
+
+    def get_num_digits(num):
+        return len(str(num).replace('-',''))
+
+    def word2num(word):
+        word = word.strip()
+        word = word.replace(',','')
+        sign = word.startswith('minus')
+        num = ((-1)**sign)* word_to_num(word)
+        return num
+    
+    def is_correct(a,b,sum):
+        return a+b == sum
+    
+    with open(responses_path, "r") as f:
+        responses = f.readlines()
+    
+    correct_df = np.zeros((3, 2, MAX_DIGITS_NUMERATION))
+    total_df = np.zeros((3, 2, MAX_DIGITS_NUMERATION))
+    
+    for response in responses:
+
+        match = re.search(r'([-+]?\d+) \+ ([a-zA-Z, -]+) = ([a-zA-Z, -]+)$', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, answer = int(a), word2num(answer)
+            b = word2num(b)
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 1, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 1, num_digits-1] += 1
+            else:
+                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 1, num_digits-1] += 1
+            continue
+
+        match = re.search(r'([a-zA-Z, -]+) \+ ([-+]?\d+) = ([a-zA-Z, -]+)$', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = word2num(a), int(b), word2num(answer)
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 1, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 1, num_digits-1] += 1
+            else:
+                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 1, num_digits-1] += 1
+            continue
+
+        match = re.search(r'([a-zA-Z, -]+) \+ ([a-zA-Z, -]+) = ([a-zA-Z, -]+)$', response)
+
+        if match:
+            a, b, answer = match.groups()
+            a, b, answer = word2num(a), word2num(b), word2num(answer)
+
+            num_digits = get_num_digits(a)
+            if a >= 0 and b >= 0:
+                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 1, num_digits-1] += 1
+            elif a < 0 and b < 0:
+                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 1, num_digits-1] += 1
+            else:
+                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 1, num_digits-1] += 1
+            continue
+
+    plt.figure(figsize=(8, 6))
+
+    both_positive_x_vals = np.where(total_df[0, 1] > 0)[0] + 1
+    both_positive_y_vals = correct_df[0, 1][total_df[0, 1] > 0]*100/total_df[0, 1][total_df[0, 1] > 0]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, linestyle='--', color='green', label='Both positive')
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    one_negative_x_vals = np.where(total_df[1, 1] > 0)[0] + 1
+    one_negative_y_vals = correct_df[1, 1][total_df[1, 1] > 0]*100/total_df[1, 1][total_df[1, 1] > 0]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative')
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
+
+    both_negative_x_vals = np.where(total_df[2, 1] > 0)[0] + 1
+    both_negative_y_vals = correct_df[2, 1][total_df[2, 1] > 0]*100/total_df[2, 1][total_df[2, 1] > 0]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, linestyle='--', color='red', label='Both negative')
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    plt.xticks(np.arange(1, 8))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Accuracy for post-numeration integer addition (output - words)")
+    plt.grid()
+
+    plt.xlabel('Number of digits')
+    plt.ylabel('Accuracy (%)')
+    plt.legend()
+    plt.savefig("./int_addition_plots/accuracy_vs_digits_numeration_words.png")
+
+
 
 if __name__ == "__main__":
-    plot_for_int_addition("./int_addition_responses.txt", "./int_addition_responses1.txt")
-    plot_for_list_min("./list_min_responses.txt")
-    plot_for_list_max("./list_max_responses.txt")
-    plot_for_list_sort("./list_sort_responses.txt")
+    #plot_for_int_addition("./int_addition_responses.txt", "./int_addition_responses1.txt")
+    #plot_for_list_min("./list_min_responses.txt")
+    #plot_for_list_max("./list_max_responses.txt")
+    #plot_for_list_sort("./list_sort_responses.txt")
+    plot_numeration_int_addition_df("./numeration_int_addn_responses_df.txt")
+    plot_numeration_int_addition_wf("./numeration_int_addn_responses_wf.txt")
