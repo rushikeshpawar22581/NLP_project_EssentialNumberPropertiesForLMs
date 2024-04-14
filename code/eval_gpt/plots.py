@@ -324,6 +324,92 @@ def plot_for_int_addition(responses_path1, responses_path2):
     plt.savefig("./int_addition_plots/soft_accuracy_vs_digits.png")
 
 
+def plot_diff_order_int_addition_results(responses_path):
+
+    with open(responses_path, "r") as f:
+        responses = f.readlines()
+    
+    #all the responses are of the format '2 + 3 = 5'
+    
+    #extract the numbers and the sum
+    triplets = []
+
+    max_digits = 1 #default
+
+    for response in responses:
+        match = re.search(r'([-+]?\d+) \+ ([-+]?\d+) = ([-+]?\d+)', response)
+
+        if match:
+            a, b, sum_ = match.groups()
+            a, b, sum_ = int(a), int(b), int(sum_)
+            max_digits = max(max_digits, len(str(abs(a))), len(str(abs(b))))
+            triplets.append((a, b, sum_))
+
+    correct = np.zeros((3, max_digits)) # 3 -> one for case when both numbers are positive, one for case when one number is negative, one for case when both numbers are negative
+    total = np.zeros((3, max_digits))
+    
+
+    def is_correct(a, b, answer):
+        return a+b == answer
+
+    def get_num_digits(num):
+        return len(str(num).replace("-", ""))
+    
+    for a, b, answer in triplets:
+
+        num_digits = get_num_digits(a)
+
+        if a >= 0 and b >= 0:
+            correct[0, num_digits-1] += is_correct(a, b, answer)
+            total[0, num_digits-1] += 1
+
+        elif a < 0 and b < 0:
+            correct[2, num_digits-1] += is_correct(a, b, answer)
+            total[2, num_digits-1] += 1
+
+        else:
+            correct[1, num_digits-1] += is_correct(a, b, answer)
+            total[1, num_digits-1] += 1
+
+    #strike off the cases where total < 40
+    strike_off = total < 40
+
+    correct[strike_off] = 0
+    total[strike_off] = 1
+
+    accuracy = correct*100/total
+
+    #make a simple plot, include all the three cases. Only include those data points where total > 40.
+    plt.figure()
+    #both_positive_x_vals is a list of x values where total >= 40 for the case when both numbers are positive
+    both_positive_x_vals = np.where(total[0] >= 40)[0] + 1
+    both_positive_y_vals = accuracy[0][total[0] >= 40]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, label="Both positive", color="green")
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    #one_negative_x_vals is a list of x values where total >= 40 for the case when one number is negative
+    one_negative_x_vals = np.where(total[1] >= 40)[0] + 1
+    one_negative_y_vals = accuracy[1][total[1] >= 40]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, label="One positive, one negative", color="blue")
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="blue")
+
+    #both_negative_x_vals is a list of x values where total >= 40 for the case when both numbers are negative
+    both_negative_x_vals = np.where(total[2] >= 40)[0] + 1
+    both_negative_y_vals = accuracy[2][total[2] >= 40]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    plt.xticks(np.arange(0, max_digits+1, 1))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Accuracy for different order integer addition")
+    plt.grid()
+    plt.xlabel('Number of digits in the larger number')
+    plt.ylabel('Accuracy (%)')
+    plt.legend()
+    plt.savefig("./int_addition_plots/accuracy_vs_digits_diff_order.png")
+
+
+
 def plot_for_list_min(responses_path):
 
     with open(responses_path, "r") as f:
@@ -863,11 +949,131 @@ def plot_numeration_int_addition_wf(responses_path):
     plt.savefig("./int_addition_plots/accuracy_vs_digits_numeration_words.png")
 
 
+def plot_div_accuracy(responses_path, sig_figs=4):
+
+    #for responses accurate to 4 decimal places
+    with open(responses_path, "r") as f:
+        responses = f.readlines()
+    
+    def is_correct(a, b, ans, sig_figs):
+        return round(a/b, sig_figs) == ans
+
+    def rel_error(a, b, ans, sig_figs):
+        true_ans = round(a/b, sig_figs)
+        return abs(true_ans - ans)/true_ans
+    
+    triplets = []
+
+    max_digits = 1 #default
+
+    for response in responses:
+        match = re.search(r'([-+]?\d+\.\d+) \/ ([-+]?\d+\.\d+) = ([-+]?\d+\.\d+)', response)
+
+        if match:
+            a, b, div = match.groups()
+            a, b, div = float(a), float(b), float(div)
+            triplets.append((a, b, div))
+            max_digits = max(max_digits, len(str(abs(a))), len(str(abs(b))))
+    
+    correct = np.zeros((3, max_digits)) # 3 -> one for case when both numbers are positive, one for case when one number is negative, one for case when both numbers are negative
+    total = np.zeros((3, max_digits))
+    rel_errors = np.zeros((3, max_digits))
+
+    for a, b, div in triplets:
+            
+        num_digits = len(str(int(a)))
+
+        if a >= 0 and b >= 0:
+            correct[0, num_digits-1] += is_correct(a, b, div, sig_figs)
+            total[0, num_digits-1] += 1
+            rel_errors[0, num_digits-1] += rel_error(a, b, div, sig_figs)
+
+        elif a < 0 and b < 0:
+            correct[2, num_digits-1] += is_correct(a, b, div, sig_figs)
+            total[2, num_digits-1] += 1
+            rel_errors[2, num_digits-1] += rel_error(a, b, div, sig_figs)
+        
+        else:
+            correct[1, num_digits-1] += is_correct(a, b, div, sig_figs)
+            total[1, num_digits-1] += 1
+            rel_errors[1, num_digits-1] += rel_error(a, b, div, sig_figs)
+    
+    #plot the accuracy for each case
+    plt.figure()
+    #both_positive_x_vals is a list of x values where total >= 40 for the case when both numbers are positive
+    both_positive_x_vals = np.where(total[0] >= 40)[0] + 1
+    both_positive_y_vals = correct[0][total[0] >= 40]*100/total[0][total[0] >= 40]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, label="Both positive", color="green")
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    #one_negative_x_vals is a list of x values where total >= 40 for the case when one number is negative
+    one_negative_x_vals = np.where(total[1] >= 40)[0] + 1
+    one_negative_y_vals = correct[1][total[1] >= 40]*100/total[1][total[1] >= 40]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, label="One positive, one negative", color="blue")
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="blue")
+
+    #both_negative_x_vals is a list of x values where total >= 40 for the case when both numbers are negative
+    both_negative_x_vals = np.where(total[2] >= 40)[0] + 1
+    both_negative_y_vals = correct[2][total[2] >= 40]*100/total[2][total[2] >= 40]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    plt.xticks(np.arange(1, max_digits+1, 1))
+    plt.yticks(np.arange(0, 101, 20))
+    plt.title("GPT-3.5 Turbo: Accuracy for division (precision={})".format(sig_figs))
+    plt.grid()
+    plt.xlabel('Number of digits in the larger number')
+    plt.ylabel('Accuracy (%)')
+    plt.legend()
+    plt.savefig("./division_plots/accuracy_vs_digits_precision{}.png".format(sig_figs))
+
+    #plot the relative errors for each case
+    plt.figure()
+    #both_positive_x_vals is a list of x values where total >= 40 for the case when both numbers are positive
+    both_positive_x_vals = np.where(total[0] >= 40)[0] + 1
+    both_positive_y_vals = rel_errors[0][total[0] >= 40]*100/total[0][total[0] >= 40]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, label="Both positive", color="green")
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    #one_negative_x_vals is a list of x values where total >= 40 for the case when one number is negative
+    one_negative_x_vals = np.where(total[1] >= 40)[0] + 1
+    one_negative_y_vals = rel_errors[1][total[1] >= 40]*100/total[1][total[1] >= 40]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, label="One positive, one negative", color="blue")
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="blue")
+
+    #both_negative_x_vals is a list of x values where total >= 40 for the case when both numbers are negative
+    both_negative_x_vals = np.where(total[2] >= 40)[0] + 1
+    both_negative_y_vals = rel_errors[2][total[2] >= 40]*100/total[2][total[2] >= 40]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, label="Both negative", color="red")
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    plt.xticks(np.arange(1, max_digits+1, 1))
+    plt.title("GPT-3.5 Turbo: Relative error for division (precision={})".format(sig_figs))
+    plt.grid()
+    plt.xlabel('Number of digits in the larger number')
+    plt.ylabel('Relative error (%)')
+    plt.legend()
+    plt.savefig("./division_plots/relative_error_vs_digits_precision{}.png".format(sig_figs))
+
+
+
+
+
+    
+
+
+
+
+
 
 if __name__ == "__main__":
     #plot_for_int_addition("./int_addition_responses.txt", "./int_addition_responses1.txt")
     #plot_for_list_min("./list_min_responses.txt")
     #plot_for_list_max("./list_max_responses.txt")
     #plot_for_list_sort("./list_sort_responses.txt")
-    plot_numeration_int_addition_df("./numeration_int_addn_responses_df.txt")
-    plot_numeration_int_addition_wf("./numeration_int_addn_responses_wf.txt")
+    #plot_numeration_int_addition_df("./numeration_int_addn_responses_df.txt")
+    #plot_numeration_int_addition_wf("./numeration_int_addn_responses_wf.txt")
+    #plot_diff_order_int_addition_results("./diff_order_int_addition_responses.txt")
+    plot_div_accuracy("./division_responses4.txt", sig_figs=4)
+    plot_div_accuracy("./division_responses8.txt", sig_figs=8)
+    plot_div_accuracy("./division_responses12.txt", sig_figs=12)
