@@ -118,92 +118,90 @@ def plot_acc_vs_number(responses_array, primes, composites, title, path):
 
 
 
-
-
-#read in the data
-with open("../../data/primality_test.json", "r") as f:
-    data = json.load(f)
-
-primes = set(data["primes"])
-composites = set(data["composites"])
-
-#read in the responses when we had asked if the number is prime
-responses = []
-with open("./primality_responses_ask_if_prime.txt", "r") as f:
-    for line in f:
-        responses.append(line.strip())
-
-responses_array_prime = []
-
-for response in responses:
-    #each response is of the format 54631:No
-    num, resp = response.split(":")
-    num = int(num)
-    resp = resp.strip()
-    if resp == "Yes":
-        resp = 1
-    else:
-        resp = 0
-    responses_array_prime.append([num, resp])
-
-responses_array_prime = np.array(responses_array_prime)
-
-y_true_prime = []
-y_pred_prime = []
-
-for response in responses_array_prime:
-    num = response[0]
-
-    if num in primes:
-        y_true_prime.append(1)
-        y_pred_prime.append(response[1])
-    elif num in composites: #need to check for it as model may have returned a response for a number that we did not even ask it to classify.
-        y_true_prime.append(0)
-        y_pred_prime.append(response[1])
-
-#read in the responses when we had asked if the number is composite
-responses = []
-with open("./primality_responses_ask_if_composite.txt", "r") as f:
-    for line in f:
-        responses.append(line.strip())
-
-responses_array_composite = []
-
-for response in responses:
-    #each response is of the format 54631:No
-    num, resp = response.split(":")
-    num = int(num)
-    resp = resp.strip()
-    if resp == "Yes":
-        resp = 0
-    else:
-        resp = 1
-    responses_array_composite.append([num, resp])
-
-responses_array_composite = np.array(responses_array_composite)
-
-y_true_composite = []
-y_pred_composite = []
-
-for response in responses_array_composite:
-    num = response[0]
-
-    if num in composites:
-        y_true_composite.append(0)
-        y_pred_composite.append(response[1])
-    elif num in primes: #need to check for it as model may have returned a response for a number that we did not even ask it to classify.
-        y_true_composite.append(1)
-        y_pred_composite.append(response[1])
-
-plot_cm_primality(y_true_prime, y_pred_prime, "Confusion Matrix when asking if the number is prime", "./primality_plots/cm_prime.png")
-plot_cm_primality(y_true_composite, y_pred_composite, "Confusion Matrix when asking if the number is composite", "./primality_plots/cm_composite.png")
-#plot_acc_with_digits(responses_array_prime, primes, composites, "Accuracy as a function of number of digits when asking if the number is prime", "./primality_plots/acc_prime.png")
-#plot_acc_with_digits(responses_array_composite, primes, composites, "Accuracy as a function of number of digits when asking if the number is composite", "./primality_plots/acc_composite.png")
-plot_acc_vs_number(responses_array_prime, primes, composites, "Accuracy vs size of number when asking if the number is prime", "./primality_plots/acc_vs_num_prime.png")
-plot_acc_vs_number(responses_array_composite, primes, composites, "Accuracy vs size of number when asking if the number is composite", "./primality_plots/acc_vs_num_composite.png")
-
-
 if __name__ == "__main__":
+
+    #read in the data
+    with open("../../data/primality_test.json", "r") as f:
+        data = json.load(f)
+
+    primes = set(data["primes"])
+    composites = set(data["composites"])
+
+    #read in the responses when we had asked if the number is prime
+    responses = []
+    with open("./primality_responses_ask_if_prime.txt", "r") as f:
+        for line in f:
+            responses.append(line.strip())
+
+    responses_array_prime = []
+
+    for response in responses:
+        #each response is of the format 54631:No
+        num, resp = response.split(":")
+        num = int(num)
+        resp = resp.strip()
+        if resp == "Yes":
+            resp = 1
+        else:
+            resp = 0
+        responses_array_prime.append([num, resp])
+
+    responses_array_prime = np.array(responses_array_prime)
+
+    y_true_prime = []
+    y_pred_prime = []
+
+    for response in responses_array_prime:
+        num = response[0]
+
+        if num in primes:
+            y_true_prime.append(1)
+            y_pred_prime.append(response[1])
+        elif num in composites: #need to check for it as model may have returned a response for a number that we did not even ask it to classify.
+            y_true_prime.append(0)
+            y_pred_prime.append(response[1])
+
+    #read in the responses when we had asked if the number is composite
+    responses = []
+    with open("./primality_responses_ask_if_composite.txt", "r") as f:
+        for line in f:
+            responses.append(line.strip())
+
+    responses_array_composite = []
+
+    for response in responses:
+        #each response is of the format 54631:No
+        num, resp = response.split(":")
+        num = int(num)
+        resp = resp.strip()
+        if resp == "Yes":
+            resp = 0
+        else:
+            resp = 1
+        responses_array_composite.append([num, resp])
+
+    responses_array_composite = np.array(responses_array_composite)
+
+    y_true_composite = []
+    y_pred_composite = []
+
+    for response in responses_array_composite:
+        num = response[0]
+
+        if num in composites:
+            y_true_composite.append(0)
+            y_pred_composite.append(response[1])
+        elif num in primes: #need to check for it as model may have returned a response for a number that we did not even ask it to classify.
+            y_true_composite.append(1)
+            y_pred_composite.append(response[1])
+
+    plot_cm_primality(y_true_prime, y_pred_prime, "Confusion Matrix when asking if the number is prime", "./primality_plots/cm_prime.png")
+    plot_cm_primality(y_true_composite, y_pred_composite, "Confusion Matrix when asking if the number is composite", "./primality_plots/cm_composite.png")
+    #plot_acc_with_digits(responses_array_prime, primes, composites, "Accuracy as a function of number of digits when asking if the number is prime", "./primality_plots/acc_prime.png")
+    #plot_acc_with_digits(responses_array_composite, primes, composites, "Accuracy as a function of number of digits when asking if the number is composite", "./primality_plots/acc_composite.png")
+    plot_acc_vs_number(responses_array_prime, primes, composites, "Accuracy vs size of number when asking if the number is prime", "./primality_plots/acc_vs_num_prime.png")
+    plot_acc_vs_number(responses_array_composite, primes, composites, "Accuracy vs size of number when asking if the number is composite", "./primality_plots/acc_vs_num_composite.png")
+
     #Now dealing with factor responses
 
     #read in the responses
