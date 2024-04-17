@@ -28,7 +28,7 @@ random.seed(42)
 random.shuffle(combined)
 
 batch_prompts = []
-batch_size = 200
+batch_size = 100
 
 index = 0
 
@@ -52,8 +52,8 @@ for _, batch_prompt in enumerate(batch_prompts):
     num_prompts = len(batch_prompt)
 
     response = client.chat.completions.create(model="gpt-3.5-turbo", messages=
-            [{"role": "user", "content": "You are a math assistant. I will ask you some questions. Please answer in the correct format. For example, if I ask 'What are the factors of 15?', you should answer 'Factors of 15 are [1, 3, 5, 15]'. Each question is in a separate line. Please return each answer in a separate line."},
-            {"role" : "user", "content" : "".join([f"What are the factors of {prompt}?\n" for prompt in batch_prompt])}])
+            [{"role": "user", "content": "You are a math assistant. I will ask you some questions. Please answer in the correct format. For example, if I ask 'List the factors of 15?', you should answer 'Factors of 15 are [1, 3, 5, 15]'. Each question is in a separate line. Please return each answer in a separate line."},
+            {"role" : "user", "content" : "".join([f"List the factors of {prompt}?\n" for prompt in batch_prompt])}])
 
     responses = response.choices[0].message.content.split("\n")
 
