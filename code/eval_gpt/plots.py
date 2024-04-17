@@ -179,13 +179,6 @@ def plot_for_int_addition(responses_path1, responses_path2):
             correct[1, num_digits-1] += is_correct(a, b, answer)
             total[1, num_digits-1] += 1
 
-    
-    #strike off the cases where total < 40
-    strike_off = total < 40
-
-    correct[strike_off] = 0
-    total[strike_off] = 1
-
     accuracy = correct*100/total
 
     """
