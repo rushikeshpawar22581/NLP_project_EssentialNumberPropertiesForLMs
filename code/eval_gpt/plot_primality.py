@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 import re
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, f1_score, accuracy_score, precision_score, recall_score
 
 def plot_cm_primality(y_true, y_pred, title, path):
     
@@ -102,7 +102,7 @@ def plot_acc_vs_number(responses_array, primes, composites, title, path):
         acc[i] = correct_sum * 100/total_sum
     
     #make a bar plot
-    plt.figure(figsize=(8, 6))
+    plt.figure(figsize=(8, 8))
     plt.bar(range(1, 21), acc, tick_label=[f"{bins[i]}-{bins[i+1]}" for i in range(20)], color='orange')
     plt.xlabel("Number")
     plt.ylabel("Accuracy (%)")
@@ -195,6 +195,17 @@ if __name__ == "__main__":
             y_true_composite.append(1)
             y_pred_composite.append(response[1])
 
+    print("For ask prime, the accuracy, precision, recall and f1 score are:")
+    print("Accuracy:", accuracy_score(y_true_prime, y_pred_prime))
+    print("Precision:", precision_score(y_true_prime, y_pred_prime))
+    print("Recall:", recall_score(y_true_prime, y_pred_prime))
+    print("F1 Score:", f1_score(y_true_prime, y_pred_prime))
+
+    print("For ask composite, the accuracy, precision, recall and f1 score are:")
+    print("Accuracy:", accuracy_score(y_true_composite, y_pred_composite))
+    print("Precision:", precision_score(y_true_composite, y_pred_composite))
+    print("Recall:", recall_score(y_true_composite, y_pred_composite))
+    print("F1 Score:", f1_score(y_true_composite, y_pred_composite))
     plot_cm_primality(y_true_prime, y_pred_prime, "Confusion Matrix when asking if the number is prime", "./primality_plots/cm_prime.png")
     plot_cm_primality(y_true_composite, y_pred_composite, "Confusion Matrix when asking if the number is composite", "./primality_plots/cm_composite.png")
     #plot_acc_with_digits(responses_array_prime, primes, composites, "Accuracy as a function of number of digits when asking if the number is prime", "./primality_plots/acc_prime.png")
@@ -249,12 +260,13 @@ if __name__ == "__main__":
         else:
             y_pred_factors.append(0)
         
+        """
         if y_pred_factors[-1] != y_true_factors[-1]:
             print("Number:", num)
             print("Factors:", factors)
             print("True:", y_true_factors[-1])
             print("Predicted:", y_pred_factors[-1])
-            print("\n\n")
+            print("\n\n")"""
 
     #count the toal number of primes and composites
     num_primes = 0
@@ -279,6 +291,7 @@ if __name__ == "__main__":
 
 
     plot_cm_primality(y_true_factors, y_pred_factors, "Confusion Matrix when deducing primality from factors", "./primality_plots/cm_factors.png")
+    
 
         
         

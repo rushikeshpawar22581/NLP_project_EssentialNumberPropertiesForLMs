@@ -53,7 +53,7 @@ for _, batch_prompt in enumerate(batch_prompts):
 
     response = client.chat.completions.create(model="gpt-3.5-turbo", messages=
             [{"role": "user", "content": "You are a math assistant. I will ask you some questions. Please answer in the correct format. For example, if I ask 'List the factors of 15?', you should answer 'Factors of 15 are [1, 3, 5, 15]'. Each question is in a separate line. Please return each answer in a separate line."},
-            {"role" : "user", "content" : "".join([f"List the factors of {prompt}?\n" for prompt in batch_prompt])}])
+            {"role" : "user", "content" : "".join([f"List the factors of {prompt}.\n" for prompt in batch_prompt])}])
 
     responses = response.choices[0].message.content.split("\n")
 

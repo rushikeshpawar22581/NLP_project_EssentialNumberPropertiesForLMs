@@ -798,33 +798,50 @@ def plot_numeration_int_addition_df(responses_path):
             a, b, answer = word2num(a), word2num(b), int(answer)
             num_digits = get_num_digits(a)
             if a >= 0 and b >= 0:
-                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
-                total_df[0, 0, num_digits-1] += 1
+                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 1, num_digits-1] += 1
             elif a < 0 and b < 0:
-                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
-                total_df[2, 0, num_digits-1] += 1
+                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 1, num_digits-1] += 1
             else:
-                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
-                total_df[1, 0, num_digits-1] += 1
+                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 1, num_digits-1] += 1
             continue
 
     
     #plot the accuracy for each case
     plt.figure(figsize=(8, 6))
 
+    # plot for cases where one number is in word form
     both_positive_x_vals = np.where(total_df[0, 0] > 0)[0] + 1
     both_positive_y_vals = correct_df[0, 0][total_df[0, 0] > 0]*100/total_df[0, 0][total_df[0, 0] > 0]
-    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, linestyle='--', color='green', label='Both positive')
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, color='green', label='Both positive dw')
     plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
 
     one_negative_x_vals = np.where(total_df[1, 0] > 0)[0] + 1
     one_negative_y_vals = correct_df[1, 0][total_df[1, 0] > 0]*100/total_df[1, 0][total_df[1, 0] > 0]
-    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative')
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, color='#1f77b4', label='One positive, one negative dw')
     plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
 
     both_negative_x_vals = np.where(total_df[2, 0] > 0)[0] + 1
     both_negative_y_vals = correct_df[2, 0][total_df[2, 0] > 0]*100/total_df[2, 0][total_df[2, 0] > 0]
-    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, linestyle='--', color='red', label='Both negative')
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, color='red', label='Both negative dw')
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    # plot for cases where both numbers are in word form
+    both_positive_x_vals = np.where(total_df[0, 1] > 0)[0] + 1
+    both_positive_y_vals = correct_df[0, 1][total_df[0, 1] > 0]*100/total_df[0, 1][total_df[0, 1] > 0]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='x', ms=3, linestyle='--', color='green', label='Both positive ww')
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    one_negative_x_vals = np.where(total_df[1, 1] > 0)[0] + 1
+    one_negative_y_vals = correct_df[1, 1][total_df[1, 1] > 0]*100/total_df[1, 1][total_df[1, 1] > 0]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='x', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative ww')
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
+
+    both_negative_x_vals = np.where(total_df[2, 1] > 0)[0] + 1
+    both_negative_y_vals = correct_df[2, 1][total_df[2, 1] > 0]*100/total_df[2, 1][total_df[2, 1] > 0]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='x', ms=3, linestyle='--', color='red', label='Both negative ww')
     plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
 
     plt.xticks(np.arange(1, 7))
@@ -869,14 +886,14 @@ def plot_numeration_int_addition_wf(responses_path):
             b = word2num(b)
             num_digits = get_num_digits(a)
             if a >= 0 and b >= 0:
-                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[0, 1, num_digits-1] += 1
+                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 0, num_digits-1] += 1
             elif a < 0 and b < 0:
-                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[2, 1, num_digits-1] += 1
+                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 0, num_digits-1] += 1
             else:
-                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[1, 1, num_digits-1] += 1
+                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 0, num_digits-1] += 1
             continue
 
         match = re.search(r'([a-zA-Z, -]+) \+ ([-+]?\d+) = ([a-zA-Z, -]+)$', response)
@@ -886,14 +903,14 @@ def plot_numeration_int_addition_wf(responses_path):
             a, b, answer = word2num(a), int(b), word2num(answer)
             num_digits = get_num_digits(a)
             if a >= 0 and b >= 0:
-                correct_df[0, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[0, 1, num_digits-1] += 1
+                correct_df[0, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[0, 0, num_digits-1] += 1
             elif a < 0 and b < 0:
-                correct_df[2, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[2, 1, num_digits-1] += 1
+                correct_df[2, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[2, 0, num_digits-1] += 1
             else:
-                correct_df[1, 1, num_digits-1] += is_correct(a, b, answer)
-                total_df[1, 1, num_digits-1] += 1
+                correct_df[1, 0, num_digits-1] += is_correct(a, b, answer)
+                total_df[1, 0, num_digits-1] += 1
             continue
 
         match = re.search(r'([a-zA-Z, -]+) \+ ([a-zA-Z, -]+) = ([a-zA-Z, -]+)$', response)
@@ -914,21 +931,42 @@ def plot_numeration_int_addition_wf(responses_path):
                 total_df[1, 1, num_digits-1] += 1
             continue
 
+    #plot the accuracy for each case
     plt.figure(figsize=(8, 6))
 
+    # plot for cases where one number is in word form
+    both_positive_x_vals = np.where(total_df[0, 0] > 0)[0] + 1
+    both_positive_y_vals = correct_df[0, 0][total_df[0, 0] > 0]*100/total_df[0, 0][total_df[0, 0] > 0]
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, color='green', label='Both positive dw')
+    plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
+
+    one_negative_x_vals = np.where(total_df[1, 0] > 0)[0] + 1
+    one_negative_y_vals = correct_df[1, 0][total_df[1, 0] > 0]*100/total_df[1, 0][total_df[1, 0] > 0]
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, color='#1f77b4', label='One positive, one negative dw')
+    plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
+
+    both_negative_x_vals = np.where(total_df[2, 0] > 0)[0] + 1
+    both_negative_y_vals = correct_df[2, 0][total_df[2, 0] > 0]*100/total_df[2, 0][total_df[2, 0] > 0]
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, color='red', label='Both negative dw')
+    plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
+
+    # plot for cases where both numbers are in word form
     both_positive_x_vals = np.where(total_df[0, 1] > 0)[0] + 1
     both_positive_y_vals = correct_df[0, 1][total_df[0, 1] > 0]*100/total_df[0, 1][total_df[0, 1] > 0]
-    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='o', ms=3, linestyle='--', color='green', label='Both positive')
+    print("In both positive ww (digits): ", both_positive_x_vals, both_positive_y_vals)
+    plt.plot(both_positive_x_vals, both_positive_y_vals, marker='x', ms=3, linestyle='--', color='green', label='Both positive ww')
     plt.scatter(both_positive_x_vals, both_positive_y_vals, color="green")
 
     one_negative_x_vals = np.where(total_df[1, 1] > 0)[0] + 1
     one_negative_y_vals = correct_df[1, 1][total_df[1, 1] > 0]*100/total_df[1, 1][total_df[1, 1] > 0]
-    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='o', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative')
+    print("In one positive, one negative ww (digits): ", one_negative_x_vals, one_negative_y_vals)
+    plt.plot(one_negative_x_vals, one_negative_y_vals, marker='x', ms=3, linestyle='--', color='#1f77b4', label='One positive, one negative ww')
     plt.scatter(one_negative_x_vals, one_negative_y_vals, color="#1f77b4")
 
     both_negative_x_vals = np.where(total_df[2, 1] > 0)[0] + 1
     both_negative_y_vals = correct_df[2, 1][total_df[2, 1] > 0]*100/total_df[2, 1][total_df[2, 1] > 0]
-    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='o', ms=3, linestyle='--', color='red', label='Both negative')
+    print("In both negative ww (digits): ", both_negative_x_vals, both_negative_y_vals)
+    plt.plot(both_negative_x_vals, both_negative_y_vals, marker='x', ms=3, linestyle='--', color='red', label='Both negative ww')
     plt.scatter(both_negative_x_vals, both_negative_y_vals, color="red")
 
     plt.xticks(np.arange(1, 8))
@@ -1064,9 +1102,9 @@ if __name__ == "__main__":
     #plot_for_list_min("./list_min_responses.txt")
     #plot_for_list_max("./list_max_responses.txt")
     #plot_for_list_sort("./list_sort_responses.txt")
-    #plot_numeration_int_addition_df("./numeration_int_addn_responses_df.txt")
-    #plot_numeration_int_addition_wf("./numeration_int_addn_responses_wf.txt")
+    plot_numeration_int_addition_df("./numeration_int_addn_responses_df.txt")
+    plot_numeration_int_addition_wf("./numeration_int_addn_responses_wf.txt")
     #plot_diff_order_int_addition_results("./diff_order_int_addition_responses.txt")
-    plot_div_accuracy("./division_responses4.txt", sig_figs=4)
-    plot_div_accuracy("./division_responses8.txt", sig_figs=8)
-    plot_div_accuracy("./division_responses12.txt", sig_figs=12)
+    #plot_div_accuracy("./division_responses4.txt", sig_figs=4)
+    #plot_div_accuracy("./division_responses8.txt", sig_figs=8)
+    #plot_div_accuracy("./division_responses12.txt", sig_figs=12)
