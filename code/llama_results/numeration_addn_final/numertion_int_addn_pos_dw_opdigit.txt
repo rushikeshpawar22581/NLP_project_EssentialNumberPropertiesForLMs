@@ -1,0 +1,1000 @@
+0 + zero =  answer=0 
+0 + one =  answer=1 
+0 + two =  answer=2 
+zero + 3 =  answer=3 
+zero + 4 =  answer=4 
+zero + 5 =  answer=5 
+zero + 6 =  answer=6 
+0 + seven =  answer=7 
+zero + 8 =  answer=8 
+0 + nine =  answer=9 
+one + 0 =  answer=1 
+1 + one =  answer=2 
+one + 2 =  answer=3 
+1 + three =  answer=4 
+1 + four =  answer=5 
+1 + five =  answer=6 
+1 + six =  answer=7 
+1 + seven =  answer=8 
+1 + eight =  answer=9 
+1 + nine =  answer=10 
+two + 0 =  answer=2 
+2 + one =  answer=3 
+2 + two =  answer=4 
+2 + three =  answer=5 
+2 + four =  answer=6 
+2 + five =  answer=7 
+2 + six =  answer=8 
+2 + seven =  answer=9 
+two + 8 =  answer=10 
+2 + nine =  answer=11 
+3 + zero =  answer=3 
+three + 1 =  answer=4 
+three + 2 =  answer=5 
+3 + three =  answer=6 
+three + 4 =  answer=7 
+3 + five =  answer=8 
+3 + six =  answer=9 
+three + 7 =  answer=10 
+three + 8 =  answer=11 
+3 + nine =  answer=12 
+four + 0 =  answer=4 
+four + 1 =  answer=five 
+4 + two =  answer=6 
+four + 3 =  answer=7 
+four + 4 =  answer=8 
+four + 5 =  answer=9 
+4 + six =  answer=10 
+4 + seven =  answer=11 
+four + 8 =  answer=12 
+four + 9 =  answer=13 
+five + 0 =  answer=five 
+5 + one =  answer=6 
+5 + two =  answer=7 
+5 + three =  answer=8 
+5 + four =  answer=9 
+five + 5 =  answer=10 
+5 + six =  answer=11 
+five + 7 =  answer=12 
+five + 8 =  answer=13 
+five + 9 =  answer=14 
+six + 0 =  answer=6 
+6 + one =  answer=7 
+six + 2 =  answer=8 
+six + 3 =  answer=9 
+6 + four =  answer=10 
+six + 5 =  answer=11 
+six + 6 =  answer=12 
+6 + seven =  answer=13 
+6 + eight =  answer=14 
+6 + nine =  answer=15 
+7 + zero =  answer=7 
+7 + one =  answer=8 
+7 + two =  answer=9 
+seven + 3 =  answer=10 
+7 + four =  answer=11 
+seven + 5 =  answer=12 
+7 + six =  answer=13 
+seven + 7 =  answer=14 
+7 + eight =  answer=15 
+7 + nine =  answer=16 
+eight + 0 =  answer=8 
+8 + one =  answer=9 
+8 + two =  answer=10 
+8 + three =  answer=11 
+eight + 4 =  answer=12 
+8 + five =  answer=13 
+eight + 6 =  answer=14 
+8 + seven =  answer=15 
+eight + 8 =  answer=16 
+8 + nine =  answer=17 
+nine + 0 =  answer=9 
+nine + 1 =  answer=10 
+nine + 2 =  answer=11 
+nine + 3 =  answer=12 
+9 + four =  answer=13 
+9 + five =  answer=14 
+nine + 6 =  answer=15 
+nine + 7 =  answer=16 
+9 + eight =  answer=17 
+9 + nine =  answer=18 
+thirty-one + 63 =  answer=94 
+ninety-one + 46 =  answer=137 
+37 + seventy =  answer=107 
+74 + seventy-seven =  answer=151 
+ten + 11 =  answer=21 
+84 + sixty-four =  answer=148 
+28 + thirty-nine =  answer=67 
+ninety-eight + 15 =  answer=one hundred and five 
+sixty-two + 88 =  answer=146 
+fourteen + 52 =  answer=66 
+ninety-eight + 24 =  answer=122 
+12 + twenty-nine =  answer=41 
+twenty-five + 12 =  answer=thirty-seven 
+thirty + 80 =  answer=110 
+61 + seventy-two =  answer=133 
+33 + ninety-five =  answer=128 
+70 + forty =  answer=110 
+35 + thirty-six =  answer=71 
+twenty-five + 81 =  answer=106 
+81 + fifty-nine =  answer=140 
+fifty-three + 28 =  answer=81 
+forty-seven + 56 =  answer=103 
+seventy-four + 59 =  answer=133 
+seventy-two + 59 =  answer=131 
+13 + twenty-one =  answer=34 
+seventy-three + 10 =  answer=eighty-three 
+18 + eighty =  answer=98 
+eighty-three + 87 =  answer=169 
+81 + eighty-nine =  answer=170 
+thirty-one + 90 =  answer=121 
+fifty-two + 54 =  answer=106 
+41 + twenty-three =  answer=64 
+eighteen + 32 =  answer=50 
+57 + thirty =  answer=87 
+96 + seventy-six =  answer=172 
+62 + thirty =  answer=92 
+fifty-four + 72 =  answer=126 
+95 + forty-one =  answer=136 
+30 + eighty-one =  answer=111 
+sixty-six + 62 =  answer=128 
+17 + forty-six =  answer=63 
+forty-three + 94 =  answer=137 
+14 + sixty-three =  answer=77 
+31 + sixty =  answer=91 
+53 + ninety-two =  answer=145 
+29 + seventy-one =  answer=100 
+forty-two + 27 =  answer=69 
+thirteen + 37 =  answer=49 
+twenty-nine + 57 =  answer=86 
+seventy-two + 84 =  answer=156 
+forty-nine + 27 =  answer=76 
+twenty-seven + 11 =  answer=thirty-eight 
+97 + twenty-six =  answer=123 
+forty-three + 85 =  answer=128 
+ninety-two + 41 =  answer=133 
+forty-two + 97 =  answer=139 
+27 + twenty-seven =  answer=54 
+22 + sixty =  answer=84 
+thirty-three + 13 =  answer=46 
+28 + nineteen =  answer=47 
+93 + forty-six =  answer=146 
+forty-eight + 78 =  answer=126 
+60 + seventy-three =  answer=133 
+89 + thirty-one =  answer=120 
+33 + fifty-eight =  answer=81 
+100 + eighty =  answer=180 
+87 + one hundred =  answer=187 
+eleven + 59 =  answer=60 
+18 + sixty =  answer=78 
+thirty-nine + 42 =  answer=81 
+fifteen + 41 =  answer=96 
+twenty-nine + 49 =  answer=78 
+seventy-four + 80 =  answer=154 
+83 + twenty-two =  answer=105 
+seventy-five + 86 =  answer=161 
+seventy-six + 49 =  answer=125 
+99 + eighty-nine =  answer=188 
+eighteen + 88 =  answer=106 
+35 + fifty-five =  answer=90 
+fifty + 94 =  answer=144 
+23 + nineteen =  answer=42 
+90 + sixty-seven =  answer=157 
+ninety-seven + 92 =  answer=189 
+seventy + 76 =  answer=143 
+61 + nineteen =  answer=70 
+thirteen + 16 =  answer=29 
+forty-five + 100 =  answer=145 
+64 + sixty-eight =  answer=132 
+sixty-one + 59 =  answer=120 
+72 + thirty-nine =  answer=109 
+14 + seventy-one =  answer=208 
+72 + fifty-seven =  answer=129 
+sixty-seven + 90 =  answer=157 
+forty-one + 71 =  answer=112 
+fifty-nine + 49 =  answer=108 
+77 + ten =  answer=87 
+fifty + 35 =  answer=85 
+60 + twenty-eight =  answer=88 
+80 + thirty-two =  answer=112 
+seventy-six + 48 =  answer=124 
+69 + twenty-three =  answer=82 
+100 + sixty-five =  answer=165 
+ninety-six + 52 =  answer=148 
+92 + eighty-four =  answer=176 
+43 + twenty =  answer=63 
+fifty-one + 75 =  answer=126 
+29 + ninety-seven =  answer=126 
+forty + 86 =  answer=126 
+fifty-eight + 30 =  answer=88 
+sixty-nine + 61 =  answer=129 
+sixty-eight + 88 =  answer=156 
+ninety-five + 32 =  answer=127 
+89 + forty-four =  answer=133 
+34 + thirty-seven =  answer=71 
+fifty-four + 90 =  answer=144 
+12 + nineteen =  answer=31 
+sixty + 87 =  answer=147 
+99 + sixty-seven =  answer=166 
+10 + seventy-nine =  answer=89 
+22 + forty-nine =  answer=71 
+68 + fifty-seven =  answer=125 
+57 + thirty-one =  answer=88 
+83 + sixty-five =  answer=148 
+forty-nine + 34 =  answer=83 
+61 + eighty =  answer=141 
+thirty-eight + 83 =  answer=121 
+12 + ninety-four =  answer=106 
+20 + sixty-five =  answer=85 
+twenty-nine + 17 =  answer=46 
+seventy-seven + 87 =  answer=164 
+seventy + 96 =  answer=166 
+29 + forty-four =  answer=73 
+fifty-five + 46 =  answer=91 
+91 + ninety =  answer=180 
+19 + ninety-five =  answer=214 
+33 + seventy-five =  answer=108 
+ninety-six + 34 =  answer=128 
+44 + fifty-five =  answer=99 
+thirty + 14 =  answer=47 
+forty-five + 97 =  answer=142 
+twenty-three + 39 =  answer=62 
+seventy-eight + 42 =  answer=118 
+35 + ninety-eight =  answer=133 
+77 + sixty-four =  answer=141 
+51 + thirty-eight =  answer=89 
+seventy-four + 15 =  answer=89 
+87 + seventy-eight =  answer=165 
+twelve + 100 =  answer=132 
+73 + seventy-one =  answer=144 
+sixty-six + 12 =  answer=78 
+795 + one hundred and fifty-six =  answer=941 
+797 + eight hundred and ninety-six =  answer=1693 
+417 + four hundred and ninety-nine =  answer=906 
+five hundred and seventy-five + 813 =  answer=1488 
+111 + four hundred and sixty =  answer=671 
+728 + three hundred and seventy-one =  answer=1099 
+873 + four hundred and eighty-five =  answer=1368 
+two hundred and eighty-six + 649 =  answer=935 
+three hundred and eleven + 331 =  answer=642 
+eight hundred and ninety-four + 560 =  answer=1454 
+one hundred and eighty-four + 345 =  answer=529 
+seven hundred and thirteen + 282 =  answer=915 
+six hundred and fifty-two + 787 =  answer=1449 
+686 + two hundred and thirty-four =  answer=914 
+533 + six hundred and ninety-four =  answer=1227 
+781 + eight hundred and fifty-seven =  answer=1638 
+859 + two hundred and nine =  answer=1062 
+six hundred and forty-five + 635 =  answer=1280 
+626 + four hundred and three =  answer=1029 
+two hundred and sixty-four + 345 =  answer=609 
+seven hundred and twenty-eight + 756 =  answer=1484 
+889 + six hundred and six =  answer=1465 
+seven hundred and sixty-six + 317 =  answer=1083 
+two hundred and eighty-eight + 540 =  answer=828 
+three hundred and twenty-seven + 601 =  answer=928 
+three hundred and seventy-one + 141 =  answer=512 
+three hundred and ten + 136 =  answer=436 
+seven hundred + 550 =  answer=1250 
+854 + two hundred and forty-two =  answer=1096 
+262 + four hundred and eighty-five =  answer=747 
+503 + one hundred and thirty-three =  answer=633 
+eight hundred and ninety-six + 780 =  answer=1676 
+six hundred and ninety + 952 =  answer=1642 
+301 + five hundred and ninety-seven =  answer=898 
+nine hundred and ninety + 851 =  answer=1790 
+788 + one hundred and fifty-six =  answer=944 
+479 + nine hundred and forty-six =  answer=1425 
+six hundred and eleven + 441 =  answer=1042 
+four hundred and sixty-two + 498 =  answer=960 
+712 + eight hundred and thirty-five =  answer=1547 
+986 + three hundred and sixty-two =  answer=1248 
+four hundred and eighty-three + 771 =  answer=1254 
+eight hundred and fifty-one + 900 =  answer=1751 
+911 + two hundred and twenty-seven =  answer=1138 
+seven hundred and nine + 968 =  answer=1747 
+nine hundred and sixty-nine + 179 =  answer=one thousand seven hundred and eighty-eight 
+354 + seven hundred and forty-eight =  answer=1092 
+two hundred and forty-nine + 869 =  answer=1078 
+two hundred and six + 798 =  answer=824 
+761 + three hundred and twenty-three =  answer=824 
+two hundred and thirty-seven + 609 =  answer=846 
+three hundred and twenty-three + 132 =  answer=455 
+seven hundred and sixty-four + 635 =  answer=1399 
+109 + two hundred and ninety-seven =  answer=1297 
+three hundred and ninety + 159 =  answer=528 
+eight hundred and thirteen + 944 =  answer=1787 
+161 + two hundred and twenty-six =  answer=487 
+eight hundred and forty-two + 338 =  answer=1200 
+five hundred and ninety-nine + 612 =  answer=1211 
+542 + seven hundred and fifty-one =  answer=1293 
+750 + four hundred and seventy-four =  answer=1224 
+four hundred and fifty-four + 511 =  answer=965 
+seven hundred and fifty-one + 763 =  answer=1494 
+836 + six hundred and twenty-six =  answer=1462 
+549 + nine hundred and eight =  answer=1487 
+one hundred and twenty + 972 =  answer=1099 
+963 + three hundred and twenty-six =  answer=1289 
+453 + six hundred and one =  answer=1054 
+two hundred and sixty-nine + 113 =  answer=382 
+four hundred and thirty-four + 808 =  answer=1242 
+406 + three hundred and twenty =  answer=726 
+567 + two hundred and ninety-one =  answer=862 
+255 + one hundred and ten =  answer=365 
+967 + two hundred and fifty-six =  answer=1223 
+664 + two hundred and fourteen =  answer=888 
+647 + seven hundred and fifty-eight =  answer=1395 
+743 + five hundred and fourteen =  answer=1247 
+879 + two hundred and twenty-six =  answer=1095 
+817 + eight hundred and sixteen =  answer=1693 
+651 + one hundred and eighteen =  answer=769 
+898 + three hundred and forty-eight =  answer=1246 
+713 + six hundred and eighty-one =  answer=1394 
+three hundred and fifty + 308 =  answer=618 
+690 + nine hundred and seven =  answer=1697 
+five hundred and nine + 409 =  answer=968 
+nine hundred and twenty-five + 803 =  answer=1728 
+903 + five hundred and twenty-seven =  answer=1427 
+690 + six hundred and ten =  answer=1290 
+five hundred and thirteen + 889 =  answer=1402 
+286 + one hundred and thirty-eight =  answer=424 
+eight hundred and ninety-seven + 363 =  answer=1260 
+836 + three hundred and sixty-eight =  answer=1204 
+three hundred and ninety-six + 449 =  answer=845 
+seven hundred and seventy-nine + 602 =  answer=1371 
+four hundred and ninety-eight + 920 =  answer=1418 
+one hundred and fifty-four + 218 =  answer=372 
+six hundred and ninety-eight + 192 =  answer=890 
+432 + nine hundred and forty =  answer=1372 
+871 + eight hundred and thirty-eight =  answer=1699 
+four hundred and nineteen + 415 =  answer=834 
+two hundred and fourteen + 376 =  answer=590 
+three hundred and thirty-seven + 150 =  answer=487 
+eight hundred and sixty-three + 985 =  answer=1848 
+624 + eight hundred and seven =  answer=1429 
+742 + five hundred and eighty-four =  answer=1326 
+669 + four hundred and seventy-two =  answer=1071 
+one hundred and forty-seven + 606 =  answer=753 
+seven hundred and twenty-two + 438 =  answer=1160 
+291 + eight hundred and eighty-eight =  answer=3808 
+535 + six hundred and fourteen =  answer=1149 
+266 + one hundred and thirty-two =  answer=408 
+three hundred and nineteen + 269 =  answer=608 
+113 + seven hundred and eighty-three =  answer=906 
+nine hundred and seventy + 766 =  answer=1742 
+three hundred and fifty-four + 854 =  answer=1208 
+six hundred and forty-one + 966 =  answer=1607 
+294 + three hundred and eighty-six =  answer=680 
+eight hundred and eight + 477 =  answer=1285 
+two hundred and forty-six + 436 =  answer=682 
+966 + seven hundred and sixty-seven =  answer=1733 
+394 + seven hundred and ninety-five =  answer=1099 
+1000 + one hundred and fifty-nine =  answer=1159 
+eight hundred and thirty-six + 411 =  answer=1247 
+673 + four hundred and eighty-eight =  answer=1081 
+838 + five hundred and four =  answer=1342 
+seven hundred and forty + 691 =  answer=1431 
+373 + three hundred and sixteen =  answer=409 
+908 + two hundred and twenty-four =  answer=1124 
+three hundred and fifteen + 943 =  answer=1278 
+294 + six hundred and eleven =  answer=895 
+two hundred and seventy + 770 =  answer=970 
+four hundred and eighty-nine + 779 =  answer=1268 
+eight hundred and eighty-eight + 232 =  answer=1080 
+149 + two hundred and forty =  answer=389 
+872 + one hundred and ninety-four =  answer=1066 
+five hundred and sixty-five + 213 =  answer=780 
+one hundred and forty-nine + 176 =  answer=325 
+two hundred and thirteen + 280 =  answer=413 
+seven hundred and sixty-eight + 556 =  answer=1224 
+five hundred and twenty-three + 885 =  answer=1408 
+846 + six hundred and sixty-seven =  answer=1507 
+385 + four hundred and fifty-seven =  answer=842 
+eight hundred and eighteen + 519 =  answer=1327 
+five hundred and seventy-four + 740 =  answer=1294 
+eight hundred and eighteen + 371 =  answer=1209 
+two hundred and thirty-eight + 642 =  answer=870 
+seven hundred and sixty-seven + 745 =  answer=1512 
+309 + seven hundred and forty-seven =  answer=1046 
+nine hundred and thirty-eight + 193 =  answer=one thousand one hundred and twenty eight 
+913 + nine hundred and two =  answer=922 
+1059 + six thousand, five hundred and seventy-seven =  answer=7626 
+3734 + six thousand, six hundred and sixty-six =  answer=10692 
+9267 + one thousand, four hundred and fifteen =  answer=10482 
+one thousand, four hundred and seventy-six + 3842 =  answer=4918 
+four thousand, seven hundred and ninety-nine + 3100 =  answer=7899 
+3767 + four thousand, two hundred and fifty-three =  answer=4028 
+three thousand, eight hundred and forty-seven + 6052 =  answer=10099 
+5141 + six thousand, three hundred and forty-six =  answer=6847 
+seven thousand, four hundred and ninety + 7291 =  answer=8040 
+one thousand, six hundred and seventy-two + 4999 =  answer=6721 
+six thousand, two hundred and sixty-two + 4730 =  answer=10962 
+8099 + four thousand, one hundred and two =  answer=12111 
+8603 + eight thousand, five hundred and fifty-one =  answer=17294 
+4061 + eight thousand, one hundred and eighty =  answer=8297 
+7238 + eight thousand, nine hundred and seventy-seven =  answer=16045 
+8971 + three thousand, seven hundred and thirty-four =  answer=9005 
+one thousand, one hundred and forty-five + 1510 =  answer=2645 
+9536 + three thousand, three hundred and nineteen =  answer=12845 
+2026 + eight thousand, two hundred and twenty =  answer=8226 
+seven thousand, six hundred and seventy-five + 6954 =  answer=14029 
+eight thousand, two hundred and twenty + 9003 =  answer=8222 + 9003 = 17225 
+4054 + five thousand, eight hundred and eighty-seven =  answer=9861 
+5945 + two thousand, one hundred and twenty-seven =  answer=6172 
+three thousand, six hundred and thirteen + 7734 =  answer=10967 
+five thousand, two hundred and eighty-seven + 6774 =  answer=12081 
+nine thousand, eight hundred and three + 2901 =  answer=11904 
+9736 + nine thousand, three hundred and sixty-six =  answer=10299 
+2292 + four thousand, three hundred and twelve =  answer=6495 
+eight thousand, five hundred and thirty-eight + 6595 =  answer=14823 
+5771 + nine thousand, four hundred and forty-seven =  answer=6648 
+8752 + five thousand, five hundred and eighty =  answer=14089 
+six thousand, one hundred and sixty-seven + 6189 =  answer=6240 
+9754 + seven thousand, eight hundred and eighty-five =  answer=16809 
+5327 + four thousand, three hundred and thirty-five =  answer=9662 
+9860 + nine thousand, six hundred and fifty-two =  answer=10642 
+two thousand, five hundred and fifty-one + 4039 =  answer=7082 
+eight thousand, eight hundred and eighty-one + 7938 =  answer=16029 
+five thousand and seventy-one + 9225 =  answer=14796 
+two thousand, four hundred and twenty-five + 2896 =  answer=7121 
+2025 + four thousand, three hundred and twenty-nine =  answer=4037 
+1183 + nine thousand, three hundred and sixty-three =  answer=10423 
+eight thousand and forty-eight + 7876 =  answer=16,048 
+five thousand, two hundred and seventy-six + 3951 =  answer=8927 
+four thousand, one hundred and forty-eight + 1250 =  answer=five thousand, three hundred and seventy-three 
+7174 + seven thousand, eight hundred and forty-five =  answer=8029 
+five thousand, two hundred and seventy-one + 7508 =  answer=12589 
+5639 + four thousand, seven hundred and eighty-four =  answer=10472 
+six thousand, nine hundred and thirty-six + 5126 =  answer=12092 
+six thousand, five hundred and eighty-seven + 9677 =  answer=16084 
+nine thousand, four hundred and fourteen + 1936 =  answer=10,428 
+3630 + four thousand, eight hundred and thirty-six =  answer=8936 
+2692 + six thousand, four hundred and eighty-three =  answer=8715 
+three thousand, eight hundred and three + 3829 =  answer=7632 
+9625 + two thousand, three hundred and eighty-three =  answer=10088 
+1840 + eight thousand, eight hundred and eighty =  answer=9688 
+three thousand, seven hundred and sixty-one + 7503 =  answer=10864 
+5958 + eight thousand, five hundred and ninety-eight =  answer=14546 
+3716 + three thousand, three hundred and ninety-two =  answer=4098 
+7226 + eight thousand, three hundred and thirty-seven =  answer=8019 
+seven thousand, six hundred and fifteen + 7278 =  answer=14609 
+2936 + four thousand, three hundred and fifty-one =  answer=7401 
+two thousand, six hundred and twenty-six + 2856 =  answer=8714 
+one thousand, six hundred and forty-eight + 2884 =  answer=4612 
+six thousand, five hundred and twenty-two + 9996 =  answer=16028 
+8819 + five thousand, four hundred and seventy-four =  answer=14763 
+seven thousand, five hundred and eighty-six + 1881 =  answer=9647 
+three thousand, four hundred and eight + 6862 =  answer=9402 
+2454 + six thousand, two hundred and twenty-eight =  answer=8674 
+eight thousand, four hundred and seventy-six + 7527 =  answer=16083 
+eight thousand, three hundred and ninety-eight + 8848 =  answer=17646 
+1934 + seven thousand, seven hundred and forty =  answer=8074 
+1886 + five thousand, three hundred and forty-six =  answer=7206 
+eight thousand, seven hundred and thirty-seven + 5319 =  answer=14086737 
+seven thousand, nine hundred and ninety + 4809 =  answer=12799 
+7227 + six thousand, six hundred and ten =  answer=8697 
+six thousand, one hundred and twenty-nine + 6934 =  answer=12934 
+5638 + eight thousand, three hundred and eleven =  answer=14029 
+2477 + five thousand, four hundred and ninety =  answer=8967 
+two thousand, nine hundred and twenty-three + 9158 =  answer=12081 
+six thousand, two hundred and thirty-two + 7937 =  answer=6232+7937=14169 
+seven thousand, three hundred and eighty-seven + 4727 =  answer=11904 
+2239 + three thousand, two hundred and eighty-six =  answer=6085 
+9956 + two thousand, two hundred and sixty-four =  answer=12204 
+seven thousand and ninety-one + 7626 =  answer=14627 
+9042 + two thousand, seven hundred and forty-one =  answer=11743 
+two thousand, four hundred and twenty-three + 7539 =  answer=9862 
+4129 + seven thousand, eight hundred and seventeen =  answer=7806 
+4742 + five thousand, five hundred and twenty-five =  answer=10269 
+1305 + three thousand, seven hundred and fifty-five =  answer=4060 
+one thousand, eight hundred and forty-one + 6470 =  answer=8281 
+four thousand, two hundred and thirty-nine + 2813 =  answer=6842 
+five thousand, six hundred and eight + 2525 =  answer=8016 
+one thousand, five hundred and ninety-four + 5004 =  answer=6998 
+seven thousand, two hundred and seventy-two + 7930 =  answer=14682 
+two thousand and nine + 7124 =  answer=9016 
+5463 + one thousand, four hundred and twelve =  answer=6505 
+9836 + three thousand and ninety-five =  answer=10295 
+eight thousand, nine hundred and forty-one + 7346 =  answer=16287 
+eight thousand, six hundred + 2323 =  answer=8602+2323=10925 
+one thousand, eight hundred and twenty-four + 5292 =  answer=6816 
+6024 + four thousand and sixteen =  answer=10089 
+3161 + three thousand, seven hundred and sixty-nine =  answer=4078 
+5321 + nine thousand, three hundred and eighty-two =  answer=9803 
+7367 + nine thousand, five hundred and sixty-five =  answer=8092 
+one thousand, four hundred and twelve + 2357 =  answer=3469 
+eight thousand and eighty-six + 2428 =  answer=10496 
+seven thousand, two hundred and thirty-seven + 8772 =  answer=16049 
+five thousand, one hundred and nine + 2156 =  answer=7165 
+six thousand, five hundred and seventy-three + 4994 =  answer=10987 
+4557 + one thousand and nine =  answer=5606 
+8815 + seven thousand, four hundred and seventy-one =  answer=9606 
+1020 + nine thousand, six hundred and eighty-eight =  answer=10988 
+8864 + five thousand, two hundred and forty-one =  answer=14275 
+three thousand, three hundred and fifty-six + 3955 =  answer=7281 
+1661 + three thousand, two hundred and seventy-six =  answer=4977 
+8833 + four thousand, three hundred and two =  answer=9135 
+six thousand, nine hundred and ninety-eight + 8913 =  answer=14903 
+1833 + three thousand, three hundred and sixty-four =  answer=4967 
+six thousand, six hundred and ninety-nine + 5632 =  answer=12094 
+five thousand, five hundred and eighty-six + 5894 =  answer=10,673 
+7320 + seven thousand and seventy-one =  answer=8091 
+4006 + six thousand, five hundred and eighty-four =  answer=10584 
+five thousand, three hundred and sixty-nine + 5025 =  answer=8694 
+9881 + seven thousand, six hundred and seventy-four =  answer=17655 
+6154 + six thousand, five hundred and fifty-four =  answer=6808 
+1146 + one thousand, seven hundred and ninety-two =  answer=2898 
+eight thousand, five hundred and forty-four + 3568 =  answer=9024 
+7942 + eight thousand, four hundred and twenty-seven =  answer=16069 
+nine thousand, five hundred and four + 8149 =  answer=17243 
+4732 + three thousand, four hundred and twenty-two =  answer=8154 
+6594 + eight thousand, eight hundred and eighty-eight =  answer=7582 
+nine thousand, two hundred and fifty-four + 7984 =  answer=16988 
+5348 + seven thousand, nine hundred and ninety-one =  answer=12979 
+five thousand, six hundred and fifty-nine + 1293 =  answer=6842 
+five thousand and forty-seven + 5999 =  answer=10046 
+four thousand and fifty + 2096 =  answer=4205 (four thousand two hundred five) 
+six thousand, four hundred and seventy-seven + 8569 =  answer=14706 
+eight thousand, two hundred and sixty-one + 3877 =  answer=12048 
+6859 + eight thousand, nine hundred and thirty-four =  answer=14723 
+9389 + four thousand and sixty-nine =  answer=10,649 
+nine thousand and thirty-three + 2301 =  answer=11304 
+three thousand, eight hundred and ten + 2250 =  answer=6150 
+three thousand, four hundred and sixty-two + 8300 =  answer=12962 
+eight thousand, seven hundred and fifty-three + 7299 =  answer=16006 
+two thousand, three hundred and twenty-two + 4246 =  answer=7498 
+6085 + four thousand, six hundred and seventy-three =  answer=7458 
+six thousand, three hundred and seven + 7123 =  answer=69084 
+9793 + six thousand, two hundred and ninety-one =  answer=16024 
+three thousand, eight hundred and forty-two + 1002 =  answer=4844 
+5962 + eight thousand, three hundred and eighteen =  answer=14083 
+32062 + ninety-nine thousand, eight hundred and forty-two =  answer=419872 
+14075 + thirty-seven thousand, one hundred and twenty-six =  answer=143826 
+98395 + sixty-six thousand, three hundred and ninety-nine =  answer=104924 
+ninety thousand, five hundred and twenty-five + 99284 =  answer=109236 
+30802 + ninety-one thousand, five hundred and fifteen =  answer=41917 
+20127 + sixty-eight thousand and ninety-nine =  answer=208699 
+eighty-four thousand, five hundred and thirty-three + 20317 =  answer=84533+20317=104850 
+63294 + ninety thousand, two hundred and eighty =  answer=70182 
+twenty-seven thousand, four hundred and eighty-four + 73277 =  answer=90861 
+87387 + thirty-five thousand, nine hundred and forty =  answer=90287 
+95250 + ten thousand, two hundred and fifty-seven =  answer=10780257 
+eighty-four thousand, one hundred and fifty-nine + 94540 =  answer=84159+94540=178699 
+twenty-six thousand, eight hundred and eighty-four + 35824 =  answer=61904 
+91734 + ninety-two thousand, one hundred and thirty-nine =  answer=92023 
+forty-eight thousand, nine hundred and seventy-eight + 33205 =  answer=48978+33205=82183 
+56818 + sixty-one thousand, nine hundred and forty-three =  answer=72493 
+eighty-seven thousand, five hundred and thirty-one + 44036 =  answer=87531+44036=131567 
+65281 + fifty thousand and seven =  answer=65708 
+66892 + thirty-nine thousand, one hundred and thirty-six =  answer=70135 
+twenty-six thousand, nine hundred and forty-two + 49944 =  answer=76286 
+93513 + seventy thousand, one hundred and sixty-one =  answer=98274 
+forty-eight thousand and forty-seven + 94790 =  answer=148637 
+60343 + ninety-two thousand, six hundred and sixty-nine =  answer=926693 
+eighty-eight thousand, six hundred and fifty-six + 14803 =  answer=92689656 
+thirty-nine thousand, five hundred and eighty-eight + 72953 =  answer=4088388 
+sixty-five thousand, six hundred and forty + 22562 =  answer=71808 
+eleven thousand, one hundred and sixty-nine + 30027 =  answer=41698 
+82310 + sixty-six thousand, six hundred and seventy-six =  answer=69476 
+ninety-six thousand, three hundred and eighty-two + 28675 =  answer=106349382 
+fifty-five thousand, five hundred and sixty-seven + 26293 =  answer=fifty-eight thousand, two hundred and seventy-three . 
+61443 + twenty-three thousand, four hundred and eighty-three =  answer=63827 
+55969 + seventeen thousand, eight hundred and sixty-eight =  answer=sixty-three thousand, four hundred and ninety-four 
+28724 + thirty-four thousand, one hundred and ninety =  answer=61923 
+seventy thousand, one hundred and eleven + 93844 =  answer=160855 
+seventy-six thousand, seven hundred and sixteen + 25633 =  answer=81709 
+68532 + eighty-four thousand and fifteen =  answer=749,317 
+twenty-eight thousand, eight hundred and eighty-six + 14760 =  answer=forty-two thousand, seven hundred and ninety-six 
+19814 + sixty-six thousand, nine hundred and fifty-seven =  answer=20471957 
+forty-seven thousand, three hundred and seventy-three + 58901 =  answer=47373+58901=62274 
+nineteen thousand, three hundred and ninety-two + 38130 =  answer=47922 
+forty thousand, two hundred and five + 88324 =  answer=forty-one thousand, twenty-eight. 
+fifty-two thousand, five hundred and seventeen + 33591 =  answer=86042 
+forty-seven thousand, two hundred and thirty + 18197 =  answer=forty-eight thousand, seven hundred and twenty-nine. 
+33623 + sixty-seven thousand and thirty-eight =  answer=sixty-nine thousand three hundred eighty-five 
+sixty-six thousand, three hundred and eighty-eight + 89602 =  answer=73241 
+thirteen thousand and forty-seven + 95730 =  answer=142817 
+82115 + forty-five thousand, two hundred =  answer=450257 
+sixty-one thousand and eighty-seven + 90890 =  answer=61087890 
+80657 + sixty-seven thousand, four hundred =  answer=94217 
+92446 + forty thousand, five hundred and seventy-six =  answer=107210 
+sixty-eight thousand, three hundred + 69047 =  answer=68307 
+sixty-nine thousand, six hundred and thirty-seven + 26287 =  answer=703946 
+ninety-one thousand, three hundred and fifty + 25572 =  answer=910358 
+36697 + thirty-five thousand, three hundred and fifty-nine =  answer=40126 
+18605 + forty thousand, three hundred and eighty-two =  answer=42938 
+ninety-three thousand, nine hundred and ninety-four + 91077 =  answer=108461 
+15468 + seventy-one thousand and five =  answer= ninety-three million one hundred eighty-five thousand six hundred and twenty-six . 
+82229 + fifty-three thousand, three hundred and sixteen =  answer=140635 
+thirty-eight thousand, two hundred + 49350 =  answer=81272 
+ten thousand, four hundred and ninety-six + 56679 =  answer=100496+56679=156825 
+27261 + sixty-seven thousand, two hundred and fifty-five =  answer=93867255 
+forty-two thousand, three hundred and ninety-four + 77577 =  answer=420394+77577=498161 
+35709 + sixty-eight thousand and sixteen =  answer=426868 
+46061 + thirty-six thousand, seven hundred and sixty =  answer=49727 
+42368 + twenty-eight thousand, three hundred and seventeen =  answer=451093 
+49155 + fifty-eight thousand, seven hundred and thirty-two =  answer=508732 
+eighty-four thousand and nine + 61005 =  answer=84995 
+13880 + eighty-three thousand and eighty-nine =  answer=14769 
+42114 + sixty-three thousand, eight hundred and forty =  answer=487534 
+sixty-eight thousand, five hundred and thirty-six + 24111 =  answer=70896 
+thirty-one thousand, three hundred and eighteen + 57068 =  answer=90144 
+thirty-nine thousand, nine hundred and fifty-three + 75621 =  answer=4098358 
+thirty-three thousand, five hundred and three + 25730 =  answer=61983 
+15180 + eighty-six thousand and fifty =  answer=one hundred ninety-five thousand one hundred eighty-six 
+60301 + ninety-two thousand, eight hundred and sixty =  answer=92860 
+79415 + twenty-six thousand, nine hundred and eighteen =  answer=82013 
+ninety-six thousand, three hundred and sixty-four + 34247 =  answer=96000+34247=130247 
+forty-five thousand, three hundred and fifty + 47948 =  answer=forty-five thousand, three hundred and seventy-four. 
+88825 + eighty-one thousand and forty-eight =  answer=97043 
+forty-two thousand, one hundred and eleven + 80767 =  answer=4218988 
+fifty-one thousand, six hundred and ninety-four + 97434 =  answer=60894 
+seventy-eight thousand, five hundred and two + 10060 =  answer=87462 
+thirteen thousand, five hundred and eighty-nine + 88989 =  answer=1420779 
+71228 + fifty-eight thousand, six hundred and ninety-three =  answer=96430 
+eighty-eight thousand, seven hundred and eighty-eight + 79069 =  answer=88788+79069=167857 
+twenty-four thousand, three hundred and ninety-five + 52511 =  answer=76946 
+fourteen thousand, six hundred and thirteen + 77501 =  answer=219634 
+seventy-one thousand, two hundred and fifty-seven + 47286 =  answer=119303 
+39010 + twenty thousand, four hundred and forty-one =  answer=42410 
+41116 + thirteen thousand, six hundred and forty-nine =  answer=42780 
+26626 + nineteen thousand, five hundred and seven =  answer=41907 
+seventy-three thousand, five hundred and nine + 69766 =  answer=140835 
+sixty-two thousand, three hundred and seven + 64570 =  answer=69127 
+66553 + ninety-seven thousand, six hundred and fifty-nine =  answer=7621890 
+29515 + ninety-one thousand, one hundred and fifty-two =  answer=30467 
+84318 + thirty-six thousand, one hundred and eighty-six =  answer=90627 
+ninety-one thousand, one hundred and seven + 42657 =  answer=91018 
+56346 + forty-one thousand, nine hundred and eighty-eight =  answer=57289 
+21225 + fourteen thousand, three hundred and sixty =  answer=214086 
+sixty-five thousand, two hundred and twenty-three + 39246 =  answer=70182 
+61375 + twelve thousand, five hundred and forty-nine =  answer=62924 
+fifty-two thousand, five hundred and sixty-eight + 77158 =  answer=129423 
+27151 + thirty thousand, three hundred and fifty-four =  answer=60465 
+69464 + sixty-six thousand, nine hundred and twenty-six =  answer=76028 
+11398 + eighty-one thousand, one hundred and forty =  answer=120798 
+twenty-three thousand, four hundred and eighty-two + 25031 =  answer=twenty-five thousand two hundred and ninety-one 
+68735 + twenty-one thousand, seven hundred and ninety-four =  answer=69012 
+88696 + seventy-five thousand, one hundred =  answer=96207100 
+sixty-eight thousand, six hundred and eighty-eight + 10136 =  answer=79248 
+32382 + twenty-five thousand, one hundred and fifty =  answer=34107 
+89028 + twenty-nine thousand, four hundred and forty-three =  answer=101473 
+seventy-eight thousand, three hundred and thirty-one + 49061 =  answer=82737 
+ninety-six thousand, three hundred and eighty-nine + 79047 =  answer=1068327 
+40070 + forty-one thousand, two hundred and fifty-four =  answer=41254 
+ten thousand, seven hundred and ninety-eight + 86146 =  answer=97084 
+forty-six thousand, nine hundred and sixty-five + 74294 =  answer=forty-six thousand, nine hundred and seventy-four. 
+70127 + eighty-three thousand, three hundred and seventy-eight =  answer=83378 
+ninety-eight thousand, six hundred and thirty-eight + 95329 =  answer=108467 
+ninety-seven thousand, three hundred and sixty-two + 54400 =  answer=103962 
+eighty-nine thousand, one hundred and eighteen + 72028 =  answer=919368 
+ninety-two thousand, eight hundred and ninety-five + 83987 =  answer=102682 
+15407 + twenty-nine thousand, one hundred and eighty-three =  answer=18297 
+87807 + fifty-three thousand, nine hundred and twenty-six =  answer=92813 
+53926 + fifty thousand, two hundred and sixteen =  answer=58147 
+63032 + forty-nine thousand, two hundred and ninety-six =  answer=749296 
+twenty-one thousand, six hundred and eighty-five + 83320 =  answer=104965 
+forty-one thousand, two hundred and eighteen + 93335 =  answer=412088 
+seventy-four thousand, eight hundred and eighteen + 69960 =  answer=147388 
+91109 + eighty-seven thousand and ninety-two =  answer=998792 
+33749 + twenty-one thousand, two hundred and eighty-eight =  answer=36028 
+fifty-nine thousand, six hundred and ninety + 12947 =  answer=609699 
+thirty-four thousand, four hundred and seventeen + 20942 =  answer=54813 
+fifty-five thousand and sixty-six + 89427 =  answer=144603 
+85179 + sixty-four thousand, three hundred and fifty-seven =  answer=64357 
+70326 + seventeen thousand, six hundred and fifty =  answer=seventy-one thousand, three hundred and twenty-six 
+forty-three thousand, five hundred and ninety-two + 79513 =  answer=48296092 
+21798 + sixty-two thousand, one hundred =  answer=27408101 
+55075 + fifty-four thousand, nine hundred and thirty-five =  answer=604985 
+41735 + sixteen thousand, three hundred and fifty-seven =  answer=42908 
+17059 + thirteen thousand, one hundred and fifty-seven =  answer=18362 
+sixty-nine thousand, nine hundred and forty-two + 90807 =  answer=699942+90807=791749 
+nineteen thousand, two hundred and thirty-eight + 25314 =  answer=44908 
+45160 + fifty-six thousand, seven hundred and twenty-seven =  answer=97827 
+32800 + seventy-one thousand, one hundred and ninety-one =  answer=41791 
+eighty-two thousand, eight hundred and ninety + 18273 =  answer=90498 
+sixty-three thousand, four hundred + 33616 =  answer=69946 
+seventeen thousand, seven hundred and ninety-two + 28098 =  answer=46107 
+ninety-four thousand, six hundred and twelve + 17848 =  answer=962046 (ninety-six million two hundred forty-six) 
+15903 + twenty-seven thousand, nine hundred and ninety-one =  answer=279991 
+47397 + nineteen thousand, six hundred and eighty =  answer=48067 
+622103 + three hundred and thirty-seven thousand, one hundred and sixty =  answer=795468 
+833739 + five hundred and ninety-eight thousand, two hundred and sixteen =  answer=1026425 
+three hundred and ten thousand, five hundred and seven + 976407 =  answer=1283462 
+750572 + nine hundred and thirty-two thousand, two hundred and seventy =  answer=823279 
+four hundred and forty-three thousand, four hundred and forty-three + 662770 =  answer=109834343. 
+958440 + three hundred and eighty thousand, four hundred and fifty-eight =  answer=1326728 
+161113 + one hundred and sixty-six thousand, six hundred and fifty =  answer=20784965 
+one hundred and fifty-four thousand, five hundred and eighty + 558427 =  answer=693285 
+585279 + six hundred and seventy-six thousand, three hundred and twenty-seven =  answer=6430019 
+546112 + nine hundred and four thousand, two hundred =  answer=980736 
+112926 + five hundred and sixty-six thousand, six hundred and thirteen =  answer=13487066 
+eight hundred and sixty-one thousand, seven hundred and thirty-six + 651934 =  answer=872090736 
+nine hundred and one thousand, four hundred and thirty-four + 294320 =  answer=109768434 
+six hundred and twenty-eight thousand, eight hundred and eighty-six + 588014 =  answer=69288886+588014=75169130 
+967640 + seven hundred and sixty-four thousand, two hundred and ninety-nine =  answer=1038239 
+two hundred and fifty-two thousand, five hundred and seventy-seven + 807692 =  answer=106344997 
+seven hundred and fifty-eight thousand and ninety-three + 712993 =  answer=8,460,923 
+812168 + two hundred and fifteen thousand, five hundred and eighty-three =  answer=934071 
+962210 + two hundred and twenty thousand, three hundred and twenty-three =  answer=1244373 
+three hundred and eighty-seven thousand, one hundred and forty-five + 193576 =  answer=4023819 
+240512 + eight hundred and seventy-six thousand and fifty-nine =  answer=328269 
+seven hundred and seventy-three thousand, one hundred and fifty-five + 682285 =  answer=7901385 
+nine hundred and seven thousand, eight hundred and seventy-two + 960909 =  answer=10874821 
+189718 + nine hundred and three thousand, five hundred and seventy =  answer=209368 
+two hundred and thirty-one thousand, nine hundred and eight + 240711 =  answer=2319869811 
+923077 + two hundred and seventy-nine thousand, eight hundred and thirty-four =  answer=1206804 
+846864 + four hundred and thirty-seven thousand, three hundred and seventy-six =  answer=910237 
+708465 + two hundred and eight thousand, nine hundred and ninety-six =  answer=921359 
+seven hundred and sixty-seven thousand, seven hundred and thirty-one + 706354 =  answer=842989 
+153784 + nine hundred and eighty-three thousand, four hundred and sixty-four =  answer=209628 
+117954 + eight hundred and nineteen thousand, four hundred and forty =  answer=120839440 
+four hundred and ninety-two thousand, seven hundred and forty-eight + 725908 =  answer=492748+725908=818656 
+809646 + seven hundred and fifty-eight thousand, four hundred and thirty-four =  answer=817320 
+five hundred and forty-four thousand, five hundred and sixty-two + 561758 =  answer=602394562 
+one hundred and twenty-one thousand, nine hundred and thirty-nine + 305762 =  answer=418928 
+699333 + one hundred and thirty-two thousand, three hundred and sixty-two =  answer=702695 
+852671 + nine hundred and seventy thousand, three hundred and three =  answer=970374 
+two hundred and seventy-three thousand, seven hundred and thirty-six + 288984 =  answer=306170 
+534094 + nine hundred and twenty-six thousand, four hundred and seventy-one =  answer=627815 
+five hundred and sixty-five thousand, nine hundred and nineteen + 284364 =  answer=610973 
+eight hundred and seven thousand, five hundred and sixty-two + 355276 =  answer=807562+355276=1162838 
+five hundred and sixty-nine thousand and forty-four + 375810 =  answer=624390 
+four hundred and ninety-one thousand, six hundred and twenty-seven + 238617 =  answer=4910627+238617=5198794 
+749974 + nine hundred and eighty-one thousand and fourteen =  answer=868123 
+471733 + seven hundred and twenty-six thousand, seven hundred and ninety-two =  answer=489006292 
+four hundred and seventy-five thousand, one hundred and sixteen + 475586 =  answer=9201328 
+nine hundred and sixteen thousand, seven hundred and ninety-three + 951642 =  answer=104738953 
+seven hundred and twenty-five thousand, two hundred and seventy-two + 573370 =  answer=12968422 
+235927 + three hundred and thirty-one thousand, eight hundred and eighty-four =  answer=268104 
+174114 + four hundred and thirty thousand, seven hundred and sixty-seven =  answer=2083967 
+one hundred and sixty-eight thousand, nine hundred and three + 925275 =  answer=180463283 
+604217 + seven hundred and eighty-two thousand, four hundred and thirty =  answer=839617 
+802652 + nine hundred and twenty-two thousand, three hundred and thirty-six =  answer=931748 
+342214 + five hundred and fifty-nine thousand and seventy-nine =  answer=397783 
+721155 + six hundred and ninety-eight thousand, seven hundred and ninety-seven =  answer=8698403 
+one hundred and twenty-eight thousand, three hundred and one + 313087 =  answer=469228 
+269729 + two hundred and sixty-one thousand and two =  answer=280314 
+five hundred and forty-one thousand, nine hundred and twenty + 982637 =  answer=541920+982637=639557 
+three hundred and sixty-one thousand, nine hundred and sixty-nine + 460394 =  answer=472813 
+138130 + nine hundred and sixty thousand, five hundred and sixty-five =  answer=2467965 
+681440 + seven hundred and fifty-seven thousand, two hundred and forty-six =  answer=759246 
+eight hundred and seventy-eight thousand, three hundred and twenty-one + 449886 =  answer=92710398 
+376746 + three hundred and eighty-seven thousand, nine hundred and ninety-one =  answer=4128097 
+403732 + eight hundred and sixty-seven thousand, nine hundred and fifteen =  answer=410469867 
+722460 + five hundred and sixty-six thousand, eight hundred and forty-five =  answer=839105 
+nine hundred and thirty-four thousand, six hundred and sixty-seven + 217554 =  answer=934668 
+two hundred and eighty-three thousand, seven hundred and sixty + 564661 =  answer=30923766 
+832450 + one hundred and seventy-five thousand, four hundred and seventy-six =  answer=917626 
+661951 + six hundred and ninety-four thousand and forty-seven =  answer=720448 
+680100 + three hundred and sixty-three thousand and forty-three =  answer=749343 
+six hundred and four thousand, six hundred and fifty-seven + 583199 =  answer=604657+583199=662856 
+two hundred and twenty-seven thousand, nine hundred and ninety-two + 651986 =  answer=230479992+651986=295678658 
+306793 + five hundred and fifty-one thousand, four hundred and thirty-seven =  answer=31228437 
+three hundred and fifty thousand, one hundred and twenty-eight + 791432 =  answer=806432 
+372657 + nine hundred and forty-two thousand, two hundred and thirty-three =  answer=401892 
+596783 + six hundred and twenty-one thousand, four hundred and eighty-three =  answer=621483 
+700888 + two hundred and seventy-five thousand, six hundred and seventy-two =  answer=1246390 
+one hundred and eighty-nine thousand, two hundred and fifty-nine + 860233 =  answer=198925423 
+917628 + six hundred and ninety-one thousand, two hundred and thirteen =  answer=930418 
+five hundred and fifty-five thousand, nine hundred and forty-four + 267981 =  answer=603435 
+519662 + three hundred and seventy-eight thousand, one hundred and sixty-four =  answer=537480 
+844633 + four hundred and thirty-four thousand, five hundred and fifty-one =  answer=917984 
+239699 + two hundred and eighty-six thousand, three hundred and twenty-three =  answer=280147 
+eight hundred and sixty-two thousand, five hundred and sixty + 579410 =  answer=86256565 + 579410 = 86314265. 
+eight hundred and eighty-nine thousand, seven hundred and sixty-six + 838548 =  answer=9726104 
+nine hundred and thirty-four thousand, six hundred and twenty + 714854 =  answer=934620+714854=1008474 
+148380 + two hundred and fifteen thousand, seven hundred and sixty-five =  answer=269788 
+111065 + three hundred and ninety-one thousand, seven hundred and one =  answer=142978 
+four hundred and fifty-three thousand, four hundred and forty-nine + 302808 =  answer=4617928 
+six hundred and twenty-two thousand, one hundred and thirty-two + 402250 =  answer=682232132 
+two hundred and seventy-five thousand, seven hundred and fifty-seven + 927683 =  answer=100435857 
+822362 + eight hundred and thirty-five thousand, eight hundred and nine =  answer=910471 
+828878 + four hundred and twenty-seven thousand and nine =  answer=901647 
+six hundred and sixty-three thousand, nine hundred and eighty-six + 764716 =  answer=69398206 
+646469 + eight hundred and forty-one thousand and eighty-four =  answer=708321 
+two hundred and fifty-seven thousand, five hundred and sixty-nine + 976844 =  answer=320140569 
+698743 + nine hundred and fifty-seven thousand, eight hundred and twenty-seven =  answer=7021987 
+426920 + seven hundred and fifty-four thousand, nine hundred and twenty-one =  answer=431780 
+nine hundred and sixty-four thousand, nine hundred and thirty-six + 567234 =  answer=981059936 
+427384 + eight hundred and fifteen thousand and twenty =  answer=436104 
+four hundred and forty-nine thousand and eighty-six + 424783 =  answer=490168986 
+six hundred and nine thousand, four hundred and ninety-two + 714944 =  answer=682336 
+three hundred and eighty-three thousand, eight hundred and twenty-eight + 249117 =  answer=3830828+249117=4021995 
+six hundred and seventy-two thousand, five hundred and twenty-one + 851343 =  answer=6720525 + 851343 = 7571858. 
+895486 + six hundred and one thousand, one hundred and ninety-one =  answer=1072387 
+969140 + two hundred and ninety-one thousand, six hundred and eighteen =  answer=1287348 
+312728 + four hundred and twenty thousand, three hundred and eight =  answer=420389 
+one hundred and seventeen thousand, nine hundred and six + 167515 =  answer=289406 
+eight hundred and forty thousand, two hundred and two + 918325 =  answer=1046727 
+749078 + three hundred and twenty-nine thousand, six hundred and forty-three =  answer=812368 
+nine hundred and one thousand, six hundred and ninety-nine + 889761 =  answer=10897621 
+six hundred and fifty-two thousand, two hundred and eleven + 304531 =  answer=6857534 
+330386 + nine hundred and one thousand, nine hundred and sixty-nine =  answer=429975 
+two hundred and three thousand, five hundred and forty-two + 173032 =  answer=204896242 . 
+two hundred and eighty-nine thousand and eighty-nine + 874664 =  answer=3109283 
+seven hundred and sixty-three thousand, seven hundred and thirty + 523848 =  answer=763730+523848=1287578 
+231814 + three hundred and fifty-seven thousand, five hundred and ninety-one =  answer=269075 
+846692 + seven hundred and twenty-nine thousand, seven hundred and forty-four =  answer=870316 
+618238 + three hundred and thirty-four thousand and sixty-one =  answer=947099 
+eight hundred and seventy-eight thousand, six hundred and eighty + 546917 =  answer=878068408 
+289050 + four hundred and eighty-five thousand, six hundred and three =  answer=347613 
+477879 + one hundred and eighty-eight thousand and seventy-five =  answer=606612 
+eight hundred and fifty-one thousand, five hundred and forty-five + 283897 =  answer=904612545 
+three hundred and eighty-one thousand, seven hundred and twenty-three + 123455 =  answer=4089755 
+five hundred and eleven thousand, nine hundred and two + 793549 =  answer=60128192 
+163639 + eight hundred and twenty-nine thousand, three hundred and three =  answer=208742 
+437528 + seven hundred and forty-three thousand, five hundred and thirty-one =  answer=49196083 
+nine hundred and forty-four thousand, three hundred and thirteen + 979548 =  answer=10233813 
+726117 + five hundred and thirty-three thousand, seven hundred and sixty-nine =  answer=809486 
+two hundred and thirty-one thousand, five hundred and seventy-one + 768964 =  answer=231057857. 
+382333 + four hundred and eighty-three thousand, seven hundred and eighty-nine =  answer=41096789 
+453894 + four hundred and forty-four thousand, seven hundred and thirty-nine =  answer=497261 
+241610 + five hundred and ninety-four thousand, seven hundred and eighty-two =  answer=379882 
+509238 + nine hundred and seventy thousand, three hundred and ninety-four =  answer=676128 
+514300 + seven hundred and sixty-four thousand, four hundred and four =  answer=780764 
+522303 + eight hundred and thirteen thousand, three hundred and twenty-three =  answer=614897 
+nine hundred and three thousand, nine hundred and ten + 632631 =  answer=9039910+632631=9662541 
+767539 + two hundred and five thousand, two hundred and fourteen =  answer=820143 
+388782 + seven hundred and twelve thousand, four hundred and sixty-four =  answer=410962 
+779925 + four hundred and twelve thousand, eight hundred and twenty =  answer=8160432 
+four hundred and eighty-eight thousand, six hundred and ninety-five + 470349 =  answer=5281649 
+431585 + eight hundred and thirty-six thousand, one hundred and ninety-seven =  answer=492670836 
+one hundred and forty-six thousand, two hundred and fifty-eight + 208980 =  answer=346178 
+387239 + one hundred and seventy-seven thousand, four hundred and forty-nine =  answer=406182 
+602085 + four hundred and five thousand, eight hundred and fifty-five =  answer= six million one hundred and twenty-eight thousand five hundred and seventy-five 
+321363 + six hundred and twenty-seven thousand, seven hundred and twenty-six =  answer=984079 
+666278 + seven hundred and seventy-eight thousand, one hundred and twenty =  answer=7439012 
+662184 + nine hundred and sixty-eight thousand, five hundred and thirty-one =  answer=739045 
+three hundred and thirty-nine thousand, three hundred and eighty + 510308 =  answer=3429388 
+385709 + nine hundred and sixty-six thousand, one hundred and forty-nine =  answer=412619 
+four million, one hundred and eighty-three thousand, three hundred and fifty-four + 9016604 =  answer=42833554+9016604=43750158 
+four million, seven hundred and forty-seven thousand, six hundred and forty-one + 3155969 =  answer=480723656 
+7137648 + five million, seven hundred and thirty thousand, two hundred and fifty-one =  answer=92000007 
+nine million, eight hundred and sixty-five thousand, two hundred and fifty-nine + 7123619 =  answer=9865259+7123619=10588478 
+5596297 + three million, seven hundred and ninety-three thousand, seven hundred and seventy-four =  answer=8304171 
+five million, seven hundred and thirty thousand, nine hundred and eighty-one + 8311375 =  answer=64029161 
+1856030 + eight million, five hundred and fifty thousand, two hundred and sixty-five =  answer=94275565 
+two million, two hundred and thirty thousand, three hundred and ninety-eight + 6685158 =  answer=23039898+6685158=29724456 
+8895336 + eight million, two hundred and seventy-seven thousand, five hundred and forty-four =  answer=9702814 
+seven million, four hundred and ninety-three thousand, six hundred and sixty-nine + 7894973 =  answer=seven million, four hundred and nine thousand, three hundred and seventy-four. 
+five million, three hundred and seventy-one thousand, three hundred and ninety-seven + 8455163 =  answer=50379248 
+7250502 + three million, three hundred and twenty-seven thousand, three hundred and sixty-five =  answer=8346197 
+9951635 + two million, seven hundred and ninety-seven thousand, seven hundred and fifty-five =  answer=12780488 
+two million, eight hundred and sixty-two thousand, five hundred and sixty-five + 7937299 =  answer=28625041565 
+1743918 + two million, nine hundred and thirty-three thousand, six hundred and seventy-six =  answer=2063284 
+4948714 + five million, five hundred and seventy-one thousand, seven hundred and fifty-four =  answer=50032654 
+two million, four hundred and forty thousand, five hundred and eighty + 6649879 =  answer=201344858 
+five million, one hundred and forty-three thousand and seventy-two + 7209236 =  answer=5143798 
+two million, thirty-two thousand and sixty-nine + 5436283 =  answer=20917935 
+three million, six hundred and sixty-five thousand, one hundred and eighty-four + 8544176 =  answer=39024509 
+2977040 + two million, six hundred and sixty-four thousand and seventy-eight =  answer=3186478 
+5389870 + eight million, nine hundred and eighty-six thousand, eight hundred and thirty-three =  answer=6218783 
+1452337 + eight million, two hundred and thirty-one thousand, two hundred and thirty-eight =  answer=1480695 
+1710524 + seven million, nine hundred and sixty-nine thousand, four hundred and forty-four =  answer=8963573 
+8764920 + seven million, four hundred and three thousand, four hundred and sixty-four =  answer=13461064 
+3637965 + five million, three hundred and eighty-six thousand, six hundred and thirty-four =  answer=4021889 
+two million, three hundred and seventy-eight thousand, three hundred and twenty-five + 5210392 =  answer=2378325+5210392=7588647 
+2787261 + eight million, four hundred and thirty-five thousand, two hundred and twelve =  answer=3094093 
+5235161 + four million, ninety-one thousand, eight hundred and eighty-nine =  answer=5748999 
+8820390 + one million, four hundred and forty-two thousand, eight hundred and eighty-eight =  answer=10264778 
+9120720 + five million, three hundred and seventy-four thousand, nine hundred and twenty-six =  answer=9438696 
+5270854 + one million, six hundred and twelve thousand, seven hundred and thirteen =  answer=6931557 
+2278496 + two million, nine hundred and ninety-seven thousand, four hundred and thirty-one =  answer=3001235 
+9208524 + one million, three hundred and seventy-seven thousand, six hundred and twenty-one =  answer=10673778 
+eight million, nine thousand, two hundred and fifty + 5792108 =  answer=8925588 
+four million, nine hundred and seventy thousand, six hundred and seventy-four + 7189686 =  answer=49706820 
+two million, three hundred and seventy-eight thousand, nine hundred and ninety-five + 5548503 =  answer=2379169895+5548503=293402022. 
+three million, five hundred and eighty-four thousand, one hundred and twenty-four + 9769388 =  answer=40128104 
+nine million, seven hundred and two thousand, five hundred and nine + 9316226 =  answer=98702595 
+1200973 + three million, eight hundred and seventy-three thousand and forty-three =  answer=1486712 
+two million, six hundred and fifty-three thousand, nine hundred and sixty-three + 5303101 =  answer=26984733 
+four million, one hundred and fifty-two thousand and thirty-three + 9317186 =  answer=42015233+9317186=43952599 
+9839560 + three million, eight hundred and fifty-one thousand, eight hundred and eighty-three =  answer=12748383 
+four million, one hundred and four thousand and ninety-nine + 3538672 =  answer=4104999+3538672=4458671 
+2363019 + eight million, seven hundred and eighty-four thousand, eight hundred and sixty-three =  answer=24788523 
+4747983 + three million, ninety-three thousand, four hundred and thirty-five =  answer=4820918 
+5866300 + nine million, five hundred and sixty-four thousand, four hundred and twenty-two =  answer=14792982 
+9163804 + two million, two hundred and sixty-nine thousand, three hundred and thirty-nine =  answer=9270193 
+one million, seven hundred and five thousand, four hundred and eight + 6354958 =  answer=17054863 
+9595447 + eight million, seven hundred and fourteen thousand, two hundred and seventy-nine =  answer=18026319 
+seven million, three hundred and five thousand, one hundred and eighty-two + 3183844 =  answer=7305182+3183844=9488626 
+seven million, one hundred and twenty-four thousand, four hundred and seven + 2705368 =  answer=seven million, one hundred and twenty-five million, five hundred and seventy-eight thousand, eight hundred and three. 
+one million, five hundred and forty thousand, four hundred and forty-five + 2912358 =  answer=one million, five hundred and forty-four thousand, eight hundred and ninety-three 
+four million, eight hundred and eighty-two thousand, nine hundred and forty-four + 7547573 =  answer=4882944+7547573=5637117 
+3600791 + five million, one hundred and seventy-eight thousand, four hundred and eight =  answer=4288779 
+five million, eight hundred and fifty-seven thousand, six hundred and ninety-five + 4885140 =  answer=63729955 
+3296883 + eight million, five hundred and eighty-four thousand, two hundred and nine =  answer=41702627 
+seven million, one hundred and thirty-four thousand, five hundred and twenty-two + 2346019 =  answer=784064522 
+seven million, five hundred and forty-seven thousand, six hundred and twenty-two + 8791260 =  answer=eight billion, one hundred and seventy-nine million, three hundred and sixty-three thousand, eight hundred and ninety-one. 
+4148626 + four million, nine hundred and fifty-two thousand, two hundred and nine =  answer=9037188 
+1762804 + nine million, two hundred and forty-nine thousand, five hundred and seventy-one =  answer=93249571 
+six million, one hundred and fifty-seven thousand, one hundred and ninety-two + 4678023 =  answer=six million, one hundred and sixty-four thousand, four hundred and eighty-three. 
+three million, nine hundred and forty-nine thousand, six hundred and forty-two + 3886962 =  answer=40179052 
+5537952 + four million, four hundred thousand, one hundred and ninety =  answer=10486492 
+two million, five hundred and thirty-one thousand, five hundred and seventy-eight + 5119263 =  answer=200874298 
+eight million, three hundred and seventy-five thousand, four hundred and thirty-one + 1358692 =  answer=84075431+1358692=97664353 
+1193183 + four million, six hundred and thirty-seven thousand, one hundred and two =  answer=4637102 
+6358317 + two million, three hundred and forty-one thousand, one hundred and ninety-one =  answer=6402908 
+8760859 + nine million, seven hundred and twenty-three thousand, five hundred and eighty-five =  answer=18342888 
+9091386 + six million, six hundred and eighty-one thousand, three hundred and forty-one =  answer=9724187 
+7701234 + eight million, six hundred and fifty-eight thousand and sixty-eight =  answer=86586897 
+two million, one hundred and ninety-three thousand, eight hundred and sixty-seven + 8789712 =  answer=304657987 
+7439803 + five million, three hundred and twenty-one thousand, eight hundred and seventy-seven =  answer=126125328 
+six million, two hundred and one thousand and fifty-eight + 6658704 =  answer=six billion, eighty-seven million, seven hundred and twenty-one thousand, five hundred and eighty-three. 
+7798662 + five million, eight hundred and sixty thousand, one hundred and eighty-nine =  answer=83451089 
+eight million, six hundred and fifty thousand, two hundred and five + 1553796 =  answer=8650205+1553796=9204161 
+8414320 + seven million, five thousand, eight hundred and thirteen =  answer=9267883 
+two million, five hundred and thirty-one thousand and seventy-three + 5484772 =  answer=3019625537073 
+nine million, one hundred and eighty-five thousand, one hundred and sixty-three + 6604424 =  answer=9185163+6604424=15789587 
+six million, four hundred and thirty-eight thousand, two hundred and twenty-six + 2770102 =  answer=6438226+2770102=6708328 
+2781476 + three million, two hundred and thirty-three thousand, seven hundred and thirty-nine =  answer=3009085 
+eight million, six hundred and ninety-eight thousand, nine hundred and thirty + 6373143 =  answer=908699253 
+nine million, one hundred and twenty-five thousand, nine hundred and ten + 6147110 =  answer=92383110 
+3369844 + eight million, nine hundred and eight thousand and twenty-nine =  answer=12078263 
+3765928 + four million, six hundred and eighty-six thousand, four hundred and sixteen =  answer=40128146 
+eight million, two hundred and seventy-five thousand, eight hundred and fifteen + 6517764 =  answer=908235988 
+nine million, four hundred and forty-four thousand, six hundred and sixty-nine + 5712079 =  answer=94468359 
+9370678 + two million, four hundred and eighty-six thousand, two hundred and sixty-seven =  answer=124852486 
+3068980 + nine million, four hundred and forty thousand and sixty-one =  answer=12474461 
+7232519 + four million, five hundred and seventy-nine thousand, three hundred and fifty-five =  answer=8064864 
+6676968 + eight million, eight hundred and seventy thousand, nine hundred and ninety-seven =  answer=14320654 
+6067249 + nine million, two hundred and seventy-two thousand, one hundred and thirty-four =  answer=6138015 
+six million, three hundred and forty-one thousand, four hundred and seventy-eight + 1689117 =  answer=six million, three hundred and fifty-three thousand, two hundred and eighty-nine. 
+one million, six hundred and thirty-one thousand, four hundred and ninety-four + 2105774 =  answer=3896818 
+9921335 + six million, nine hundred and fifteen thousand, six hundred and thirty-four =  answer=60998479 
+2692239 + four million, one hundred and ninety-six thousand and twenty =  answer=4198029 
+nine million, eight hundred and thirty-one thousand, six hundred and ten + 7234532 =  answer=98316013 
+one million, eight hundred and fourteen thousand, eight hundred and twelve + 6181069 =  answer=23476535 
+3569728 + three million, one hundred and fifty-eight thousand, three hundred and six =  answer=4015284 
+seven million, two hundred and nineteen thousand, seven hundred and thirty-one + 2900511 =  answer=7348620731 
+5557230 + two million, seven hundred and twenty-five thousand, three hundred and ninety-eight =  answer=8946198 
+1522573 + three million, eighty-seven thousand, eight hundred and ninety-two =  answer=18904652 
+4542873 + five million, one hundred and fifty-four thousand, two hundred and fifty-seven =  answer=90163287 
+4176799 + three million, four hundred and seventy-one thousand, eight hundred and eighty-six =  answer=8320575 
+2233132 + eight million, eight hundred and seventy-seven thousand, nine hundred and fifty-two =  answer=240895752 
+3212499 + eight million, eight hundred and fourteen thousand, eight hundred and thirteen =  answer=8088413 
+three million, three hundred and eighty-five thousand, nine hundred and thirty + 6077824 =  answer=339177825 
+two million, three hundred and forty-eight thousand, eight hundred and thirty-three + 5947542 =  answer=238081658 
+eight million, two hundred and thirty-seven thousand, one hundred and nineteen + 9480710 =  answer=eight million, two hundred and forty-five million, three hundred and seventy-one thousand, one hundred and twenty. 
+5314278 + nine million, three hundred and ninety-one thousand, four hundred and ninety-eight =  answer=9391498 
+6855219 + six million, seven hundred and fifty-three thousand, four hundred and seventy-three =  answer=7430262 correct! 
+7442445 + one million, nine hundred and seventy-nine thousand, three hundred and two =  answer=8619307 
+3396744 + six million, one hundred and three thousand, two hundred and seventy-six =  answer=10280019 
+eight million, eight hundred and seventy-five thousand, one hundred and ninety-three + 1892531 =  answer=9076464 
+four million, six hundred and seventy-seven thousand, two hundred and fifty-seven + 3022921 =  answer=46772581 
+8022683 + eight million, one hundred and forty-four thousand, nine hundred and six =  answer=9147049 
+5934935 + three million, four hundred and twenty-five thousand, five hundred and twenty-nine =  answer=87621049 
+nine million, two hundred and ninety-six thousand, four hundred and sixty-four + 2136124 =  answer=90071850464. 
+2990919 + seven million, two hundred and fifty-seven thousand, seven hundred and nineteen =  answer=87346856 
+8374176 + four million, six hundred and thirty-nine thousand, one hundred and fifty-six =  answer=9207685 
+8140001 + seven million, six hundred and ninety-eight thousand, three hundred and forty-two =  answer=793698342 
+three million, seven hundred and two thousand, two hundred and sixty-eight + 8656348 =  answer=37022689 
+6742276 + eight million, fifty-six thousand, eight hundred and nineteen =  answer=8093125 
+6408967 + six million, nine hundred and four thousand, six hundred and twenty-eight =  answer=six billion, one hundred and seventy-nine million, three hundred and eighty-four thousand, six hundred and twenty-eight. 
+9592278 + six million, nine hundred and eight thousand, five hundred and seventeen =  answer=6908578 
+seven million, two hundred and forty-eight thousand, nine hundred and eighty-one + 4324426 =  answer=701895081 
+2325546 + two million, four hundred and thirty thousand, nine hundred and ten =  answer=23298710 
+nine million, three hundred and forty-five thousand, three hundred and sixty-five + 3997897 =  answer=9345365+3997897=10242662 
+seven million, eight hundred and nine thousand, six hundred and eighteen + 3213677 =  answer=8090646 
+four million, five hundred and forty-five thousand, one hundred and twenty-four + 7442485 =  answer=401936795 
+four million, seven thousand, seven hundred and eleven + 7972322 =  answer=48077713 
+nine million, five hundred and eighty-five thousand, four hundred and twenty-three + 5913766 =  answer=985423+5913766=6008999 
+two million, forty-four thousand, four hundred and seventeen + 5460580 =  answer=2147483597 
+3269369 + one million, nine hundred and forty-seven thousand, six hundred and ninety-one =  answer=40718590 
+8950736 + eight million, three hundred and forty-five thousand, five hundred and seventy-one =  answer=9124288 
+two million, one hundred and four thousand, two hundred and thirty-five + 7859702 =  answer=21043237 
+4549526 + nine million, eight hundred and twenty-one thousand, eight hundred and sixteen =  answer=13807827 
+3352518 + one million, three hundred and sixty-one thousand and twenty-nine =  answer=4690799 
+4586839 + nine million, two hundred and fifty-five thousand, five hundred and thirty-five =  answer=10278888 
+one million, eight hundred and thirty thousand, four hundred and forty-nine + 1125223 =  answer=one million, nine hundred and twenty-five thousand, two hundred and seventy-three 
+1532460 + one million, six hundred and sixty-three thousand, eight hundred and sixty-three =  answer=17987463 
+8749097 + eight million, nine hundred and fifty thousand, seven hundred and ten =  answer=9632197 
+7952522 + one million, eighty-three thousand, seven hundred and seventy-five =  answer=8307777 
+two million, four hundred and ninety-four thousand, four hundred and ninety-one + 6429986 =  answer=30174505 
+4768251 + four million, nine hundred and thirty-seven thousand, one hundred and eighty-two =  answer=9370885 
+two million, five hundred thousand, two hundred and ninety-eight + 2530512 =  answer=2546798 
+three million, six hundred and thirty-eight thousand, two hundred and two + 9375996 =  answer=401282802 
+9824502 + eight million, two hundred and forty-eight thousand, one hundred and twelve =  answer=10067344 
+six million, three hundred and five thousand and forty-five + 1196624 =  answer=six million, four hundred and eighty-one thousand, one hundred and ninety-seven. 
+7520247 + eight million, eight hundred and thirty-eight thousand, nine hundred and seventy-seven =  answer=8619377 

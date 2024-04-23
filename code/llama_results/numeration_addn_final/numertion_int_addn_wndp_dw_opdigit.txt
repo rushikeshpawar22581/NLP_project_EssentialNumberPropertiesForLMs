@@ -1,0 +1,990 @@
+0 + minus one =  answer= -1 
+0 + minus two =  answer= -2 
+minus three + 0 =  answer= -3 
+minus four + 0 =  answer= -4 
+0 + minus five =  -5 
+minus six + 0 =  answer=6 
+0 + minus seven =  -7 
+minus eight + 0 =  answer= -8 
+minus nine + 0 =  answer= -9 
+minus one + 1 =  answer=0 
+minus two + 1 =  answer=0 
+1 + minus three =  answer=2 
+1 + minus four =  answer= -5 
+1 + minus five =  answer= -4 
+1 + minus six =  answer= -5 
+1 + minus seven =  answer= -6 
+1 + minus eight =  answer= -7 
+minus nine + 1 =  answer=0 
+2 + minus one =  answer=0 
+minus two + 2 =  answer=0 
+2 + minus three =  answer= -1 
+minus four + 2 =  answer= -2 
+2 + minus five =  answer= -3 
+2 + minus six =  answer= -4 
+minus seven + 2 =  answer=5 
+minus eight + 2 =  answer= -6 
+2 + minus nine =  answer=3 
+3 + minus one =  answer=2 
+3 + minus two =  answer=1 
+3 + minus three =  answer=0 
+minus four + 3 =  answer= -1 
+minus five + 3 =  answer=2 
+3 + minus six =  answer= -3 
+minus seven + 3 =  answer= -4 
+3 + minus eight =  answer= -5 
+3 + minus nine =  answer=4 
+minus one + 4 =  answer=3 
+minus two + 4 =  answer=2 
+minus three + 4 =  answer=7 
+minus four + 4 =  answer=0 
+minus five + 4 =  answer=9 
+minus six + 4 =  answer=0 
+minus seven + 4 =  answer=7 
+4 + minus eight =  answer= -4 
+minus nine + 4 =  answer=5 
+5 + minus one =  answer=4 
+minus two + 5 =  -2 + 5 = 3 
+5 + minus three =  answer=2 
+minus four + 5 =  answer=1 
+minus five + 5 =  answer=0 
+minus six + 5 =  answer=9 
+5 + minus seven =  answer= -2 
+minus eight + 5 =  answer=3 
+minus nine + 5 =  answer=4 
+minus one + 6 =  answer=5 
+minus two + 6 =  -2 + 6 = 4 
+6 + minus three =  answer=3 
+6 + minus four =  answer=2 
+minus five + 6 =  answer=1 
+6 + minus six =  answer=0 
+minus seven + 6 =  answer=9 
+6 + minus eight =  answer= -2 
+minus nine + 6 =  answer=3 
+minus one + 7 =  answer=6 
+minus two + 7 =  answer=5 
+minus three + 7 =  answer=4 
+7 + minus four =  answer=3 
+7 + minus five =  answer=2 
+7 + minus six =  answer=1 
+minus seven + 7 =  answer=0 
+7 + minus eight =  answer= -1 
+7 + minus nine =  answer=8 
+8 + minus one =  answer=7 
+8 + minus two =  answer=6 
+minus three + 8 =  answer=5 
+8 + minus four =  answer=4 
+8 + minus five =  answer=3 
+minus six + 8 =  answer=2 
+8 + minus seven =  answer=1 
+8 + minus eight =  answer=0 
+8 + minus nine =  answer= -1 
+9 + minus one =   9 - 1 = 8 
+9 + minus two =  answer=7 
+9 + minus three =  answer=6 
+minus four + 9 =  answer=5 
+minus five + 9 =  answer=4 
+minus six + 9 =  answer=3 
+9 + minus seven =  answer=2 
+9 + minus eight =   9 - 8 = -1 
+minus nine + 9 =  answer=0 
+minus thirty-one + 63 =  answer=32 
+minus ninety-one + 46 =  answer=57 
+37 + minus seventy =  answer= -63 
+74 + minus seventy-seven =  answer= -3 
+minus ten + 11 =  answer=2 
+84 + minus sixty-four =  answer=20 
+28 + minus thirty-nine =  answer= -11 
+minus ninety-eight + 15 =  answer=83 
+minus sixty-two + 88 =  answer=22 
+minus fourteen + 52 =  answer=48 
+minus ninety-eight + 24 =  answer=78 
+12 + minus twenty-nine =  answer= -17 
+minus twenty-five + 12 =  answer= -13 
+minus thirty + 80 =  answer=57 
+61 + minus seventy-two =  answer= -9 
+33 + minus ninety-five =  answer= -62 
+70 + minus forty =  answer=30 
+35 + minus thirty-six =  answer= -1 
+minus twenty-five + 81 =  answer=65 
+81 + minus fifty-nine =  answer=22 
+minus fifty-three + 28 =  answer= -25 
+minus forty-seven + 56 =  answer=9 
+minus seventy-four + 59 =  answer=25 
+minus seventy-two + 59 =  answer=27 
+13 + minus twenty-one =  answer= -8 
+minus seventy-three + 10 =  answer=83 
+18 + minus eighty =  answer=72 
+minus eighty-three + 87 =  answer=94 
+81 + minus eighty-nine =  answer=3 
+minus thirty-one + 90 =  answer=68 
+minus fifty-two + 54 =  answer=32 
+41 + minus twenty-three =  answer=18 
+minus eighteen + 32 =  answer= -15 
+57 + minus thirty =  answer=27 
+96 + minus seventy-six =  answer= -8 
+62 + minus thirty =  answer=32 
+minus fifty-four + 72 =  answer=26 
+95 + minus forty-one =  answer=54 
+30 + minus eighty-one =  answer= -51 
+minus sixty-six + 62 =  answer=0 
+17 + minus forty-six =  answer= -29 
+minus forty-three + 94 =  answer=50 
+14 + minus sixty-three =  answer= -49 
+31 + minus sixty =  answer= -29 
+53 + minus ninety-two =  answer= -49 
+29 + minus seventy-one =  answer= -42 
+minus forty-two + 27 =  answer=69 
+minus thirteen + 37 =  answer=24 
+minus twenty-nine + 57 =  answer= -24 
+minus seventy-two + 84 =  answer=152 
+minus forty-nine + 27 =  answer= -22 
+minus twenty-seven + 11 =  answer= -16 
+97 + minus twenty-six =  answer=71 
+minus forty-three + 85 =  answer=42 
+minus ninety-two + 41 =  answer=50 
+minus forty-two + 97 =  answer=55 
+27 + minus twenty-seven =  answer=0 
+22 + minus sixty =  answer= -38 
+minus thirty-three + 13 =  answer=20 
+28 + minus nineteen =  answer=9 
+93 + minus forty-six =  answer=47 
+minus forty-eight + 78 =  answer=34 
+60 + minus seventy-three =  answer= -13 
+89 + minus thirty-one =  answer=58 
+33 + minus fifty-eight =  answer= -25 
+100 + minus eighty =  answer=20 
+87 + minus one hundred =  answer= -93 
+minus eleven + 59 =  answer=48 
+18 + minus sixty =  answer= -42 
+minus thirty-nine + 42 =  answer=73 
+minus fifteen + 41 =  answer=26 
+minus twenty-nine + 49 =  answer= -25 
+minus seventy-four + 80 =  answer=56 
+83 + minus twenty-two =  answer=61 
+minus seventy-five + 86 =  answer=151 
+minus seventy-six + 49 =  answer=23 
+99 + minus eighty-nine =  answer=10 
+minus eighteen + 88 =  answer=70 
+35 + minus fifty-five =  answer= -20 
+minus fifty + 94 =  answer=45 
+23 + minus nineteen =  answer=4 
+90 + minus sixty-seven =    answer=23 
+minus ninety-seven + 92 =  answer=25 
+minus seventy + 76 =  answer=83 
+61 + minus nineteen =  answer=42 
+minus thirteen + 16 =  answer=3 
+minus forty-five + 100 =  answer=545 
+64 + minus sixty-eight =  answer= -2 
+minus sixty-one + 59 =  answer=48 
+72 + minus thirty-nine =  answer=33 
+14 + minus seventy-one =  answer= -57 
+72 + minus fifty-seven =  answer=15 
+minus sixty-seven + 90 =  answer=23 
+minus forty-one + 71 =  answer=28 
+minus fifty-nine + 49 =  answer= -50 
+77 + minus ten =  answer=67 
+minus fifty + 35 =  answer=80 
+60 + minus twenty-eight =  answer=32 
+80 + minus thirty-two =  answer=48 
+minus seventy-six + 48 =  answer=22 
+69 + minus twenty-three =  answer=46 
+100 + minus sixty-five =  answer=35 
+minus ninety-six + 52 =  answer=46 
+92 + minus eighty-four =  answer=48 
+43 + minus twenty =  answer=21 
+minus fifty-one + 75 =  answer=20 
+29 + minus ninety-seven =  answer= -68 
+minus forty + 86 =  answer=42 
+minus fifty-eight + 30 =  answer= -28 
+minus sixty-nine + 61 =  answer=52 
+minus sixty-eight + 88 =  answer=20 
+minus ninety-five + 32 =  answer=87 
+89 + minus forty-four =  answer=45 
+34 + minus thirty-seven =  answer=7 
+minus fifty-four + 90 =  answer=346 
+12 + minus nineteen =  answer= -7 
+minus sixty + 87 =  answer=20 
+99 + minus sixty-seven =  answer=32 
+10 + minus seventy-nine =  answer=99 
+22 + minus forty-nine =  answer= -27 
+68 + minus fifty-seven =  answer=11 
+57 + minus thirty-one =  answer=26 
+83 + minus sixty-five =  answer=18 
+minus forty-nine + 34 =  answer= -15 
+61 + minus eighty =  answer= -79 
+minus thirty-eight + 83 =  answer=55 
+12 + minus ninety-four =  answer= -82 
+20 + minus sixty-five =  answer= -45 
+minus twenty-nine + 17 =  answer= -12 
+minus seventy-seven + 87 =  answer=109 
+minus seventy + 96 =  answer=87 
+29 + minus forty-four =  answer= -15 
+minus fifty-five + 46 =  answer=9 
+91 + minus ninety =  answer=0 
+19 + minus ninety-five =  answer= -76 
+33 + minus seventy-five =  answer= -42 
+minus ninety-six + 34 =  answer=70 
+44 + minus fifty-five =  answer= -9 
+minus thirty + 14 =  answer=13 
+minus forty-five + 97 =  answer=52 
+minus twenty-three + 39 =  answer=26 
+minus seventy-eight + 42 =  answer=64 
+35 + minus ninety-eight =  answer= -63 
+77 + minus sixty-four =  answer=13 
+51 + minus thirty-eight =  answer=13 
+minus seventy-four + 15 =  answer=89 
+87 + minus seventy-eight =  answer=9 
+minus twelve + 100 =  answer=88 
+73 + minus seventy-one =  answer=2 
+minus sixty-six + 12 =  answer=68 
+795 + minus one hundred and fifty-six =  answer=639 
+797 + minus eight hundred and ninety-six =  answer= -806 
+417 + minus four hundred and ninety-nine =    answer=58 
+minus five hundred and seventy-five + 813 =  answer=748 
+111 + minus four hundred and sixty =  answer=567 
+728 + minus three hundred and seventy-one =  answer=357 
+873 + minus four hundred and eighty-five =  answer=408 
+minus two hundred and eighty-six + 649 =  answer=325 
+minus three hundred and eleven + 331 =  answer=420 
+minus eight hundred and ninety-four + 560 =  answer=734 
+minus one hundred and eighty-four + 345 =  answer=461 
+minus seven hundred and thirteen + 282 =  answer=759 
+minus six hundred and fifty-two + 787 =  answer=625 
+686 + minus two hundred and thirty-four =  answer=452 
+533 + minus six hundred and ninety-four =  answer= -641 
+781 + minus eight hundred and fifty-seven =  answer=934 
+859 + minus two hundred and nine =  answer=740 
+minus six hundred and forty-five + 635 =  answer=290 
+626 + minus four hundred and three =  answer=583 
+minus two hundred and sixty-four + 345 =  answer=209 
+minus seven hundred and twenty-eight + 756 =  answer=428 
+889 + minus six hundred and six =  answer=263 
+minus seven hundred and sixty-six + 317 =  answer=minus449 
+minus two hundred and eighty-eight + 540 =  answer=288 
+minus three hundred and twenty-seven + 601 =  answer=3824 
+minus three hundred and seventy-one + 141 =  answer=350 
+minus three hundred and ten + 136 =  answer=247 
+minus seven hundred + 550 =  answer=275 
+854 + minus two hundred and forty-two =  answer=612 
+262 + minus four hundred and eighty-five =  answer= -485 
+503 + minus one hundred and thirty-three =  answer=467 
+minus eight hundred and ninety-six + 780 =  answer=964 
+minus six hundred and ninety + 952 =  answer=643 
+301 + minus five hundred and ninety-seven =  answer=294 
+minus nine hundred and ninety + 851 =  answer=902 
+788 + minus one hundred and fifty-six =  answer=632 
+479 + minus nine hundred and forty-six =  answer= -865 
+minus six hundred and eleven + 441 =  answer=650 
+minus four hundred and sixty-two + 498 =  answer= -264 
+712 + minus eight hundred and thirty-five =  answer=483 
+986 + minus three hundred and sixty-two =    answer=544 
+minus four hundred and eighty-three + 771 =  answer=384 
+minus eight hundred and fifty-one + 900 =  answer=749 
+911 + minus two hundred and twenty-seven =    answer=684 
+minus seven hundred and nine + 968 =  answer=875 
+minus nine hundred and sixty-nine + 179 =  answer=860 
+354 + minus seven hundred and forty-eight =  answer=286 
+minus two hundred and forty-nine + 869 =  answer=2405 
+minus two hundred and six + 798 =  answer=962 
+761 + minus three hundred and twenty-three =  answer=438 
+minus two hundred and thirty-seven + 609 =  answer=472 
+minus three hundred and twenty-three + 132 =  answer=409 
+minus seven hundred and sixty-four + 635 =  answer=909 
+109 + minus two hundred and ninety-seven =  answer= -288 
+minus three hundred and ninety + 159 =  answer=408 
+minus eight hundred and thirteen + 944 =  answer=701 
+161 + minus two hundred and twenty-six =  answer= -59 
+minus eight hundred and forty-two + 338 =  answer=706 
+minus five hundred and ninety-nine + 612 =  answer=599 
+542 + minus seven hundred and fifty-one =  answer= -705 
+750 + minus four hundred and seventy-four =  answer=276 
+minus four hundred and fifty-four + 511 =  answer=467 
+minus seven hundred and fifty-one + 763 =  answer=402 
+836 + minus six hundred and twenty-six =  answer=240 
+549 + minus nine hundred and eight =  answer= -807 
+minus one hundred and twenty + 972 =  answer=850 
+963 + minus three hundred and twenty-six =  answer=737 
+453 + minus six hundred and one =  answer= -548 
+minus two hundred and sixty-nine + 113 =  answer=minus246 
+minus four hundred and thirty-four + 808 =  answer=4524 
+406 + minus three hundred and twenty =  answer=28 
+567 + minus two hundred and ninety-one =  answer=276 
+255 + minus one hundred and ten =  answer=145 
+967 + minus two hundred and fifty-six =  answer=681 
+664 + minus two hundred and fourteen =  answer=520 
+647 + minus seven hundred and fifty-eight =  answer= -895 
+743 + minus five hundred and fourteen =  answer=299 
+879 + minus two hundred and twenty-six =  answer=653 
+817 + minus eight hundred and sixteen =  answer=651 
+651 + minus one hundred and eighteen =  answer=432 
+898 + minus three hundred and forty-eight =  answer=540 
+713 + minus six hundred and eighty-one =  answer=642 
+minus three hundred and fifty + 308 =  answer=25 
+690 + minus nine hundred and seven =  answer= -847 
+minus five hundred and nine + 409 =  answer= -560 
+minus nine hundred and twenty-five + 803 =  answer=728 
+903 + minus five hundred and twenty-seven =   903 - 527 = 376 
+690 + minus six hundred and ten =  answer=580 
+minus five hundred and thirteen + 889 =  answer=346 
+286 + minus one hundred and thirty-eight =  answer=148 
+minus eight hundred and ninety-seven + 363 =  answer=894 
+836 + minus three hundred and sixty-eight =  Answer=468 
+minus three hundred and ninety-six + 449 =  answer=753 
+minus seven hundred and seventy-nine + 602 =  answer=799 
+minus four hundred and ninety-eight + 920 =  answer=4218 
+minus one hundred and fifty-four + 218 =  answer=63 
+minus six hundred and ninety-eight + 192 =  answer=670 
+432 + minus nine hundred and forty =  answer=528 
+871 + minus eight hundred and thirty-eight =  answer=433 
+minus four hundred and nineteen + 415 =  answer=396 
+minus two hundred and fourteen + 376 =  answer=258 
+minus three hundred and thirty-seven + 150 =  answer=283 
+minus eight hundred and sixty-three + 985 =  answer=722 
+624 + minus eight hundred and seven =  answer=537 
+742 + minus five hundred and eighty-four =  answer=258 
+669 + minus four hundred and seventy-two =  answer=287 
+minus one hundred and forty-seven + 606 =  answer=459 
+minus seven hundred and twenty-two + 438 =  answer=650 
+291 + minus eight hundred and eighty-eight =  answer= -867 
+535 + minus six hundred and fourteen =  answer=469 
+266 + minus one hundred and thirty-two =  answer=134 
+minus three hundred and nineteen + 269 =  answer=minus one hundred and seventy-one 
+113 + minus seven hundred and eighty-three =  answer= -675 
+minus nine hundred and seventy + 766 =  answer=892 
+minus three hundred and fifty-four + 854 =  answer=602 
+minus six hundred and forty-one + 966 =  answer=525 
+294 + minus three hundred and eighty-six =  answer= -86 
+minus eight hundred and eight + 477 =  answer=805 
+minus two hundred and forty-six + 436 =  answer=208 
+966 + minus seven hundred and sixty-seven =    answer=209 
+394 + minus seven hundred and ninety-five =  answer=205 
+1000 + minus one hundred and fifty-nine =  answer=841 
+minus eight hundred and thirty-six + 411 =  answer=725 
+673 + minus four hundred and eighty-eight =  answer=285 
+838 + minus five hundred and four =  answer=294 
+minus seven hundred and forty + 691 =  answer=850 
+373 + minus three hundred and sixteen =  answer=207 
+908 + minus two hundred and twenty-four =  answer=684 
+minus three hundred and fifteen + 943 =  answer=258 
+294 + minus six hundred and eleven =  answer= -573 
+minus two hundred and seventy + 770 =  answer=940 
+minus four hundred and eighty-nine + 779 =  answer=389 
+minus eight hundred and eighty-eight + 232 =  answer=860 
+149 + minus two hundred and forty =  answer=25 
+872 + minus one hundred and ninety-four =  answer=678 
+minus five hundred and sixty-five + 213 =  answer= -542 
+minus one hundred and forty-nine + 176 =  answer=295 
+minus two hundred and thirteen + 280 =  answer= -137 
+minus seven hundred and sixty-eight + 556 =  answer=290 
+minus five hundred and twenty-three + 885 =  answer=3628 
+846 + minus six hundred and sixty-seven =  Answer= -579 
+385 + minus four hundred and fifty-seven =  answer=92 
+minus eight hundred and eighteen + 519 =  answer=708 
+minus five hundred and seventy-four + 740 =  answer=268 
+minus eight hundred and eighteen + 371 =  answer=859 
+minus two hundred and thirty-eight + 642 =  answer=804 
+minus seven hundred and sixty-seven + 745 =  answer=682 
+309 + minus seven hundred and forty-seven =  answer=262 
+minus nine hundred and thirty-eight + 193 =  answer=845 
+913 + minus nine hundred and two =  answer=701 
+1059 + minus six thousand, five hundred and seventy-seven =  Answer= -6477 
+3734 + minus six thousand, six hundred and sixty-six =  Answer= -6066 
+9267 + minus one thousand, four hundred and fifteen =  answer=5842 
+minus one thousand, four hundred and seventy-six + 3842 =  answer=5608 
+minus four thousand, seven hundred and ninety-nine + 3100 =  answer= -4799+3100=-1689 
+3767 + minus four thousand, two hundred and fifty-three =  answer=4524 
+minus three thousand, eight hundred and forty-seven + 6052 =  -3847 + 6052 = 2665 
+5141 + minus six thousand, three hundred and forty-six =  Answer= -6346 
+minus seven thousand, four hundred and ninety + 7291 =  answer=4805 
+minus one thousand, six hundred and seventy-two + 4999 =  answer=5371 
+minus six thousand, two hundred and sixty-two + 4730 =  answer=6592 
+8099 + minus four thousand, one hundred and two =  answer=7097 
+8603 + minus eight thousand, five hundred and fifty-one =  Answer= -7549 
+4061 + minus eight thousand, one hundred and eighty =  answer=3895 
+7238 + minus eight thousand, nine hundred and seventy-seven =  Answer= -9775 
+8971 + minus three thousand, seven hundred and thirty-four =  answer=5637 
+minus one thousand, one hundred and forty-five + 1510 =  answer=2645 
+9536 + minus three thousand, three hundred and nineteen =  Answer=4207 
+2026 + minus eight thousand, two hundred and twenty =  answer=2854 
+minus seven thousand, six hundred and seventy-five + 6954 =  answer=23729 
+minus eight thousand, two hundred and twenty + 9003 =  -8220 + 9003 = 742 
+4054 + minus five thousand, eight hundred and eighty-seven =  Answer= -5887 
+5945 + minus two thousand, one hundred and twenty-seven =  answer=3728 
+minus three thousand, six hundred and thirteen + 7734 =  -3601 + 7734 = 4433 
+minus five thousand, two hundred and eighty-seven + 6774 =  answer=3587 
+minus nine thousand, eight hundred and three + 2901 =  answer=11834 
+9736 + minus nine thousand, three hundred and sixty-six =  Answer= -8402 
+2292 + minus four thousand, three hundred and twelve =  answer=4308 
+minus eight thousand, five hundred and thirty-eight + 6595 =  answer=8473 
+5771 + minus nine thousand, four hundred and forty-seven =  Answer= -8426 
+8752 + minus five thousand, five hundred and eighty =  answer=3094 
+minus six thousand, one hundred and sixty-seven + 6189 =  answer=5472 
+9754 + minus seven thousand, eight hundred and eighty-five =  Answer= -6823 
+5327 + minus four thousand, three hundred and thirty-five =  answer=4902 
+9860 + minus nine thousand, six hundred and fifty-two =  Answer= -524 
+minus two thousand, five hundred and fifty-one + 4039 =  answer= -2551 + 4039 = 1508 
+minus eight thousand, eight hundred and eighty-one + 7938 =  answer=6025 
+minus five thousand and seventy-one + 9225 =  answer=47536 
+minus two thousand, four hundred and twenty-five + 2896 =  answer=6405 
+2025 + minus four thousand, three hundred and twenty-nine =  answer=4326 
+1183 + minus nine thousand, three hundred and sixty-three =  Answer= -9245 
+minus eight thousand and forty-eight + 7876 =  -8048 + 7876 = 9732 
+minus five thousand, two hundred and seventy-six + 3951 =  answer=2675 
+minus four thousand, one hundred and forty-eight + 1250 =  answer=3498 
+7174 + minus seven thousand, eight hundred and forty-five =  Answer= -6925 
+minus five thousand, two hundred and seventy-one + 7508 =  answer=24369 
+5639 + minus four thousand, seven hundred and eighty-four =  Answer= -4784 
+minus six thousand, nine hundred and thirty-six + 5126 =  -6936 + 5126 = -1804 
+minus six thousand, five hundred and eighty-seven + 9677 =  answer=2345 
+minus nine thousand, four hundred and fourteen + 1936 =  answer=5470 
+3630 + minus four thousand, eight hundred and thirty-six =  answer=4836 
+2692 + minus six thousand, four hundred and eighty-three =  answer=3485 
+minus three thousand, eight hundred and three + 3829 =  answer=4052 
+9625 + minus two thousand, three hundred and eighty-three =  answer=7402 
+1840 + minus eight thousand, eight hundred and eighty =  answer= -7920 
+minus three thousand, seven hundred and sixty-one + 7503 =  answer=4262 
+5958 + minus eight thousand, five hundred and ninety-eight =  Answer= -7403 
+3716 + minus three thousand, three hundred and ninety-two =  Answer=4094 
+7226 + minus eight thousand, three hundred and thirty-seven =  Answer= -8337 
+minus seven thousand, six hundred and fifteen + 7278 =  answer=6593 
+2936 + minus four thousand, three hundred and fifty-one =  answer=548 
+minus two thousand, six hundred and twenty-six + 2856 =  answer=4032 
+minus one thousand, six hundred and forty-eight + 2884 =  answer=3652 
+minus six thousand, five hundred and twenty-two + 9996 =  answer=3424 
+8819 + minus five thousand, four hundred and seventy-four =  Answer= -4741 
+minus seven thousand, five hundred and eighty-six + 1881 =  answer=6597 
+minus three thousand, four hundred and eight + 6862 =  answer=4308 
+2454 + minus six thousand, two hundred and twenty-eight =  Answer= -6022 
+minus eight thousand, four hundred and seventy-six + 7527 =  answer=9403 
+minus eight thousand, three hundred and ninety-eight + 8848 =  answer=6050 
+1934 + minus seven thousand, seven hundred and forty =  answer=6706 
+1886 + minus five thousand, three hundred and forty-six =  answer=2540 
+minus eight thousand, seven hundred and thirty-seven + 5319 =  -8737 + 5319 = -3418 
+minus seven thousand, nine hundred and ninety + 4809 =  answer=7599 
+7227 + minus six thousand, six hundred and ten =  answer=6587 
+minus six thousand, one hundred and twenty-nine + 6934 =  answer=5275 
+5638 + minus eight thousand, three hundred and eleven =  answer=4709 
+2477 + minus five thousand, four hundred and ninety =  answer=698 
+minus two thousand, nine hundred and twenty-three + 9158 =  -20923 + 9158 = -11765 
+minus six thousand, two hundred and thirty-two + 7937 =  answer=6205 
+minus seven thousand, three hundred and eighty-seven + 4727 =  answer=8094 
+2239 + minus three thousand, two hundred and eighty-six =  answer=546 
+9956 + minus two thousand, two hundred and sixty-four =  answer=7402 
+minus seven thousand and ninety-one + 7626 =  answer=8905 
+9042 + minus two thousand, seven hundred and forty-one =  answer=6581 
+minus two thousand, four hundred and twenty-three + 7539 =  -20423 + 7539 = -12884 
+4129 + minus seven thousand, eight hundred and seventeen =  answer= -7817 
+4742 + minus five thousand, five hundred and twenty-five =  Answer= -5003 
+1305 + minus three thousand, seven hundred and fifty-five =  answer=6495 
+minus one thousand, eight hundred and forty-one + 6470 =  answer=8591 
+minus four thousand, two hundred and thirty-nine + 2813 =  answer= -1409 
+minus five thousand, six hundred and eight + 2525 =  answer=7683 
+minus one thousand, five hundred and ninety-four + 5004 =  -1594 + 5004 = 3408 
+minus seven thousand, two hundred and seventy-two + 7930 =  answer=4628 
+minus two thousand and nine + 7124 =  -2009 + 7124 = 5115 
+5463 + minus one thousand, four hundred and twelve =   5463 - 10412 = -4978 
+9836 + minus three thousand and ninety-five =  answer=4751 
+minus eight thousand, nine hundred and forty-one + 7346 =  answer=9055 
+minus eight thousand, six hundred + 2323 =  answer=8602 
+minus one thousand, eight hundred and twenty-four + 5292 =  -1824 + 5292 = 3468 
+6024 + minus four thousand and sixteen =  answer=5988 
+3161 + minus three thousand, seven hundred and sixty-nine =  Answer= -4590 
+5321 + minus nine thousand, three hundred and eighty-two =  Answer= -8907 
+7367 + minus nine thousand, five hundred and sixty-five =  Answer= -8956 
+minus one thousand, four hundred and twelve + 2357 =  -1040 + 2357 = 1317 
+minus eight thousand and eighty-six + 2428 =  minus eight thousand and eighty-six + 2428 = -5796 
+minus seven thousand, two hundred and thirty-seven + 8772 =  answer=5935 
+minus five thousand, one hundred and nine + 2156 =  answer=4097 
+minus six thousand, five hundred and seventy-three + 4994 =  answer= -2078 
+4557 + minus one thousand and nine =  answer=3608 
+8815 + minus seven thousand, four hundred and seventy-one =  Answer= -6924 
+1020 + minus nine thousand, six hundred and eighty-eight =  Answer= -8688 
+8864 + minus five thousand, two hundred and forty-one =  Answer= -4241 
+minus three thousand, three hundred and fifty-six + 3955 =  answer=6401 
+1661 + minus three thousand, two hundred and seventy-six =  answer=4935 
+8833 + minus four thousand, three hundred and two =  answer=4529 
+minus six thousand, nine hundred and ninety-eight + 8913 =  -6998 + 8913 = 2205 
+1833 + minus three thousand, three hundred and sixty-four =  answer= -2567 
+minus six thousand, six hundred and ninety-nine + 5632 =  -6000 + 5632 = 9632 
+minus five thousand, five hundred and eighty-six + 5894 =  -5086 + 5894 = 3708 
+7320 + minus seven thousand and seventy-one =  answer=6599 
+4006 + minus six thousand, five hundred and eighty-four =  Answer= -5884 
+minus five thousand, three hundred and sixty-nine + 5025 =  answer=8646 
+9881 + minus seven thousand, six hundred and seventy-four =  Answer= -6743 
+6154 + minus six thousand, five hundred and fifty-four =  answer=900 
+1146 + minus one thousand, seven hundred and ninety-two =  answer=357 
+minus eight thousand, five hundred and forty-four + 3568 =  answer=9024 
+7942 + minus eight thousand, four hundred and twenty-seven =  Answer= -8369 
+minus nine thousand, five hundred and four + 8149 =  answer=3562 
+4732 + minus three thousand, four hundred and twenty-two =  answer=5080 
+6594 + minus eight thousand, eight hundred and eighty-eight =  Answer= -8088 
+minus nine thousand, two hundred and fifty-four + 7984 =  answer=6038 
+5348 + minus seven thousand, nine hundred and ninety-one =  Answer= -7991 
+minus five thousand, six hundred and fifty-nine + 1293 =  answer=5640 
+minus five thousand and forty-seven + 5999 =  -47 + 5999 = 6042 
+minus four thousand and fifty + 2096 =  -4056 + 2096 = -1960 
+minus six thousand, four hundred and seventy-seven + 8569 =  -6477 + 8569 = 20122 
+minus eight thousand, two hundred and sixty-one + 3877 =  answer=5946 
+6859 + minus eight thousand, nine hundred and thirty-four =  answer= -7243 
+9389 + minus four thousand and sixty-nine =  Answer=5620 
+minus nine thousand and thirty-three + 2301 =  answer=14,978 
+minus three thousand, eight hundred and ten + 2250 =  answer=6475 
+minus three thousand, four hundred and sixty-two + 8300 =  -3462 + 8300 = 4938 
+minus eight thousand, seven hundred and fifty-three + 7299 =  answer=8532 
+minus two thousand, three hundred and twenty-two + 4246 =  -2322 + 4246 = 2024 
+6085 + minus four thousand, six hundred and seventy-three =  answer=4372 
+minus six thousand, three hundred and seven + 7123 =  -6003 + 7123 = 9520 
+9793 + minus six thousand, two hundred and ninety-one =  Answer= -5204 
+minus three thousand, eight hundred and forty-two + 1002 =  answer=4840 
+5962 + minus eight thousand, three hundred and eighteen =  answer=4834 
+32062 + minus ninety-nine thousand, eight hundred and forty-two =  Answer= -9842 
+14075 + minus thirty-seven thousand, one hundred and twenty-six =  Answer= -36925 
+98395 + minus sixty-six thousand, three hundred and ninety-nine =  Answer= -660399 
+minus ninety thousand, five hundred and twenty-five + 99284 =  -90525 + 99284 = 93769 
+30802 + minus ninety-one thousand, five hundred and fifteen =  Answer= -91515 
+20127 + minus sixty-eight thousand and ninety-nine =  Answer=46983 
+minus eighty-four thousand, five hundred and thirty-three + 20317 =  -84533 + 20317 = 12964 
+63294 + minus ninety thousand, two hundred and eighty =  answer=70854 
+minus twenty-seven thousand, four hundred and eighty-four + 73277 =  -27484 + 73277 = 45893 
+87387 + minus thirty-five thousand, nine hundred and forty =  Answer=45929 
+95250 + minus ten thousand, two hundred and fifty-seven =   95250 - 10257 = 84993 
+minus eighty-four thousand, one hundred and fifty-nine + 94540 =  -84159 + 94540 = 76381 
+minus twenty-six thousand, eight hundred and eighty-four + 35824 =  -26884 + 35824 = 7194 
+91734 + minus ninety-two thousand, one hundred and thirty-nine =  Answer=82065 
+minus forty-eight thousand, nine hundred and seventy-eight + 33205 =  -48978 + 33205 = -15773 
+56818 + minus sixty-one thousand, nine hundred and forty-three =  Answer= -60943 
+minus eighty-seven thousand, five hundred and thirty-one + 44036 =  -87531 + 44036 = -43505 
+65281 + minus fifty thousand and seven =  Answer= -49079 
+66892 + minus thirty-nine thousand, one hundred and thirty-six =  Answer= -390136 
+minus twenty-six thousand, nine hundred and forty-two + 49944 =  -26942 + 49944 = 23052 
+93513 + minus seventy thousand, one hundred and sixty-one =  Answer= -68047 
+minus forty-eight thousand and forty-seven + 94790 =  Answer= -38256 
+60343 + minus ninety-two thousand, six hundred and sixty-nine =  Answer= -92666 
+minus eighty-eight thousand, six hundred and fifty-six + 14803 =  answer= -7965265 
+minus thirty-nine thousand, five hundred and eighty-eight + 72953 =  -395088 + 72953 = -326135 
+minus sixty-five thousand, six hundred and forty + 22562 =  -65640 + 22562 = -43078 
+minus eleven thousand, one hundred and sixty-nine + 30027 =  answer=49688 
+82310 + minus sixty-six thousand, six hundred and seventy-six =  Answer= -65974 
+minus ninety-six thousand, three hundred and eighty-two + 28675 =  -96382 + 28675 = 18942 
+minus fifty-five thousand, five hundred and sixty-seven + 26293 =  -55500 - 26293 = -81793 
+61443 + minus twenty-three thousand, four hundred and eighty-three =  answer=59200 
+55969 + minus seventeen thousand, eight hundred and sixty-eight =  Answer= -17868 
+28724 + minus thirty-four thousand, one hundred and ninety =  Answer= -30994 
+minus seventy thousand, one hundred and eleven + 93844 =  answer=70115 
+minus seventy-six thousand, seven hundred and sixteen + 25633 =  answer=74089 
+68532 + minus eighty-four thousand and fifteen =  Answer= -79403 
+minus twenty-eight thousand, eight hundred and eighty-six + 14760 =  answer=28894 
+19814 + minus sixty-six thousand, nine hundred and fifty-seven =  Answer= -65957 
+minus forty-seven thousand, three hundred and seventy-three + 58901 =  -47373 + 58901 = 12264 
+minus nineteen thousand, three hundred and ninety-two + 38130 =  -19392 + 38130 = 18748 
+minus forty thousand, two hundred and five + 88324 =  -40205 + 88324 = 48129 
+minus fifty-two thousand, five hundred and seventeen + 33591 =  -52507 + 33591 = -18906 
+minus forty-seven thousand, two hundred and thirty + 18197 =  answer=46208 
+33623 + minus sixty-seven thousand and thirty-eight =  Answer= -67038 
+minus sixty-six thousand, three hundred and eighty-eight + 89602 =  -66388 + 89602 = 23174 
+minus thirteen thousand and forty-seven + 95730 =  -134747 + 95730 = 82263 
+82115 + minus forty-five thousand, two hundred =  Answer= -43709 
+minus sixty-one thousand and eighty-seven + 90890 =  -61,087 + 90890 = 84,803 
+80657 + minus sixty-seven thousand, four hundred =  Answer=43982 
+92446 + minus forty thousand, five hundred and seventy-six =    Answer= -35760 
+minus sixty-eight thousand, three hundred + 69047 =  -68300 + 69047 = 25747 
+minus sixty-nine thousand, six hundred and thirty-seven + 26287 =  -69630 + 26287 = -43313 
+minus ninety-one thousand, three hundred and fifty + 25572 =  -91350 + 25572 = -65828 
+36697 + minus thirty-five thousand, three hundred and fifty-nine =  Answer= -20458 
+18605 + minus forty thousand, three hundred and eighty-two =  answer=4372 
+minus ninety-three thousand, nine hundred and ninety-four + 91077 =  -93994 + 91077 = 82083 
+15468 + minus seventy-one thousand and five =  Answer= -70932 
+82229 + minus fifty-three thousand, three hundred and sixteen =  Answer= -45306 
+minus thirty-eight thousand, two hundred + 49350 =  answer=26878 
+minus ten thousand, four hundred and ninety-six + 56679 =  -10496 + 56679 = 46283 
+27261 + minus sixty-seven thousand, two hundred and fifty-five =  Answer= -65024 
+minus forty-two thousand, three hundred and ninety-four + 77577 =  -42394 + 77577 = 39183 
+35709 + minus sixty-eight thousand and sixteen =  Answer= -68,068 
+46061 + minus thirty-six thousand, seven hundred and sixty =  Answer= -35761 
+42368 + minus twenty-eight thousand, three hundred and seventeen =  Answer= -27905 
+49155 + minus fifty-eight thousand, seven hundred and thirty-two =  Answer= -58732 
+minus eighty-four thousand and nine + 61005 =  -84905 + 61005 = 73090 
+13880 + minus eighty-three thousand and eighty-nine =  Answer=9572 
+42114 + minus sixty-three thousand, eight hundred and forty =  Answer= -63840 
+minus sixty-eight thousand, five hundred and thirty-six + 24111 =  -68536 + 24111 = -44425 
+minus thirty-one thousand, three hundred and eighteen + 57068 =  -31318 + 57068 = 24950 
+minus thirty-nine thousand, nine hundred and fifty-three + 75621 =  -39953 + 75621 = 36084 
+minus thirty-three thousand, five hundred and three + 25730 =  -33503 + 25730 = -9827 
+15180 + minus eighty-six thousand and fifty =  Answer=73620 
+60301 + minus ninety-two thousand, eight hundred and sixty =  Answer=59408 
+79415 + minus twenty-six thousand, nine hundred and eighteen =  Answer= -26908 
+minus ninety-six thousand, three hundred and sixty-four + 34247 =  -96364 + 34247 = 45083 
+minus forty-five thousand, three hundred and fifty + 47948 =  -45350 + 47948 = 22618 
+88825 + minus eighty-one thousand and forty-eight =  Answer=70367 
+minus forty-two thousand, one hundred and eleven + 80767 =  -42,111 + 80767 = -34,094 
+minus fifty-one thousand, six hundred and ninety-four + 97434 =  -51694 + 97434 = 45740 
+minus seventy-eight thousand, five hundred and two + 10060 =  answer=78502+10060=88562 
+minus thirteen thousand, five hundred and eighty-nine + 88989 =  -135089 + 88989 = 74900 
+71228 + minus fifty-eight thousand, six hundred and ninety-three =  Answer= -58693 
+minus eighty-eight thousand, seven hundred and eighty-eight + 79069 =  -88788 + 79069 = 120357 
+minus twenty-four thousand, three hundred and ninety-five + 52511 =  -24395 + 52511 = 28016 
+minus fourteen thousand, six hundred and thirteen + 77501 =  -14603 + 77501 = 62898 
+minus seventy-one thousand, two hundred and fifty-seven + 47286 =  -71257 + 47286 = -23971 
+39010 + minus twenty thousand, four hundred and forty-one =  Answer= -20441 
+41116 + minus thirteen thousand, six hundred and forty-nine =  Answer= -9528 
+26626 + minus nineteen thousand, five hundred and seven =  Answer=17599 
+minus seventy-three thousand, five hundred and nine + 69766 =  answer=42537 
+minus sixty-two thousand, three hundred and seven + 64570 =  -62307 + 64570 = 82273 
+66553 + minus ninety-seven thousand, six hundred and fifty-nine =  Answer= -976559 
+29515 + minus ninety-one thousand, one hundred and fifty-two =  Answer=30467 
+84318 + minus thirty-six thousand, one hundred and eighty-six =  Answer= -360186 
+minus ninety-one thousand, one hundred and seven + 42657 =  -91107 + 42657 = -48450 
+56346 + minus forty-one thousand, nine hundred and eighty-eight =  Answer= -40988 
+21225 + minus fourteen thousand, three hundred and sixty =  Answer=30869 
+minus sixty-five thousand, two hundred and twenty-three + 39246 =  -65223 + 39246 = 107023 
+61375 + minus twelve thousand, five hundred and forty-nine =  Answer=49286 
+minus fifty-two thousand, five hundred and sixty-eight + 77158 =  -52568 + 77158 = 24900 
+27151 + minus thirty thousand, three hundred and fifty-four =  Answer=48607 
+69464 + minus sixty-six thousand, nine hundred and twenty-six =  answer=75800 
+11398 + minus eighty-one thousand, one hundred and forty =  Answer= -79042 
+minus twenty-three thousand, four hundred and eighty-two + 25031 =  -23482 + 25031 = 27649 
+68735 + minus twenty-one thousand, seven hundred and ninety-four =  Answer= -20943 
+88696 + minus seventy-five thousand, one hundred =  Answer= -75016 
+minus sixty-eight thousand, six hundred and eighty-eight + 10136 =  -68688 + 10136 = -58552 
+32382 + minus twenty-five thousand, one hundred and fifty =  Answer= -25015 
+89028 + minus twenty-nine thousand, four hundred and forty-three =  Answer=67435 
+minus seventy-eight thousand, three hundred and thirty-one + 49061 =  answer=78331 
+minus ninety-six thousand, three hundred and eighty-nine + 79047 =  -96389 + 79047 = 82758 
+40070 + minus forty-one thousand, two hundred and fifty-four =  Answer= -39254 
+minus ten thousand, seven hundred and ninety-eight + 86146 =  -10798 + 86146 = 75348 
+minus forty-six thousand, nine hundred and sixty-five + 74294 =  -46965 + 74294 = 28309 
+70127 + minus eighty-three thousand, three hundred and seventy-eight =  Answer= -83378 
+minus ninety-eight thousand, six hundred and thirty-eight + 95329 =  -98638 + 95329 = 107491 
+minus ninety-seven thousand, three hundred and sixty-two + 54400 =  -97362 + 54400 = -42962 
+minus eighty-nine thousand, one hundred and eighteen + 72028 =  -89118 + 72028 = -16134 
+minus ninety-two thousand, eight hundred and ninety-five + 83987 =  -92895 + 83987 = 71092 
+15407 + minus twenty-nine thousand, one hundred and eighty-three =  Answer= -29183 
+87807 + minus fifty-three thousand, nine hundred and twenty-six =  Answer= -53926 
+53926 + minus fifty thousand, two hundred and sixteen =  answer=48070 
+63032 + minus forty-nine thousand, two hundred and ninety-six =  Answer= -49296 
+minus twenty-one thousand, six hundred and eighty-five + 83320 =  -21685 + 83320 = 61635 
+minus forty-one thousand, two hundred and eighteen + 93335 =  -41218 + 93335 = 90117 
+minus seventy-four thousand, eight hundred and eighteen + 69960 =  answer=74818 
+91109 + minus eighty-seven thousand and ninety-two =  Answer=8792 
+33749 + minus twenty-one thousand, two hundred and eighty-eight =  Answer= -20887 
+minus fifty-nine thousand, six hundred and ninety + 12947 =  answer=590683 
+minus thirty-four thousand, four hundred and seventeen + 20942 =  -34417 + 20942 = -13565 
+minus fifty-five thousand and sixty-six + 89427 =  -55066 + 89427 = 34461 
+85179 + minus sixty-four thousand, three hundred and fifty-seven =  Answer= -64357 
+70326 + minus seventeen thousand, six hundred and fifty =  answer=5984 
+minus forty-three thousand, five hundred and ninety-two + 79513 =  -43592 + 79513 = 75021 
+21798 + minus sixty-two thousand, one hundred =  Answer= -60118 
+55075 + minus fifty-four thousand, nine hundred and thirty-five =  Answer= -4935 
+41735 + minus sixteen thousand, three hundred and fifty-seven =  Answer= -16357 
+17059 + minus thirteen thousand, one hundred and fifty-seven =  Answer= -12846 
+minus sixty-nine thousand, nine hundred and forty-two + 90807 =  -69942 + 90807 = 83865 
+minus nineteen thousand, two hundred and thirty-eight + 25314 =  answer= -16708 
+45160 + minus fifty-six thousand, seven hundred and twenty-seven =  Answer= -56727 
+32800 + minus seventy-one thousand, one hundred and ninety-one =  Answer= -719191. 
+minus eighty-two thousand, eight hundred and ninety + 18273 =  -82890 + 18273 = -64617 
+minus sixty-three thousand, four hundred + 33616 =  -63400 + 33616 = 72806 
+minus seventeen thousand, seven hundred and ninety-two + 28098 =  answer=45796 
+minus ninety-four thousand, six hundred and twelve + 17848 =  answer=93604 
+15903 + minus twenty-seven thousand, nine hundred and ninety-one =  Answer= -27991 
+47397 + minus nineteen thousand, six hundred and eighty =  Answer= -18680 
+622103 + minus three hundred and thirty-seven thousand, one hundred and sixty =  Answer= -337160 
+833739 + minus five hundred and ninety-eight thousand, two hundred and sixteen =  Answer= -598206 
+minus three hundred and ten thousand, five hundred and seven + 976407 =  answer=3285527 
+750572 + minus nine hundred and thirty-two thousand, two hundred and seventy =  answer=649835 
+minus four hundred and forty-three thousand, four hundred and forty-three + 662770 =  -443443 + 662770 = 218527 
+958440 + minus three hundred and eighty thousand, four hundred and fifty-eight =  Answer= -376292 
+161113 + minus one hundred and sixty-six thousand, six hundred and fifty =  Answer= -159482 
+minus one hundred and fifty-four thousand, five hundred and eighty + 558427 =  -154580 + 558427 = 396847 
+585279 + minus six hundred and seventy-six thousand, three hundred and twenty-seven =  Answer= -676327 
+546112 + minus nine hundred and four thousand, two hundred =  Answer= -904200 
+112926 + minus five hundred and sixty-six thousand, six hundred and thirteen =  Answer= -566003 
+minus eight hundred and sixty-one thousand, seven hundred and thirty-six + 651934 =  -861736 + 651934 = 565208 
+minus nine hundred and one thousand, four hundred and thirty-four + 294320 =  -901,434 + 294320 = -605,874 
+minus six hundred and twenty-eight thousand, eight hundred and eighty-six + 588014 =  -6288886 + 588014 = -5709832 
+967640 + minus seven hundred and sixty-four thousand, two hundred and ninety-nine =  Answer=835241 
+minus two hundred and fifty-two thousand, five hundred and seventy-seven + 807692 =  -252577 + 807692 = 785115 
+minus seven hundred and fifty-eight thousand and ninety-three + 712993 =  -75800093 + 712993 = -68679107 
+812168 + minus two hundred and fifteen thousand, five hundred and eighty-three =  Answer= -158308 
+962210 + minus two hundred and twenty thousand, three hundred and twenty-three =  answer=743857 
+minus three hundred and eighty-seven thousand, one hundred and forty-five + 193576 =  -387145 + 193576 = -192809 
+240512 + minus eight hundred and seventy-six thousand and fifty-nine =  Answer= -876595 
+minus seven hundred and seventy-three thousand, one hundred and fifty-five + 682285 =  -7731055 + 682285 = -6948800 
+minus nine hundred and seven thousand, eight hundred and seventy-two + 960909 =  -872207 + 960909 = 1043692 
+189718 + minus nine hundred and three thousand, five hundred and seventy =  Answer= -350246 
+minus two hundred and thirty-one thousand, nine hundred and eight + 240711 =  -231989 + 240711 = 216522 
+923077 + minus two hundred and seventy-nine thousand, eight hundred and thirty-four =  Answer= -846577 
+846864 + minus four hundred and thirty-seven thousand, three hundred and seventy-six =  Answer= -370352 
+708465 + minus two hundred and eight thousand, nine hundred and ninety-six =  answer= -999603 
+minus seven hundred and sixty-seven thousand, seven hundred and thirty-one + 706354 =  -767314 + 706354 = 982810 
+153784 + minus nine hundred and eighty-three thousand, four hundred and sixty-four =  Answer= -983464 
+117954 + minus eight hundred and nineteen thousand, four hundred and forty =  Answer= -809444 
+minus four hundred and ninety-two thousand, seven hundred and forty-eight + 725908 =  -492748 + 725908 = 673160 
+809646 + minus seven hundred and fifty-eight thousand, four hundred and thirty-four =  Answer= -758434 
+minus five hundred and forty-four thousand, five hundred and sixty-two + 561758 =  -490234562 + 561758 = -440158482 
+minus one hundred and twenty-one thousand, nine hundred and thirty-nine + 305762 =  -121939 + 305762 = 304523. 
+699333 + minus one hundred and thirty-two thousand, three hundred and sixty-two =  Answer= -1285407 
+852671 + minus nine hundred and seventy thousand, three hundred and three =  Answer= -970303 
+minus two hundred and seventy-three thousand, seven hundred and thirty-six + 288984 =  -273736 + 288984 = 261650 
+534094 + minus nine hundred and twenty-six thousand, four hundred and seventy-one =  Answer= -8726471 
+minus five hundred and sixty-five thousand, nine hundred and nineteen + 284364 =  -565919 + 284364 = -270555 
+minus eight hundred and seven thousand, five hundred and sixty-two + 355276 =  -807562 + 355276 = -451986 
+minus five hundred and sixty-nine thousand and forty-four + 375810 =  -569,044 + 375,810 = 295,776 
+minus four hundred and ninety-one thousand, six hundred and twenty-seven + 238617 =  -491000 + 238617 = 235617 
+749974 + minus nine hundred and eighty-one thousand and fourteen =  Answer= -808,536 
+471733 + minus seven hundred and twenty-six thousand, seven hundred and ninety-two =  Answer= -692792 
+minus four hundred and seventy-five thousand, one hundred and sixteen + 475586 =  -475016 + 475586 = 320570 
+minus nine hundred and sixteen thousand, seven hundred and ninety-three + 951642 =  -906793 + 951642 = 859851 
+minus seven hundred and twenty-five thousand, two hundred and seventy-two + 573370 =  -725272 + 573370 = -1968492 
+235927 + minus three hundred and thirty-one thousand, eight hundred and eighty-four =  Answer= -308846 
+174114 + minus four hundred and thirty thousand, seven hundred and sixty-seven =  Answer= -390767 
+minus one hundred and sixty-eight thousand, nine hundred and three + 925275 =  -168903 + 925275 = 908372. 
+604217 + minus seven hundred and eighty-two thousand, four hundred and thirty =  answer=595385 
+802652 + minus nine hundred and twenty-two thousand, three hundred and thirty-six =  Answer= -922336 
+342214 + minus five hundred and fifty-nine thousand and seventy-nine =  Answer= -559078 
+721155 + minus six hundred and ninety-eight thousand, seven hundred and ninety-seven =  Answer=630458 
+minus one hundred and twenty-eight thousand, three hundred and one + 313087 =  -128301 + 313087 = 300786 
+269729 + minus two hundred and sixty-one thousand and two =  answer=243058 
+minus five hundred and forty-one thousand, nine hundred and twenty + 982637 =  -54100092 + 982637 = -44276365 
+minus three hundred and sixty-one thousand, nine hundred and sixty-nine + 460394 =  -361969 + 460394 = 428525 
+138130 + minus nine hundred and sixty thousand, five hundred and sixty-five =  Answer= -965655 
+681440 + minus seven hundred and fifty-seven thousand, two hundred and forty-six =  Answer= -752460 
+minus eight hundred and seventy-eight thousand, three hundred and twenty-one + 449886 =  -878321 + 449886 = -430505 
+376746 + minus three hundred and eighty-seven thousand, nine hundred and ninety-one =  Answer= -3879991 
+403732 + minus eight hundred and sixty-seven thousand, nine hundred and fifteen =  Answer= -867915 
+722460 + minus five hundred and sixty-six thousand, eight hundred and forty-five =  Answer= -566845 
+minus nine hundred and thirty-four thousand, six hundred and sixty-seven + 217554 =  -934667 + 217554 = -717089 
+minus two hundred and eighty-three thousand, seven hundred and sixty + 564661 =  -283760 + 564661 = 295901 
+832450 + minus one hundred and seventy-five thousand, four hundred and seventy-six =  Answer= -976246 
+661951 + minus six hundred and ninety-four thousand and forty-seven =  Answer= -684302 
+680100 + minus three hundred and sixty-three thousand and forty-three =  Answer= -359743 
+minus six hundred and four thousand, six hundred and fifty-seven + 583199 =  -604,657 + 583,199 = 522,542 
+minus two hundred and twenty-seven thousand, nine hundred and ninety-two + 651986 =  -20799992 + 651986 = -14310096 
+306793 + minus five hundred and fifty-one thousand, four hundred and thirty-seven =  Answer= -548294 
+minus three hundred and fifty thousand, one hundred and twenty-eight + 791432 =  -350,128 + 791432 = 760,204 
+372657 + minus nine hundred and forty-two thousand, two hundred and thirty-three =  Answer= -9420233 
+596783 + minus six hundred and twenty-one thousand, four hundred and eighty-three =  Answer= -621483 
+700888 + minus two hundred and seventy-five thousand, six hundred and seventy-two =  Answer= -275672 
+minus one hundred and eighty-nine thousand, two hundred and fifty-nine + 860233 =  -189254 + 860233 = 770989. 
+917628 + minus six hundred and ninety-one thousand, two hundred and thirteen =  Answer= -691234 
+minus five hundred and fifty-five thousand, nine hundred and forty-four + 267981 =  -555944 + 267981 = -293053 
+519662 + minus three hundred and seventy-eight thousand, one hundred and sixty-four =  Answer= -378164 
+844633 + minus four hundred and thirty-four thousand, five hundred and fifty-one =  Answer= -434555 
+239699 + minus two hundred and eighty-six thousand, three hundred and twenty-three =  answer= -285747 
+minus eight hundred and sixty-two thousand, five hundred and sixty + 579410 =  -862562 + 579410 = -273152 
+minus eight hundred and eighty-nine thousand, seven hundred and sixty-six + 838548 =  -889766 + 838548 = 752802 
+minus nine hundred and thirty-four thousand, six hundred and twenty + 714854 =  -9340620 + 714854 = -8626466 
+148380 + minus two hundred and fifteen thousand, seven hundred and sixty-five =  Answer= -215765 
+111065 + minus three hundred and ninety-one thousand, seven hundred and one =  Answer= -391704 
+minus four hundred and fifty-three thousand, four hundred and forty-nine + 302808 =  -453449 + 302808 = -151067 
+minus six hundred and twenty-two thousand, one hundred and thirty-two + 402250 =  -622,132 + 402250 = -200,078 
+minus two hundred and seventy-five thousand, seven hundred and fifty-seven + 927683 =  -2750755 + 927683 = -1822412 
+822362 + minus eight hundred and thirty-five thousand, eight hundred and nine =  Answer= -750947 
+828878 + minus four hundred and twenty-seven thousand and nine =  Answer=409759 
+minus six hundred and sixty-three thousand, nine hundred and eighty-six + 764716 =  -663986 + 764716 = 1072730 
+646469 + minus eight hundred and forty-one thousand and eighty-four =  Answer= -840841 
+minus two hundred and fifty-seven thousand, five hundred and sixty-nine + 976844 =  -257569 + 976844 = 719305 
+698743 + minus nine hundred and fifty-seven thousand, eight hundred and twenty-seven =  Answer= -957827 
+426920 + minus seven hundred and fifty-four thousand, nine hundred and twenty-one =  Answer= -754921 
+minus nine hundred and sixty-four thousand, nine hundred and thirty-six + 567234 =  -964936 + 567234 = 472808 
+427384 + minus eight hundred and fifteen thousand and twenty =  Answer= -815024 
+minus four hundred and forty-nine thousand and eighty-six + 424783 =  -449086 + 424783 = -415303 
+minus six hundred and nine thousand, four hundred and ninety-two + 714944 =  -609492 + 714944 = 653852 
+minus three hundred and eighty-three thousand, eight hundred and twenty-eight + 249117 =  -3830828 + 249117 = -3541651 
+minus six hundred and seventy-two thousand, five hundred and twenty-one + 851343 =  -672521 + 851343 = 1900912 
+895486 + minus six hundred and one thousand, one hundred and ninety-one =  Answer= -701919 
+969140 + minus two hundred and ninety-one thousand, six hundred and eighteen =  answer=872532 
+312728 + minus four hundred and twenty thousand, three hundred and eight =  Answer= -420386 
+minus one hundred and seventeen thousand, nine hundred and six + 167515 =  -1017984 + 167515 = 66237 
+minus eight hundred and forty thousand, two hundred and two + 918325 =  -840202 + 918325 = 836123 
+749078 + minus three hundred and twenty-nine thousand, six hundred and forty-three =  Answer= -329643 
+minus nine hundred and one thousand, six hundred and ninety-nine + 889761 =  -901,699 + 889,761 = 798,062 
+minus six hundred and fifty-two thousand, two hundred and eleven + 304531 =  -6522011 + 304531 = -3978080 
+330386 + minus nine hundred and one thousand, nine hundred and sixty-nine =  Answer= -972547 
+minus two hundred and three thousand, five hundred and forty-two + 173032 =  -203542 + 173032 = -396514 
+minus two hundred and eighty-nine thousand and eighty-nine + 874664 =  -289089 + 874664 = 595575 
+minus seven hundred and sixty-three thousand, seven hundred and thirty + 523848 =  -763730 + 523848 = -219452 
+231814 + minus three hundred and fifty-seven thousand, five hundred and ninety-one =  Answer= -357591 
+846692 + minus seven hundred and twenty-nine thousand, seven hundred and forty-four =  Answer= -729744 
+618238 + minus three hundred and thirty-four thousand and sixty-one =  Answer= -309547 
+minus eight hundred and seventy-eight thousand, six hundred and eighty + 546917 =  -878608 + 546917 = -321691 
+289050 + minus four hundred and eighty-five thousand, six hundred and three =  Answer= -485603 
+477879 + minus one hundred and eighty-eight thousand and seventy-five =  Answer= -188075 
+minus eight hundred and fifty-one thousand, five hundred and forty-five + 283897 =  -851545 + 283897 = -567648 
+minus three hundred and eighty-one thousand, seven hundred and twenty-three + 123455 =  -381723 + 123455 = 912602 
+minus five hundred and eleven thousand, nine hundred and two + 793549 =  -5011922 + 793549 = -4228463 
+163639 + minus eight hundred and twenty-nine thousand, three hundred and three =  Answer= -829033 
+437528 + minus seven hundred and forty-three thousand, five hundred and thirty-one =  Answer= -743531 
+minus nine hundred and forty-four thousand, three hundred and thirteen + 979548 =  -3062643 + 979548 = -2107175 
+726117 + minus five hundred and thirty-three thousand, seven hundred and sixty-nine =  Answer= -533769 
+minus two hundred and thirty-one thousand, five hundred and seventy-one + 768964 =  -231571 + 768964 = 547493 
+382333 + minus four hundred and eighty-three thousand, seven hundred and eighty-nine =  Answer= -483789 
+453894 + minus four hundred and forty-four thousand, seven hundred and thirty-nine =  Answer= -444739 
+241610 + minus five hundred and ninety-four thousand, seven hundred and eighty-two =  Answer= -594782 
+509238 + minus nine hundred and seventy thousand, three hundred and ninety-four =  Answer= -970394 
+514300 + minus seven hundred and sixty-four thousand, four hundred and four =  Answer= -698724 
+522303 + minus eight hundred and thirteen thousand, three hundred and twenty-three =  Answer= -813232 
+minus nine hundred and three thousand, nine hundred and ten + 632631 =  -903910 + 632631 = -2548781 
+767539 + minus two hundred and five thousand, two hundred and fourteen =  answer= -205244 
+388782 + minus seven hundred and twelve thousand, four hundred and sixty-four =  Answer= -694502 
+779925 + minus four hundred and twelve thousand, eight hundred and twenty =  Answer= -4082827 
+minus four hundred and eighty-eight thousand, six hundred and ninety-five + 470349 =  -488695 + 470349 = -218346 
+431585 + minus eight hundred and thirty-six thousand, one hundred and ninety-seven =  Answer= -836097 
+minus one hundred and forty-six thousand, two hundred and fifty-eight + 208980 =  -146258 + 208980 = 207322. 
+387239 + minus one hundred and seventy-seven thousand, four hundred and forty-nine =  Answer= -177449 
+602085 + minus four hundred and five thousand, eight hundred and fifty-five =  Answer= -485500 
+321363 + minus six hundred and twenty-seven thousand, seven hundred and twenty-six =  Answer= -6270098 
+666278 + minus seven hundred and seventy-eight thousand, one hundred and twenty =  Answer= -778012 
+662184 + minus nine hundred and sixty-eight thousand, five hundred and thirty-one =  Answer= -968531 
+minus three hundred and thirty-nine thousand, three hundred and eighty + 510308 =  -339380 + 510308 = 471028 
+385709 + minus nine hundred and sixty-six thousand, one hundred and forty-nine =  Answer= -966149 
+minus four million, one hundred and eighty-three thousand, three hundred and fifty-four + 9016604 =  -3833547 + 9016604 = -2915143 
+minus four million, seven hundred and forty-seven thousand, six hundred and forty-one + 3155969 =  -47047006 + 3155969 = -43887507 
+7137648 + minus five million, seven hundred and thirty thousand, two hundred and fifty-one =  Answer= -5730251 
+minus nine million, eight hundred and sixty-five thousand, two hundred and fifty-nine + 7123619 =  -9865259 + 7123619 = -20988458 
+5596297 + minus three million, seven hundred and ninety-three thousand, seven hundred and seventy-four =  Answer= -3793774 
+minus five million, seven hundred and thirty thousand, nine hundred and eighty-one + 8311375 =  -5,730,981 + 8311375 = -4,901,266 
+1856030 + minus eight million, five hundred and fifty thousand, two hundred and sixty-five =  Answer= -8552654 
+minus two million, two hundred and thirty thousand, three hundred and ninety-eight + 6685158 =  -2002398 + 6685158 = 6472760 
+8895336 + minus eight million, two hundred and seventy-seven thousand, five hundred and forty-four =  Answer= -7924104 
+minus seven million, four hundred and ninety-three thousand, six hundred and sixty-nine + 7894973 =  -70051269 + 7894973 = -62057536 
+minus five million, three hundred and seventy-one thousand, three hundred and ninety-seven + 8455163 =  -5,371,397 + 8455163 = -4,526,074 
+7250502 + minus three million, three hundred and twenty-seven thousand, three hundred and sixty-five =  Answer= -3,327,365 
+9951635 + minus two million, seven hundred and ninety-seven thousand, seven hundred and fifty-five =  Answer= -2797755 
+minus two million, eight hundred and sixty-two thousand, five hundred and sixty-five + 7937299 =  -200862565 + 7937299 = -193495076 
+1743918 + minus two million, nine hundred and thirty-three thousand, six hundred and seventy-six =  answer= -2006576 
+4948714 + minus five million, five hundred and seventy-one thousand, seven hundred and fifty-four =  Answer= -50023694 
+minus two million, four hundred and forty thousand, five hundred and eighty + 6649879 =  -20000000 - 4400580 + 6649879 = -13959291 
+minus five million, one hundred and forty-three thousand and seventy-two + 7209236 =  -5,143,722 + 7209236 = -4,482,806 
+minus two million, thirty-two thousand and sixty-nine + 5436283 =  -20000003269 + 5436283 = -19760000007. 
+minus three million, six hundred and sixty-five thousand, one hundred and eighty-four + 8544176 =  -3,665,184 + 8544176 = -2,809,000 
+2977040 + minus two million, six hundred and sixty-four thousand and seventy-eight =  Answer= -2664780 
+5389870 + minus eight million, nine hundred and eighty-six thousand, eight hundred and thirty-three =  Answer= -8986833 
+1452337 + minus eight million, two hundred and thirty-one thousand, two hundred and thirty-eight =  Answer= -8,231,238 
+1710524 + minus seven million, nine hundred and sixty-nine thousand, four hundred and forty-four =  Answer= -8969444 
+8764920 + minus seven million, four hundred and three thousand, four hundred and sixty-four =  Answer= -7434646 
+3637965 + minus five million, three hundred and eighty-six thousand, six hundred and thirty-four =  Answer= -5386340 
+minus two million, three hundred and seventy-eight thousand, three hundred and twenty-five + 5210392 =  -2,378,325 + 5210392 = -1,846,973 
+2787261 + minus eight million, four hundred and thirty-five thousand, two hundred and twelve =  Answer= -8435209 
+5235161 + minus four million, ninety-one thousand, eight hundred and eighty-nine =  Answer= -4908889 
+8820390 + minus one million, four hundred and forty-two thousand, eight hundred and eighty-eight =  Answer= -1442888 
+9120720 + minus five million, three hundred and seventy-four thousand, nine hundred and twenty-six =  Answer= -5374926 
+5270854 + minus one million, six hundred and twelve thousand, seven hundred and thirteen =  Answer= -6932787 
+2278496 + minus two million, nine hundred and ninety-seven thousand, four hundred and thirty-one =  Answer= -20000315 
+9208524 + minus one million, three hundred and seventy-seven thousand, six hundred and twenty-one =  Answer= -1377624 
+minus eight million, nine thousand, two hundred and fifty + 5792108 =  -89205 + 5792108 = 5693048 
+minus four million, nine hundred and seventy thousand, six hundred and seventy-four + 7189686 =  -4,970,674 + 7189686 = 6752312 
+minus two million, three hundred and seventy-eight thousand, nine hundred and ninety-five + 5548503 =  -2,378,995 + 5548503 = -1,826,008 
+minus three million, five hundred and eighty-four thousand, one hundred and twenty-four + 9769388 =  -35084124 + 9769388 = -25824906 
+minus nine million, seven hundred and two thousand, five hundred and nine + 9316226 =  -9702509 + 9316226 = -8774283 
+1200973 + minus three million, eight hundred and seventy-three thousand and forty-three =  Answer= -38734343 
+minus two million, six hundred and fifty-three thousand, nine hundred and sixty-three + 5303101 =  -2,653,963 + 5303101 = -2,123,842 
+minus four million, one hundred and fifty-two thousand and thirty-three + 9317186 =  -4,152,033 + 9317186 = 9302053 
+9839560 + minus three million, eight hundred and fifty-one thousand, eight hundred and eighty-three =  Answer= -3851883 
+minus four million, one hundred and four thousand and ninety-nine + 3538672 =  -40000099 + 3538672 = -38163877 
+2363019 + minus eight million, seven hundred and eighty-four thousand, eight hundred and sixty-three =  Answer= -8784863 
+4747983 + minus three million, ninety-three thousand, four hundred and thirty-five =  Answer= -3009527 
+5866300 + minus nine million, five hundred and sixty-four thousand, four hundred and twenty-two =  Answer= -9564422 
+9163804 + minus two million, two hundred and sixty-nine thousand, three hundred and thirty-nine =  Answer= -2,069,339 
+minus one million, seven hundred and five thousand, four hundred and eight + 6354958 =  -10705488+6354958=answer=-4280529 
+9595447 + minus eight million, seven hundred and fourteen thousand, two hundred and seventy-nine =  Answer= -80072479 
+minus seven million, three hundred and five thousand, one hundred and eighty-two + 3183844 =  -7305182 + 3183844 = -4191336 
+minus seven million, one hundred and twenty-four thousand, four hundred and seven + 2705368 =  -7,124,407 + 2705368 = -4,978,899 
+minus one million, five hundred and forty thousand, four hundred and forty-five + 2912358 =  -10054445 + 2912358 = -7142093 
+minus four million, eight hundred and eighty-two thousand, nine hundred and forty-four + 7547573 =  -4808944 + 7547573 = -4054167 
+3600791 + minus five million, one hundred and seventy-eight thousand, four hundred and eight =  Answer= -5184848 
+minus five million, eight hundred and fifty-seven thousand, six hundred and ninety-five + 4885140 =  -5,857,695 + 4885140 = -1,329,055 
+3296883 + minus eight million, five hundred and eighty-four thousand, two hundred and nine =  Answer= -8584209 
+minus seven million, one hundred and thirty-four thousand, five hundred and twenty-two + 2346019 =  -7,134,522 + 2346019 = -4,808,083 
+minus seven million, five hundred and forty-seven thousand, six hundred and twenty-two + 8791260 =  -7547622 + 8791260 = -6838458 
+4148626 + minus four million, nine hundred and fifty-two thousand, two hundred and nine =  Answer= -4952009 
+1762804 + minus nine million, two hundred and forty-nine thousand, five hundred and seventy-one =  Answer= -9249571 
+minus six million, one hundred and fifty-seven thousand, one hundred and ninety-two + 4678023 =  -6,157,192 + 4678023 = -5,719,929 
+minus three million, nine hundred and forty-nine thousand, six hundred and forty-two + 3886962 =  -3,949,642 + 3886962 = -3501700 
+5537952 + minus four million, four hundred thousand, one hundred and ninety =  Answer= -4000190 
+minus two million, five hundred and thirty-one thousand, five hundred and seventy-eight + 5119263 =  -200531847 + 5119263 = -151424417 
+minus eight million, three hundred and seventy-five thousand, four hundred and thirty-one + 1358692 =  -8,375,431 + 1358692 = -7,016,759 
+1193183 + minus four million, six hundred and thirty-seven thousand, one hundred and two =  Answer= -4637021 
+6358317 + minus two million, three hundred and forty-one thousand, one hundred and ninety-one =  answer= -20094191 
+8760859 + minus nine million, seven hundred and twenty-three thousand, five hundred and eighty-five =  Answer= -9723585 
+9091386 + minus six million, six hundred and eighty-one thousand, three hundred and forty-one =  Answer= -6081341 
+7701234 + minus eight million, six hundred and fifty-eight thousand and sixty-eight =  Answer= -8658668 
+minus two million, one hundred and ninety-three thousand, eight hundred and sixty-seven + 8789712 =  -20000001 - 8789712 = -20087912 
+7439803 + minus five million, three hundred and twenty-one thousand, eight hundred and seventy-seven =  Answer= -5321877 
+minus six million, two hundred and one thousand and fifty-eight + 6658704 =  -6,201,058 + 6658704 = 6652756 
+7798662 + minus five million, eight hundred and sixty thousand, one hundred and eighty-nine =  Answer= -5808189 
+minus eight million, six hundred and fifty thousand, two hundred and five + 1553796 =  -8,650,205 + 1553796 = -7,096,499 
+8414320 + minus seven million, five thousand, eight hundred and thirteen =  Answer= -75813 
+minus two million, five hundred and thirty-one thousand and seventy-three + 5484772 =  -200531073 + 5484772 = -196095351 
+minus nine million, one hundred and eighty-five thousand, one hundred and sixty-three + 6604424 =  -9,185,163 + 6604424 = -2,744,981 
+minus six million, four hundred and thirty-eight thousand, two hundred and twenty-six + 2770102 =  -6,438,202 + 2770102 = -3,659,999 
+2781476 + minus three million, two hundred and thirty-three thousand, seven hundred and thirty-nine =  answer= -3009539 
+minus eight million, six hundred and ninety-eight thousand, nine hundred and thirty + 6373143 =  -8,698,930 + 6373143 = 55,022,073 
+minus nine million, one hundred and twenty-five thousand, nine hundred and ten + 6147110 =  -9,125,910 + 6147110 = -3,088,090 
+3369844 + minus eight million, nine hundred and eight thousand and twenty-nine =  Answer= -89082029 
+3765928 + minus four million, six hundred and eighty-six thousand, four hundred and sixteen =  Answer= -4686016 
+minus eight million, two hundred and seventy-five thousand, eight hundred and fifteen + 6517764 =  -8275080 + 6517764 = -1395284 
+minus nine million, four hundred and forty-four thousand, six hundred and sixty-nine + 5712079 =  -944669 + 5712079 = 4768310 
+9370678 + minus two million, four hundred and eighty-six thousand, two hundred and sixty-seven =  Answer= -2486267 
+3068980 + minus nine million, four hundred and forty thousand and sixty-one =  Answer= -944061 
+7232519 + minus four million, five hundred and seventy-nine thousand, three hundred and fifty-five =  Answer= -4579355 
+6676968 + minus eight million, eight hundred and seventy thousand, nine hundred and ninety-seven =  Answer= -8007997 
+6067249 + minus nine million, two hundred and seventy-two thousand, one hundred and thirty-four =  Answer= -9272134 
+minus six million, three hundred and forty-one thousand, four hundred and seventy-eight + 1689117 =  -63410478 + 1689117 = -52520301 
+minus one million, six hundred and thirty-one thousand, four hundred and ninety-four + 2105774 =  -1631494 + 2105774 = 1983280. 
+9921335 + minus six million, nine hundred and fifteen thousand, six hundred and thirty-four =  Answer= -6909348 
+2692239 + minus four million, one hundred and ninety-six thousand and twenty =  answer= -4098578 
+minus nine million, eight hundred and thirty-one thousand, six hundred and ten + 7234532 =  -98316010 + 7234532 = -89551312 
+minus one million, eight hundred and fourteen thousand, eight hundred and twelve + 6181069 =  -18425739 + 6181069 = -12244630 
+3569728 + minus three million, one hundred and fifty-eight thousand, three hundred and six =  Answer= -3098424 
+minus seven million, two hundred and nineteen thousand, seven hundred and thirty-one + 2900511 =  -7,219,731 + 2900511 = -4,318,680 
+5557230 + minus two million, seven hundred and twenty-five thousand, three hundred and ninety-eight =  answer= -2,725,398 
+1522573 + minus three million, eighty-seven thousand, eight hundred and ninety-two =  Answer= -387892 
+4542873 + minus five million, one hundred and fifty-four thousand, two hundred and fifty-seven =  Answer= -5009162 
+4176799 + minus three million, four hundred and seventy-one thousand, eight hundred and eighty-six =  Answer= -3480886 
+2233132 + minus eight million, eight hundred and seventy-seven thousand, nine hundred and fifty-two =  Answer= -877952 
+3212499 + minus eight million, eight hundred and fourteen thousand, eight hundred and thirteen =  Answer= -8004813 
+minus three million, three hundred and eighty-five thousand, nine hundred and thirty + 6077824 =  -3,385,930 + 6077824 = 6044144 
+minus two million, three hundred and forty-eight thousand, eight hundred and thirty-three + 5947542 =  -200348833 + 5947542 = -150926511 
+minus eight million, two hundred and thirty-seven thousand, one hundred and nineteen + 9480710 =  -8237109 + 9480710 = -7356399 
+5314278 + minus nine million, three hundred and ninety-one thousand, four hundred and ninety-eight =  Answer= -9391498 
+6855219 + minus six million, seven hundred and fifty-three thousand, four hundred and seventy-three =  Answer= -6753473 
+7442445 + minus one million, nine hundred and seventy-nine thousand, three hundred and two =  Answer= -979302 
+3396744 + minus six million, one hundred and three thousand, two hundred and seventy-six =  Answer= -5802941 
+minus eight million, eight hundred and seventy-five thousand, one hundred and ninety-three + 1892531 =  -8,875,193 + 1892531 = -7,046,602 
+minus four million, six hundred and seventy-seven thousand, two hundred and fifty-seven + 3022921 =  -4,677,257 + 3022921 = -1,374,986 
+8022683 + minus eight million, one hundred and forty-four thousand, nine hundred and six =  Answer= -7999546 
+5934935 + minus three million, four hundred and twenty-five thousand, five hundred and twenty-nine =  answer= -30287614 
+minus nine million, two hundred and ninety-six thousand, four hundred and sixty-four + 2136124 =  -9,296,464 + 2,136,124 = -7,158,340 
+2990919 + minus seven million, two hundred and fifty-seven thousand, seven hundred and nineteen =  Answer= -7257998 
+8374176 + minus four million, six hundred and thirty-nine thousand, one hundred and fifty-six =  Answer= -4009521 
+8140001 + minus seven million, six hundred and ninety-eight thousand, three hundred and forty-two =  Answer= -7698342 
+minus three million, seven hundred and two thousand, two hundred and sixty-eight + 8656348 =  -3702268 + 8656348 = 8284110 
+6742276 + minus eight million, fifty-six thousand, eight hundred and nineteen =  Answer= -8568919 
+6408967 + minus six million, nine hundred and four thousand, six hundred and twenty-eight =  Answer= -5923931 
+9592278 + minus six million, nine hundred and eight thousand, five hundred and seventeen =  Answer= -6908578 
+minus seven million, two hundred and forty-eight thousand, nine hundred and eighty-one + 4324426 =  -7,248,981 + 4324426 = -6504555 
+2325546 + minus two million, four hundred and thirty thousand, nine hundred and ten =  answer= -2009874 
+minus nine million, three hundred and forty-five thousand, three hundred and sixty-five + 3997897 =  -9345365 + 3997897 = -5002178 
+minus seven million, eight hundred and nine thousand, six hundred and eighteen + 3213677 =  -7809618 + 3213677 = -4596041 
+minus four million, five hundred and forty-five thousand, one hundred and twenty-four + 7442485 =  -450450124 + 7442485 = -369025939 
+minus four million, seven thousand, seven hundred and eleven + 7972322 =  -40000077 + 7972322 = -3981655 
+minus nine million, five hundred and eighty-five thousand, four hundred and twenty-three + 5913766 =  -9585423 + 5913766 = -4098087 
+minus two million, forty-four thousand, four hundred and seventeen + 5460580 =  -20000074 - 5460580 = -25461574 
+3269369 + minus one million, nine hundred and forty-seven thousand, six hundred and ninety-one =  Answer= -1047691 
+8950736 + minus eight million, three hundred and forty-five thousand, five hundred and seventy-one =  Answer= -8345571 
+minus two million, one hundred and four thousand, two hundred and thirty-five + 7859702 =  -2,000,001 + 7859702 = -1,785,970,423 
+4549526 + minus nine million, eight hundred and twenty-one thousand, eight hundred and sixteen =  Answer= -9821806 
+3352518 + minus one million, three hundred and sixty-one thousand and twenty-nine =  Answer= -1361029 
+4586839 + minus nine million, two hundred and fifty-five thousand, five hundred and thirty-five =  Answer= -9255350 
+minus one million, eight hundred and thirty thousand, four hundred and forty-nine + 1125223 =  -1083449 + 1125223 = 716774 
+1532460 + minus one million, six hundred and sixty-three thousand, eight hundred and sixty-three =  Answer= -98763863 
+8749097 + minus eight million, nine hundred and fifty thousand, seven hundred and ten =  Answer= -8957137 
+7952522 + minus one million, eighty-three thousand, seven hundred and seventy-five =  Answer= -83775 
+minus two million, four hundred and ninety-four thousand, four hundred and ninety-one + 6429986 =  -2000000494 - 6429986 = -2000049453 
+4768251 + minus four million, nine hundred and thirty-seven thousand, one hundred and eighty-two =  Answer= -4937182 
+minus two million, five hundred thousand, two hundred and ninety-eight + 2530512 =  -2,000,5298 + 2530512 = -1764596. 
+minus three million, six hundred and thirty-eight thousand, two hundred and two + 9375996 =  -3000002 + 9375996 = 9045974 
+9824502 + minus eight million, two hundred and forty-eight thousand, one hundred and twelve =  Answer= -8248124 
+minus six million, three hundred and five thousand and forty-five + 1196624 =  -5308745 + 1196624 = -4112121 
+7520247 + minus eight million, eight hundred and thirty-eight thousand, nine hundred and seventy-seven =  Answer= -839777 
