@@ -1,0 +1,981 @@
+-1 + minus one =  answer= zero 
+-1 + minus two =  answer= minus three 
+minus one + -3 =  answer=-4 
+minus one + -4 =  answer=-5 
+-1 + minus five =  answer= minus six 
+minus one + -6 =  answer=-7 
+-1 + minus seven =  answer= minus eight 
+minus one + -8 =  answer=-9 
+minus one + -9 =  answer=-ten 
+minus two + -1 =  answer=-2 
+minus two + -2 =  answer=-4 
+-2 + minus three =  answer= minus five 
+-2 + minus four =  answer= minus six 
+-2 + minus five =  answer= minus seven 
+-2 + minus six =  answer= minus eight 
+-2 + minus seven =  answer= minus nine 
+-2 + minus eight =  answer= minus ten 
+minus two + -9 =  answer=-11 
+-3 + minus one =  answer= minus two 
+minus three + -2 =  answer=-4 
+-3 + minus three =  answer= minus six 
+minus three + -4 =  answer=-seven 
+-3 + minus five =  answer= minus eight 
+-3 + minus six =  answer= minus nine 
+minus three + -7 =  answer=-ten 
+minus three + -8 =  answer=-eleven 
+-3 + minus nine =  answer= minus twelve 
+-4 + minus one =  answer= minus three 
+-4 + minus two =  answer= minus six 
+-4 + minus three =  answer= minus seven 
+minus four + -4 =  answer=-eight 
+minus four + -5 =  answer=-9 
+-4 + minus six =  answer= minus ten 
+minus four + -7 =  answer=-eleven 
+-4 + minus eight =  answer= minus twelve 
+-4 + minus nine =  answer= minus thirteen 
+minus five + -1 =  answer=-four 
+minus five + -2 =  answer=-7 
+minus five + -3 =  answer=-eight 
+minus five + -4 =  answer=- nine 
+minus five + -5 =  answer=-ten 
+minus five + -6 =  answer=-eleven 
+minus five + -7 =  answer=-twelve 
+-5 + minus eight =  answer= minus thirteen 
+minus five + -9 =  answer=-fourteen 
+-6 + minus one =  answer= minus five 
+minus six + -2 =  answer=-8 
+-6 + minus three =  answer= minus nine 
+minus six + -4 =  answer=-ten 
+minus six + -5 =  answer=-eleven 
+minus six + -6 =  answer=-2 
+-6 + minus seven =  answer= minus thirteen 
+minus six + -8 =  answer=-four 
+minus six + -9 =  answer=-fifteen 
+minus seven + -1 =  answer=-six 
+minus seven + -2 =  answer=-5 
+-7 + minus three =  answer= minus ten 
+-7 + minus four =  answer= minus eleven 
+minus seven + -5 =  answer=-twelve 
+-7 + minus six =  answer= minus thirteen 
+minus seven + -7 =  answer=-four 
+-7 + minus eight =  answer=-fifteen 
+minus seven + -9 =  answer=-six 
+minus eight + -1 =  answer=-7 
+minus eight + -2 =  answer=-6 
+minus eight + -3 =  answer=-eleven 
+-8 + minus four =  answer= minus twelve 
+-8 + minus five =  answer= minus thirteen 
+-8 + minus six =  answer= minus twelve 
+minus eight + -7 =  answer=-5 
+-8 + minus eight =  answer= minus sixteen 
+-8 + minus nine =  answer= minus seventeen 
+-9 + minus one =  answer= minus eight 
+-9 + minus two =  answer= minus seven 
+minus nine + -3 =  answer=-twelve 
+-9 + minus four =  answer= minus thirteen 
+-9 + minus five =  answer= minus four 
+minus nine + -6 =  answer=-fifteen 
+-9 + minus seven =  answer= minus six 
+-9 + minus eight =  answer= minus seven 
+-9 + minus nine =  answer= minus eighteen 
+minus thirty-one + -63 =  answer=- ninety-four 
+minus ninety-one + -46 =  answer=-forty-seven 
+-37 + minus seventy =  answer= minus sixty-seven 
+-74 + minus seventy-seven =  answer= minus twenty-three 
+minus ten + -11 =  answer=-21 
+-84 + minus sixty-four =  answer= minus twenty-eight  
+-28 + minus thirty-nine =  answer= minus forty-one 
+minus ninety-eight + -15 =  answer=-one hundred and five 
+minus sixty-two + -88 =  answer=-minus seventy. 
+minus fourteen + -52 =  answer=-66 
+minus ninety-eight + -24 =  answer=-one hundred twenty-two 
+-12 + minus twenty-nine =  answer=-forty-one 
+minus twenty-five + -12 =  answer=-thirteen 
+minus thirty + -80 =  answer=-79 
+-61 + minus seventy-two =  answer= minus sixty-three  
+-33 + minus ninety-five =  answer=-one hundred and twenty-eight 
+-70 + minus forty =  answer= minus eleven 
+-35 + minus thirty-six =  answer=-seventy-one 
+minus twenty-five + -81 =  answer=-106 
+-81 + minus fifty-nine =  answer= minus sixty  
+minus fifty-three + -28 =  answer=-minus seven 
+minus forty-seven + -56 =  answer=-one hundred twenty-three 
+minus seventy-four + -59 =  answer=-twenty-five 
+minus seventy-two + -59 =  answer=-twenty three 
+-13 + minus twenty-one =  answer=- thirty-four 
+minus seventy-three + -10 =  answer=-eighty-three 
+-18 + minus eighty =  answer= minus ninety-eight 
+minus eighty-three + -87 =  answer=-seventy-nine 
+-81 + minus eighty-nine =  answer= minus seven  
+minus thirty-one + -90 =  answer=-minus ninety-nine 
+minus fifty-two + -54 =  answer=-one hundred and five 
+-41 + minus twenty-three =  answer= minus sixty-four 
+minus eighteen + -32 =  answer=-50 
+-57 + minus thirty =  answer= minus twenty-seven 
+-96 + minus seventy-six =  answer= minus sixty-seven 
+-62 + minus thirty =  answer= minus sixty-three 
+minus fifty-four + -72 =  answer=-one hundred twenty six 
+-95 + minus forty-one =  answer= minus fifty-six 
+-30 + minus eighty-one =  answer=-eighty-nine 
+minus sixty-six + -62 =  answer=-4 
+-17 + minus forty-six =  answer=-minus sixty-three 
+minus forty-three + -94 =  answer=-one hundred thirty-seven 
+-14 + minus sixty-three =  answer=- seventy-seven  
+-31 + minus sixty =  answer=-sixty-one 
+-53 + minus ninety-two =  answer=-one hundred and forty-five 
+-29 + minus seventy-one =  answer= minus ninety .  
+minus forty-two + -27 =  answer=-seventy-nine 
+minus thirteen + -37 =  answer=-50 
+minus twenty-nine + -57 =  answer=-86 
+minus seventy-two + -84 =  answer=-one hundred and fifty-six 
+minus forty-nine + -27 =  answer=-seventy-six 
+minus twenty-seven + -11 =  answer=-thirteen 
+-97 + minus twenty-six =  answer= minus thirty-five 
+minus forty-three + -85 =  answer=-128 
+minus ninety-two + -41 =  answer=-one hundred thirty-three 
+minus forty-two + -97 =  answer=-one hundred and thirty-nine 
+-27 + minus twenty-seven =  answer=-fifty-four 
+-22 + minus sixty =  answer= minus eighty-two 
+minus thirty-three + -13 =  answer=-forty-six 
+-28 + minus nineteen =  answer= minus twenty-nine 
+-93 + minus forty-six =  answer= minus fifty-five 
+minus forty-eight + -78 =  answer=-one hundred twenty-six 
+-60 + minus seventy-three =  answer= minus eighty-three 
+-89 + minus thirty-one =  answer= minus forty-nine 
+-33 + minus fifty-eight =  answer=- ninety-one 
+-100 + minus eighty =  answer= minus twenty 
+-87 + minus one hundred =  answer=-97 
+minus eleven + -59 =  answer=-60 
+-18 + minus sixty =  answer=- seventy eight 
+minus thirty-nine + -42 =  answer=-seventy-one 
+minus fifteen + -41 =  answer=-56 
+minus twenty-nine + -49 =  answer=-seventy-eight 
+minus seventy-four + -80 =  answer=-one hundred and fifty-four 
+-83 + minus twenty-two =  answer= minus ten 
+minus seventy-five + -86 =  answer=-one hundred and sixty-one 
+minus seventy-six + -49 =  answer=-twenty seven 
+-99 + minus eighty-nine =  answer= minus nine  
+minus eighteen + -88 =  answer=-96 
+-35 + minus fifty-five =  answer=- ninety   
+minus fifty + -94 =  answer=-one hundred and forty-nine 
+-23 + minus nineteen =  answer= minus twenty-two 
+-90 + minus sixty-seven =  answer= minus seventy-six 
+minus ninety-seven + -92 =  answer=-one 
+minus seventy + -76 =  answer=-seven 
+-61 + minus nineteen =  answer= minus twenty-six 
+minus thirteen + -16 =  answer=-thirty-three 
+minus forty-five + -100 =  answer=-fifty five 
+-64 + minus sixty-eight =  answer= minus twenty-two 
+minus sixty-one + -59 =  answer=-minus six  
+-72 + minus thirty-nine =  answer=-one hundred twenty-two 
+-14 + minus seventy-one =  answer= minus eighty-five 
+-72 + minus fifty-seven =  answer= minus twenty-nine  
+minus sixty-seven + -90 =  answer=-one hundred and fifty-seven 
+minus forty-one + -71 =  answer=-eleven 
+minus fifty-nine + -49 =  answer=-one hundred and four 
+-77 + minus ten =  answer= minus eighty-seven 
+minus fifty + -35 =  answer=-eighty-five 
+-60 + minus twenty-eight =  answer= minus thirty-four 
+-80 + minus thirty-two =  answer= minus fifty-two 
+minus seventy-six + -48 =  answer=-twenty-eight 
+-69 + minus twenty-three =  answer= minus eighty-two 
+-100 + minus sixty-five =  answer= minus forty-five 
+minus ninety-six + -52 =  answer=-one hundred forty-eight 
+-92 + minus eighty-four =  answer= minus seventy-six 
+-43 + minus twenty =  answer= minus sixty-three 
+minus fifty-one + -75 =  answer=-twenty-six 
+-29 + minus ninety-seven =  answer=minus seventy-eight 
+minus forty + -86 =  answer=-124 
+minus fifty-eight + -30 =  answer=-twenty eight 
+minus sixty-nine + -61 =  answer=-minus seven  
+minus sixty-eight + -88 =  answer=-minus seventy-six 
+minus ninety-five + -32 =  answer=-one hundred twenty seven 
+-89 + minus forty-four =  answer= minus twelve 
+-34 + minus thirty-seven =  answer= minus forty-one 
+minus fifty-four + -90 =  answer=-one hundred and forty-four 
+-12 + minus nineteen =  answer= minus twenty-one 
+minus sixty + -87 =  answer=-minus seventy-five 
+-99 + minus sixty-seven =  answer= minus twenty-seven 
+-10 + minus seventy-nine =  answer= minus eighty-nine  
+-22 + minus forty-nine =  answer= minus sixty-one 
+-68 + minus fifty-seven =  answer= minus sixty-five 
+-57 + minus thirty-one =  answer= minus twenty-six 
+-83 + minus sixty-five =  answer= minus seventy-three 
+minus forty-nine + -34 =  answer=-eighty-three 
+-61 + minus eighty =  answer=-eighty-one 
+minus thirty-eight + -83 =  answer=-one hundred twenty-five 
+-12 + minus ninety-four =  answer=-one hundred and ten 
+-20 + minus sixty-five =  answer=-eighty-five 
+minus twenty-nine + -17 =  answer=-eleven 
+minus seventy-seven + -87 =  answer=-one hundred and sixty-four 
+minus seventy + -96 =  answer=-one hundred and sixty-seven 
+-29 + minus forty-four =  answer= minus sixty-three 
+minus fifty-five + -46 =  answer=-one hundred and ten 
+-91 + minus ninety =  answer= minus ten 
+-19 + minus ninety-five =  answer=-one hundred and ten 
+-33 + minus seventy-five =  answer=-seventy-eight 
+minus ninety-six + -34 =  answer=-one hundred twenty-nine 
+-44 + minus fifty-five =  answer=- ninety-nine 
+minus thirty + -14 =  answer=-forty-four 
+minus forty-five + -97 =  answer=-one hundred and thirty-two 
+minus twenty-three + -39 =  answer=-52 
+minus seventy-eight + -42 =  answer= minus eighty .  
+-35 + minus ninety-eight =  answer= minus sixty-three 
+-77 + minus sixty-four =  answer= minus twenty-three 
+-51 + minus thirty-eight =  answer= minus twenty-three 
+minus seventy-four + -15 =  answer=-ninety-one 
+-87 + minus seventy-eight =  answer= minus eighty-five 
+minus twelve + -100 =  answer=-eleven 
+-73 + minus seventy-one =  answer= minus eighty-four 
+minus sixty-six + -12 =  answer=-seventy-eight 
+-795 + minus one hundred and fifty-six =  answer= minus five hundred seventy-nine  
+-797 + minus eight hundred and ninety-six =  answer= minus seven hundred and ninety-six 
+-417 + minus four hundred and ninety-nine =  answer= minus three hundred and seventy-seven  
+minus five hundred and seventy-five + -813 =  answer=-three thousand seven hundred eighty-eight 
+-111 + minus four hundred and sixty =  answer=-479 
+-728 + minus three hundred and seventy-one =  answer= minus four hundred and twenty-nine 
+-873 + minus four hundred and eighty-five =  answer= minus six hundred and seventeen 
+minus two hundred and eighty-six + -649 =  answer=-minus six hundred and forty-three 
+minus three hundred and eleven + -331 =  answer=-two thousand seven hundred and ninety-one 
+minus eight hundred and ninety-four + -560 =  answer= minus thirteen hundred and fifty-four  
+minus one hundred and eighty-four + -345 =  answer=-minus five hundred twenty-nine 
+minus seven hundred and thirteen + -282 =  answer=-seven hundred five. 
+minus six hundred and fifty-two + -787 =  answer=-652+-787=-1439 
+-686 + minus two hundred and thirty-four =  answer= minus three hundred and ninety-eight  
+-533 + minus six hundred and ninety-four =  answer= minus five hundred and thirty-seven 
+-781 + minus eight hundred and fifty-seven =  answer= minus seven hundred and seventy-nine 
+-859 + minus two hundred and nine =  answer= minus seven hundred and ninety-one 
+minus six hundred and forty-five + -635 =  answer=-one 
+-626 + minus four hundred and three =  answer= minus six hundred and twenty-nine 
+minus two hundred and sixty-four + -345 =  answer=-609 
+minus seven hundred and twenty-eight + -756 =  answer=-one thousand five hundred seventy-six 
+-889 + minus six hundred and six =  answer= minus seven hundred and seventy-five 
+minus seven hundred and sixty-six + -317 =  answer= minus four hundred and fifty-nine 
+minus two hundred and eighty-eight + -540 =  answer= minus seven hundred and seventeen 
+minus three hundred and twenty-seven + -601 =  answer=-minus six hundred eighty-one 
+minus three hundred and seventy-one + -141 =  answer= minus five hundred and ninety-two  
+minus three hundred and ten + -136 =  answer= minus four hundred and forty-six 
+minus seven hundred + -550 =  answer=-two thousand five hundred and fifty. 
+-854 + minus two hundred and forty-two =  answer= minus six hundred and eighty-seven  
+-262 + minus four hundred and eighty-five =  answer= minus six hundred and forty-seven  
+-503 + minus one hundred and thirty-three =  answer= minus eighty-eight 
+minus eight hundred and ninety-six + -780 =  answer=-one thousand seven hundred and seventy-eight 
+minus six hundred and ninety + -952 =  answer=-840 
+-301 + minus five hundred and ninety-seven =  answer= minus four hundred and nine 
+minus nine hundred and ninety + -851 =  answer=-one thousand eight hundred and fifty-one 
+-788 + minus one hundred and fifty-six =  answer= minus six hundred eighty-eight  
+-479 + minus nine hundred and forty-six =  answer= minus four hundred and seventy-seven  
+minus six hundred and eleven + -441 =  answer=-570 
+minus four hundred and sixty-two + -498 =  answer=- eighty-six 
+-712 + minus eight hundred and thirty-five =  answer= minus seven hundred and ten 
+-986 + minus three hundred and sixty-two =  answer= minus six hundred and twenty-eight  
+minus four hundred and eighty-three + -771 =  answer=-384 
+minus eight hundred and fifty-one + -900 =  answer=-seven hundred and sixty-one 
+-911 + minus two hundred and twenty-seven =  answer= minus three hundred and nineteen 
+minus seven hundred and nine + -968 =  answer=- eight hundred and seventy-nine  
+minus nine hundred and sixty-nine + -179 =  answer=- eight hundred twenty-one 
+-354 + minus seven hundred and forty-eight =  answer= minus six hundred seventy-four 
+minus two hundred and forty-nine + -869 =  answer=-2345 
+minus two hundred and six + -798 =  answer=-624 
+-761 + minus three hundred and twenty-three =  answer= minus four hundred and eighty-four 
+minus two hundred and thirty-seven + -609 =  answer=-842 
+minus three hundred and twenty-three + -132 =  answer= minus four hundred fifty-one 
+minus seven hundred and sixty-four + -635 =  answer=-one 
+-109 + minus two hundred and ninety-seven =  answer= minus three hundred and nine. 
+minus three hundred and ninety + -159 =  answer=-minus one hundred and thirty-nine 
+minus eight hundred and thirteen + -944 =  answer=- seven hundred and forty-four 
+-161 + minus two hundred and twenty-six =  answer= minus ninety-five 
+minus eight hundred and forty-two + -338 =  answer= minus five hundred and seventy-four 
+minus five hundred and ninety-nine + -612 =  answer=-one thousand six hundred and nine 
+-542 + minus seven hundred and fifty-one =  answer= minus six hundred and ninety-three  
+-750 + minus four hundred and seventy-four =  answer= minus three hundred and twenty-six  
+minus four hundred and fifty-four + -511 =  answer=- nine hundred and sixty-five 
+minus seven hundred and fifty-one + -763 =  answer=-minus four hundred seventy-three 
+-836 + minus six hundred and twenty-six =  answer= minus seven hundred and fifty-six 
+-549 + minus nine hundred and eight =  answer= minus four hundred and ninety-one  
+minus one hundred and twenty + -972 =  answer=-840 
+-963 + minus three hundred and twenty-six =  answer= minus four hundred and fifty-nine 
+-453 + minus six hundred and one =  answer= minus five hundred and ninety-four  
+minus two hundred and sixty-nine + -113 =  answer= minus three hundred eighty-two  
+minus four hundred and thirty-four + -808 =  answer=-324 
+-406 + minus three hundred and twenty =  answer= minus four hundred and eighty-six  
+-567 + minus two hundred and ninety-one =  answer= minus seven hundred and fifty-seven 
+-255 + minus one hundred and ten =  answer= minus seventy-five 
+-967 + minus two hundred and fifty-six =  answer= minus three hundred and twenty-three  
+-664 + minus two hundred and fourteen =  answer= minus eighty-eight 
+-647 + minus seven hundred and fifty-eight =  answer= minus eight hundred twenty-five 
+-743 + minus five hundred and fourteen =  answer= minus seven hundred forty-seven  
+-879 + minus two hundred and twenty-six =  answer= minus three hundred and ninety-five 
+-817 + minus eight hundred and sixteen =  answer= minus seven hundred and seventy-nine  
+-651 + minus one hundred and eighteen =  answer= minus five hundred and seventy-one 
+-898 + minus three hundred and forty-eight =  answer= minus five hundred eighty-nine 
+-713 + minus six hundred and eighty-one =  answer= minus seven hundred and ten 
+minus three hundred and fifty + -308 =  answer=-three hundred and eighty-eight 
+-690 + minus nine hundred and seven =  answer= minus six hundred and seventy-seven  
+minus five hundred and nine + -409 =  answer=-four hundred and ninety-nine 
+minus nine hundred and twenty-five + -803 =  answer= minus seven hundred and twenty-two  
+-903 + minus five hundred and twenty-seven =  answer= minus six hundred and twenty-seven  
+-690 + minus six hundred and ten =  answer= minus five hundred and ninety. 
+minus five hundred and thirteen + -889 =  answer=-seven hundred and seventy-nine 
+-286 + minus one hundred and thirty-eight =  answer=minus twenty-one 
+minus eight hundred and ninety-seven + -363 =  answer= minus five hundred and sixty-four 
+-836 + minus three hundred and sixty-eight =  answer= minus five hundred and twenty-eight  
+minus three hundred and ninety-six + -449 =  answer=-845 
+minus seven hundred and seventy-nine + -602 =  answer=-one thousand six hundred and ninety-seven 
+minus four hundred and ninety-eight + -920 =  answer=-486 
+minus one hundred and fifty-four + -218 =  answer=-374 
+minus six hundred and ninety-eight + -192 =  answer= minus seven hundred and eighty. 
+-432 + minus nine hundred and forty =  answer= minus eight hundred and twenty-three  
+-871 + minus eight hundred and thirty-eight =  answer= minus seven hundred and forty-three 
+minus four hundred and nineteen + -415 =  answer=-834 
+minus two hundred and fourteen + -376 =  answer=-590 
+minus three hundred and thirty-seven + -150 =  answer= minus four hundred eighty-seven  
+minus eight hundred and sixty-three + -985 =  answer=-seven hundred and ninety-eight 
+-624 + minus eight hundred and seven =  answer= minus seven hundred and seventy-seven  
+-742 + minus five hundred and eighty-four =  answer= minus seven hundred and forty-two 
+-669 + minus four hundred and seventy-two =  answer= minus five hundred and thirty-three 
+minus one hundred and forty-seven + -606 =  answer=-489 
+minus seven hundred and twenty-two + -438 =  answer=-three hundred seventy-five 
+-291 + minus eight hundred and eighty-eight =  answer= minus seven hundred and ninety-nine 
+-535 + minus six hundred and fourteen =  answer= minus five hundred and forty-four  
+-266 + minus one hundred and thirty-two =  answer= minus twenty-three 
+minus three hundred and nineteen + -269 =  answer=-538 
+-113 + minus seven hundred and eighty-three =  answer=minus six hundred and seventy-one 
+minus nine hundred and seventy + -766 =  answer= minus twelve hundred and thirty-six 
+minus three hundred and fifty-four + -854 =  answer=-690 
+minus six hundred and forty-one + -966 =  answer=-725 
+-294 + minus three hundred and eighty-six =  answer=minus four hundred and seventy-eight 
+minus eight hundred and eight + -477 =  answer=-three thousand five hundred and seven 
+minus two hundred and forty-six + -436 =  answer=-203 
+-966 + minus seven hundred and sixty-seven =  answer=minus eight hundred and twenty-three 
+-394 + minus seven hundred and ninety-five =  answer=minus eight hundred and forty-nine 
+-1000 + minus one hundred and fifty-nine =  answer=minus eighty-four 
+minus eight hundred and thirty-six + -411 =  answer=- seven hundred and twenty-five 
+-673 + minus four hundred and eighty-eight =  answer= minus five hundred and seventeen 
+-838 + minus five hundred and four =  answer= minus seven hundred and eighty-four  
+minus seven hundred and forty + -691 =  answer=-three thousand four hundred and ten 
+-373 + minus three hundred and sixteen =  answer= minus twenty-seven 
+-908 + minus two hundred and twenty-four =  answer= minus three hundred and ninety-eight  
+minus three hundred and fifteen + -943 =  answer=-857 
+-294 + minus six hundred and eleven =  answer= minus eight hundred and twenty-five 
+minus two hundred and seventy + -770 =  minus two hundred and seventy plus negative seven hundred and seventy equals minus nine hundred and forty-seven. 
+minus four hundred and eighty-nine + -779 =  answer=-380 
+minus eight hundred and eighty-eight + -232 =  answer= minus six hundred and fifty-six 
+-149 + minus two hundred and forty =  answer= minus twenty-four 
+-872 + minus one hundred and ninety-four =  answer= minus seven hundred and seventy-six  
+minus five hundred and sixty-five + -213 =  answer= minus seven hundred eighty-eight  
+minus one hundred and forty-nine + -176 =  answer=-295 
+minus two hundred and thirteen + -280 =  answer=-533 
+minus seven hundred and sixty-eight + -556 =  answer= minus twelve hundred and twenty-four 
+minus five hundred and twenty-three + -885 =  answer=-3728 
+-846 + minus six hundred and sixty-seven =  answer= minus seven hundred and twenty-three  
+-385 + minus four hundred and fifty-seven =  answer= minus three hundred eighty-five  
+minus eight hundred and eighteen + -519 =  answer=-seven hundred and ninety-eight 
+minus five hundred and seventy-four + -740 =  answer=-minus three hundred and twenty-six  
+minus eight hundred and eighteen + -371 =  answer= minus five hundred and ninety-one 
+minus two hundred and thirty-eight + -642 =  answer=-870 
+minus seven hundred and sixty-seven + -745 =  answer= minus eight hundred twenty-two  
+-309 + minus seven hundred and forty-seven =  answer= minus six hundred and seventy-eight  
+minus nine hundred and thirty-eight + -193 =  answer= minus one thousand three hundred and twenty-five 
+-913 + minus nine hundred and two =  answer=minus eight hundred and ninety-three 
+-1059 + minus six thousand, five hundred and seventy-seven =  Answer= minus six thousand, five hundred and eighty-three . 
+-3734 + minus six thousand, six hundred and sixty-six =  answer= minus six thousand, seven hundred and thirty-four  
+-9267 + minus one thousand, four hundred and fifteen =  answer= minus five hundred and twenty-seven  
+minus one thousand, four hundred and seventy-six + -3842 =  answer=-5076 
+minus four thousand, seven hundred and ninety-nine + -3100 =  answer=-4799+3100=-1699 
+-3767 + minus four thousand, two hundred and fifty-three =  answer= minus three thousand seven hundred and sixty-seven  
+minus three thousand, eight hundred and forty-seven + -6052 =  answer=-three thousand, seven hundred and sixty-two 
+-5141 + minus six thousand, three hundred and forty-six =  answer= minus five thousand, seven hundred and eighty-three  
+minus seven thousand, four hundred and ninety + -7291 =  answer= minus six thousand three hundred and seventy-two 
+minus one thousand, six hundred and seventy-two + -4999 =  answer=-2071 
+minus six thousand, two hundred and sixty-two + -4730 =  answer=-2652 
+-8099 + minus four thousand, one hundred and two =  answer= minus three thousand, nine hundred and eighty-nine 
+-8603 + minus eight thousand, five hundred and fifty-one =  answer= minus seven thousand, four hundred and forty-nine 
+-4061 + minus eight thousand, one hundred and eighty =  answer= minus seven thousand, nine hundred and twenty-one  
+-7238 + minus eight thousand, nine hundred and seventy-seven =  answer= minus seven thousand, two hundred and thirty-eight  
+-8971 + minus three thousand, seven hundred and thirty-four =  answer= minus four thousand, five hundred and seventy-seven  
+minus one thousand, one hundred and forty-five + -1510 =  answer= minus twenty-one hundred and ten. 
+-9536 + minus three thousand, three hundred and nineteen =  answer= minus two thousand, nine hundred and fifty-three 
+-2026 + minus eight thousand, two hundred and twenty =  answer= minus seven thousand, nine hundred and ninety-six 
+minus seven thousand, six hundred and seventy-five + -6954 =  answer=-one thousand, nine hundred and eighty-nine 
+minus eight thousand, two hundred and twenty + -9003 =  answer= minus seven thousand three hundred and twenty-three 
+-4054 + minus five thousand, eight hundred and eighty-seven =  answer= minus four thousand, seven hundred and ninety-three 
+-5945 + minus two thousand, one hundred and twenty-seven =  answer= minus nineteen hundred and seventy-eight  
+minus three thousand, six hundred and thirteen + -7734 =  answer= minus four thousand, five hundred and seventy-seven 
+minus five thousand, two hundred and eighty-seven + -6774 =  answer=-three thousand, four hundred and seventeen 
+minus nine thousand, eight hundred and three + -2901 =  answer=- seven thousand, eight hundred and twenty-three 
+-9736 + minus nine thousand, three hundred and sixty-six =  Answer=minus eight thousand, seven hundred and thirty-four 
+-2292 + minus four thousand, three hundred and twelve =  answer= minus six thousand, five hundred and twenty-two  
+minus eight thousand, five hundred and thirty-eight + -6595 =  answer= minus seven thousand nine hundred and twenty-three  
+-5771 + minus nine thousand, four hundred and forty-seven =  Answer= minus eight thousand, five hundred and seventy-eight. 
+-8752 + minus five thousand, five hundred and eighty =  answer= minus four thousand, seven hundred and seventy-two  
+minus six thousand, one hundred and sixty-seven + -6189 =  answer=-4578 
+-9754 + minus seven thousand, eight hundred and eighty-five =  Answer=minus six thousand, nine hundred and seventeen. 
+-5327 + minus four thousand, three hundred and thirty-five =  answer= minus three thousand, eight hundred and forty-two  
+-9860 + minus nine thousand, six hundred and fifty-two =  answer= minus eight thousand, three hundred and forty-eight  
+minus two thousand, five hundred and fifty-one + -4039 =  answer=-two thousand, zero hundred and forty-nine 
+minus eight thousand, eight hundred and eighty-one + -7938 =  answer= minus seven thousand nine hundred and seventy-nine 
+minus five thousand and seventy-one + -9225 =  answer=-four thousand nine hundred twenty-three 
+minus two thousand, four hundred and twenty-five + -2896 =  minus two thousand, four hundred and twenty-five plus negative two thousand eight hundred ninety-six equals minus five thousand one hundred seventy-one. 
+-2025 + minus four thousand, three hundred and twenty-nine =  answer= minus six thousand, five hundred and thirty-one 
+-1183 + minus nine thousand, three hundred and sixty-three =  answer= minus ten thousand, four hundred and twenty-six 
+minus eight thousand and forty-eight + -7876 =  answer= minus seven thousand nine hundred twenty-four 
+minus five thousand, two hundred and seventy-six + -3951 =  answer=-2764 
+minus four thousand, one hundred and forty-eight + -1250 =  answer= minus three thousand, eight hundred and twenty-eight 
+-7174 + minus seven thousand, eight hundred and forty-five =  answer= minus six thousand, nine hundred and seventy-nine 
+minus five thousand, two hundred and seventy-one + -7508 =  answer=-two thousand seven hundred and twenty-three 
+-5639 + minus four thousand, seven hundred and eighty-four =  answer= minus three thousand, nine hundred and seventeen 
+minus six thousand, nine hundred and thirty-six + -5126 =  answer=-4793 
+minus six thousand, five hundred and eighty-seven + -9677 =  answer=-five thousand, five hundred and seventeen 
+minus nine thousand, four hundred and fourteen + -1936 =  answer= minus seven thousand, two hundred and seventy-eight  
+-3630 + minus four thousand, eight hundred and thirty-six =  answer= minus three thousand six hundred and ninety-four  
+-2692 + minus six thousand, four hundred and eighty-three =  answer= minus five thousand, nine hundred and seventeen 
+minus three thousand, eight hundred and three + -3829 =  answer=-three thousand, four hundred and seventy-one 
+-9625 + minus two thousand, three hundred and eighty-three =  answer= minus twenty-one hundred and seventeen 
+-1840 + minus eight thousand, eight hundred and eighty =  answer= minus ten thousand, eight hundred and eighty-eight  
+minus three thousand, seven hundred and sixty-one + -7503 =  answer=-4261 
+-5958 + minus eight thousand, five hundred and ninety-eight =  answer= minus seven thousand, four hundred and nine 
+-3716 + minus three thousand, three hundred and ninety-two =  answer= minus three thousand, nine hundred and seventy-three  
+-7226 + minus eight thousand, three hundred and thirty-seven =  answer= minus seven thousand, five hundred and twenty-nine 
+minus seven thousand, six hundred and fifteen + -7278 =  answer=-one 
+-2936 + minus four thousand, three hundred and fifty-one =  answer= minus three thousand five hundred and thirty-seven  
+minus two thousand, six hundred and twenty-six + -2856 =  answer=-two thousand, three hundred and seventy-nine 
+minus one thousand, six hundred and forty-eight + -2884 =  answer=-four thousand eighty-three 
+minus six thousand, five hundred and twenty-two + -9996 =  answer=-three thousand, four hundred and seventy-six 
+-8819 + minus five thousand, four hundred and seventy-four =  answer= minus six thousand, three hundred and eighty-one  
+minus seven thousand, five hundred and eighty-six + -1881 =  answer=-5679 
+minus three thousand, four hundred and eight + -6862 =  minus three thousand, four hundred and eight plus six thousand, eight hundred and sixty-two equals negative one thousand, two hundred and seventy-six. 
+-2454 + minus six thousand, two hundred and twenty-eight =  answer= minus five thousand, four hundred and seventy-four  
+minus eight thousand, four hundred and seventy-six + -7527 =  answer=-one 
+minus eight thousand, three hundred and ninety-eight + -8848 =  answer=- seven thousand, four hundred and nine.' 
+-1934 + minus seven thousand, seven hundred and forty =  answer= minus seven thousand, four hundred and seventy-four  
+-1886 + minus five thousand, three hundred and forty-six =  answer= minus six thousand, four hundred and twenty-one  
+minus eight thousand, seven hundred and thirty-seven + -5319 =  answer= minus three thousand, four hundred and twenty-eight  
+minus seven thousand, nine hundred and ninety + -4809 =  answer=-three thousand, five hundred and eighty-one 
+-7227 + minus six thousand, six hundred and ten =  answer= minus seven thousand, two hundred and twenty-seven  
+minus six thousand, one hundred and twenty-nine + -6934 =  answer=-5210 
+-5638 + minus eight thousand, three hundred and eleven =  answer= minus seven thousand, four hundred and twelve 
+-2477 + minus five thousand, four hundred and ninety =  answer= minus three thousand nine hundred and seventy-seven  
+minus two thousand, nine hundred and twenty-three + -9158 =  answer=-one thousand, zero hundred and seventy-eight 
+minus six thousand, two hundred and thirty-two + -7937 =  answer=-6232 plus 7937 equals negative nine thousand seven hundred and forty-five. 
+minus seven thousand, three hundred and eighty-seven + -4727 =  answer= minus three thousand, nine hundred and seventeen 
+-2239 + minus three thousand, two hundred and eighty-six =  answer= minus five thousand, four hundred and eighty-three 
+-9956 + minus two thousand, two hundred and sixty-four =  answer= minus twenty-six hundred and forty-five  
+minus seven thousand and ninety-one + -7626 =  answer= minus six thousand nine hundred eighty-five 
+-9042 + minus two thousand, seven hundred and forty-one =  answer= minus nine hundred and fourteen 
+minus two thousand, four hundred and twenty-three + -7539 =  minus two thousand, four hundred and twenty-three plus seven thousand five hundred thirty-nine equals negative one million six hundred seventy-eight. 
+-4129 + minus seven thousand, eight hundred and seventeen =  answer= minus six thousand, nine hundred and ninety-seven  
+-4742 + minus five thousand, five hundred and twenty-five =  answer= minus four thousand seven hundred forty-two 
+-1305 + minus three thousand, seven hundred and fifty-five =  answer= minus three thousand, four hundred and seventy-five 
+minus one thousand, eight hundred and forty-one + -6470 =  answer=-5829 
+minus four thousand, two hundred and thirty-nine + -2813 =  answer=-two thousand, nine hundred and seventy-one 
+minus five thousand, six hundred and eight + -2525 =  answer= minus three thousand, seven hundred and twenty-three  
+minus one thousand, five hundred and ninety-four + -5004 =  answer=-one thousand, zero hundred and forty-four 
+minus seven thousand, two hundred and seventy-two + -7930 =  answer=-6252 
+minus two thousand and nine + -7124 =  minus two thousand and nine plus negative seven thousand one hundred twenty-four equals minus four thousand three hundred seventy-five. 
+-5463 + minus one thousand, four hundred and twelve =  answer= minus five hundred forty-one 
+-9836 + minus three thousand and ninety-five =  answer= minus twenty-nine hundred and eighty-three  
+minus eight thousand, nine hundred and forty-one + -7346 =  answer= minus one thousand seven hundred and thirty-four 
+minus eight thousand, six hundred + -2323 =  answer=-6004 
+minus one thousand, eight hundred and twenty-four + -5292 =  answer=-7468 
+-6024 + minus four thousand and sixteen =  answer= minus three thousand nine hundred twenty-four  
+-3161 + minus three thousand, seven hundred and sixty-nine =  answer= minus four thousand, five hundred and thirty-one 
+-5321 + minus nine thousand, three hundred and eighty-two =  answer= minus ten thousand, four hundred and seventy-three  
+-7367 + minus nine thousand, five hundred and sixty-five =  Answer= minus eight thousand, six hundred and seventy-three. 
+minus one thousand, four hundred and twelve + -2357 =  answer=-one thousand, one hundred and twenty-five 
+minus eight thousand and eighty-six + -2428 =  answer= minus ten thousand four hundred and twenty-eight 
+minus seven thousand, two hundred and thirty-seven + -8772 =  answer=-6935 
+minus five thousand, one hundred and nine + -2156 =  answer= minus three thousand, eighty-five. 
+minus six thousand, five hundred and seventy-three + -4994 =  answer=-one thousand nine hundred and eighty-nine 
+-4557 + minus one thousand and nine =  answer= minus four hundred ninety-nine 
+-8815 + minus seven thousand, four hundred and seventy-one =  answer= minus six thousand, three hundred and eighty-three 
+-1020 + minus nine thousand, six hundred and eighty-eight =  Answer=minus ten thousand, seven hundred and eighty-eight. 
+-8864 + minus five thousand, two hundred and forty-one =  answer= minus four thousand eighty-four 
+minus three thousand, three hundred and fifty-six + -3955 =  answer=-2041 
+-1661 + minus three thousand, two hundred and seventy-six =  answer= minus two thousand seven hundred and eighty-three 
+-8833 + minus four thousand, three hundred and two =  answer= minus four thousand, three hundred and five 
+minus six thousand, nine hundred and ninety-eight + -8913 =  answer=-7095 
+-1833 + minus three thousand, three hundred and sixty-four =  answer= minus one thousand, nine hundred and ninety-nine 
+minus six thousand, six hundred and ninety-nine + -5632 =  answer=-one thousand five hundred and sixty-seven 
+minus five thousand, five hundred and eighty-six + -5894 =  answer=-one 
+-7320 + minus seven thousand and seventy-one =  answer= minus six thousand three hundred and seventy-one  
+-4006 + minus six thousand, five hundred and eighty-four =  answer= minus four thousand, five hundred and eighty-four  
+minus five thousand, three hundred and sixty-nine + -5025 =  answer=-one thousand seven hundred and seventy-four 
+-9881 + minus seven thousand, six hundred and seventy-four =  answer= minus eight thousand, four hundred and seventy-four  
+-6154 + minus six thousand, five hundred and fifty-four =  answer= minus five thousand, four hundred and forty-eight  
+-1146 + minus one thousand, seven hundred and ninety-two =  answer= minus eight hundred and seventy-six 
+minus eight thousand, five hundred and forty-four + -3568 =  answer= minus four thousand nine hundred and ninety-six 
+-7942 + minus eight thousand, four hundred and twenty-seven =  answer= minus seven thousand nine hundred forty-two 
+minus nine thousand, five hundred and four + -8149 =  answer=- eight thousand, six hundred and ninety-five  
+-4732 + minus three thousand, four hundred and twenty-two =  answer= minus three thousand, four hundred and ten 
+-6594 + minus eight thousand, eight hundred and eighty-eight =  Answer= minus seven thousand, nine hundred and ninety-two. 
+minus nine thousand, two hundred and fifty-four + -7984 =  answer=- six thousand, four hundred and eighty-eight 
+-5348 + minus seven thousand, nine hundred and ninety-one =  answer= minus six thousand, three hundred and eighty-three 
+minus five thousand, six hundred and fifty-nine + -1293 =  answer=-four thousand eight hundred and seventy-six 
+minus five thousand and forty-seven + -5999 =  answer=-four thousand nine hundred ninety-eight 
+minus four thousand and fifty + -2096 =  answer= minus three thousand nine hundred twenty-seven  
+minus six thousand, four hundred and seventy-seven + -8569 =  answer=- seven thousand five hundred and eighty-eight 
+minus eight thousand, two hundred and sixty-one + -3877 =  answer= minus five thousand, three hundred and seventy-four 
+-6859 + minus eight thousand, nine hundred and thirty-four =  answer= minus seven thousand, three hundred and forty-five  
+-9389 + minus four thousand and sixty-nine =  answer= minus three thousand nine hundred seventy-one 
+minus nine thousand and thirty-three + -2301 =  answer= minus twelve thousand three hundred and twenty-four  
+minus three thousand, eight hundred and ten + -2250 =  answer= minus five thousand, seven hundred and twenty-five  
+minus three thousand, four hundred and sixty-two + -8300 =  minus three thousand, four hundred and sixty-two plus eighty-three hundred equals negative two thousand, five hundred and twenty-one. 
+minus eight thousand, seven hundred and fifty-three + -7299 =  answer=-one thousand, nine hundred and seventy-four  
+minus two thousand, three hundred and twenty-two + -4246 =  minus two thousand, three hundred and twenty-two plus negative four thousand, two hundred and forty-six equals minus six thousand, five hundred and sixty-eight. 
+-6085 + minus four thousand, six hundred and seventy-three =  answer= minus five thousand, three hundred and seventy-three  
+minus six thousand, three hundred and seven + -7123 =  answer= minus five thousand, four hundred and eighty-five 
+-9793 + minus six thousand, two hundred and ninety-one =  answer= minus five thousand, nine hundred and seventy-three 
+minus three thousand, eight hundred and forty-two + -1002 =  answer= minus four thousand, seven hundred and twenty-nine 
+-5962 + minus eight thousand, three hundred and eighteen =  answer= minus seven thousand, four hundred and seventeen 
+-32062 + minus ninety-nine thousand, eight hundred and forty-two =  answer= minus three hundred and twenty-seven thousand, seven hundred and fifty-three 
+-14075 + minus thirty-seven thousand, one hundred and twenty-six =  answer= minus thirty-five thousand, eight hundred and seventy-four  
+-98395 + minus sixty-six thousand, three hundred and ninety-nine =  answer= minus six hundred and seventy-three thousand, nine hundred and ninety-nine  
+minus ninety thousand, five hundred and twenty-five + -99284 =  answer=- eighty-eight thousand, six hundred and seventy-seven 
+-30802 + minus ninety-one thousand, five hundred and fifteen =  answer= minus eighty-nine thousand, six hundred and ten 
+-20127 + minus sixty-eight thousand and ninety-nine =  Answer=minus seventy-one thousand nine hundred and ninety-nine. 
+minus eighty-four thousand, five hundred and thirty-three + -20317 =  answer= minus seventy-five thousand, three hundred and twenty-six. 
+-63294 + minus ninety thousand, two hundred and eighty =  answer= minus sixty-three thousand, two hundred and eighty-nine 
+minus twenty-seven thousand, four hundred and eighty-four + -73277 =  answer= minus twenty-six thousand, seven hundred and seventeen. 
+-87387 + minus thirty-five thousand, nine hundred and forty =  answer= minus twenty-seven thousand, eight hundred and seventy-three  
+-95250 + minus ten thousand, two hundred and fifty-seven =  answer= minus nine thousand five hundred twenty-five. 
+minus eighty-four thousand, one hundred and fifty-nine + -94540 =  answer= minus seventy-five thousand, five hundred and forty-one  
+minus twenty-six thousand, eight hundred and eighty-four + -35824 =  answer=-twenty-two thousand, five hundred and seventy-eight 
+-91734 + minus ninety-two thousand, one hundred and thirty-nine =  answer= minus eighty-one thousand, three hundred and forty-one 
+minus forty-eight thousand, nine hundred and seventy-eight + -33205 =  answer= minus twenty-five thousand, seven hundred and eighty-three 
+-56818 + minus sixty-one thousand, nine hundred and forty-three =  Answer= minus fifty-six thousand, eighty-eight. 
+minus eighty-seven thousand, five hundred and thirty-one + -44036 =  answer= minus seventy-three thousand, four hundred and sixty-eight 
+-65281 + minus fifty thousand and seven =  answer= minus sixty-five thousand and twenty-eight. 
+-66892 + minus thirty-nine thousand, one hundred and thirty-six =  Answer= minus twenty-seven thousand, eighty-three. 
+minus twenty-six thousand, nine hundred and forty-two + -49944 =  answer=-twenty-one thousand, four hundred and ninety-eight 
+-93513 + minus seventy thousand, one hundred and sixty-one =  answer= minus eighty-seven thousand, one hundred and thirty-eight 
+minus forty-eight thousand and forty-seven + -94790 =  answer= minus twenty-five million, four hundred seventy-nine. 
+-60343 + minus ninety-two thousand, six hundred and sixty-nine =  Answer=minus eighty-seven thousand, seven hundred and thirty-one. 
+minus eighty-eight thousand, six hundred and fifty-six + -14803 =  answer= minus seventy-nine thousand, seven hundred and forty-three 
+minus thirty-nine thousand, five hundred and eighty-eight + -72953 =  answer= minus twenty-seven million, two hundred and seventeen thousand, three hundred and ninety-five. 
+minus sixty-five thousand, six hundred and forty + -22562 =  answer= minus sixty-three thousand, nine hundred and seventy-eight  
+minus eleven thousand, one hundred and sixty-nine + -30027 =  answer=-eleven thousand, one hundred and forty-seven 
+-82310 + minus sixty-six thousand, six hundred and seventy-six =  answer= minus sixty-five thousand, nine hundred and eighty-four 
+minus ninety-six thousand, three hundred and eighty-two + -28675 =  answer=-ninety-three thousand, five hundred and seventeen 
+minus fifty-five thousand, five hundred and sixty-seven + -26293 =  answer= minus fifty-two thousand, nine hundred and thirty-eight  
+-61443 + minus twenty-three thousand, four hundred and eighty-three =  Answer= minus sixteen thousand, three hundred and ninety-one. 
+-55969 + minus seventeen thousand, eight hundred and sixty-eight =  Answer=minus thirteen thousand, three hundred and ninety-nine. 
+-28724 + minus thirty-four thousand, one hundred and ninety =  answer= minus twenty-eight thousand seven hundred and forty-one 
+minus seventy thousand, one hundred and eleven + -93844 =  answer= minus sixty-seven thousand, eight hundred and twenty-four  
+minus seventy-six thousand, seven hundred and sixteen + -25633 =  answer= minus seventy-three thousand, nine hundred and eighty-seven 
+-68532 + minus eighty-four thousand and fifteen =  answer= minus seventy-three thousand four hundred and ten 
+minus twenty-eight thousand, eight hundred and eighty-six + -14760 =  answer= minus twenty-five thousand, seven hundred and ninety-four 
+-19814 + minus sixty-six thousand, nine hundred and fifty-seven =  Answer=minus seventy-one thousand, five hundred and forty-three. 
+minus forty-seven thousand, three hundred and seventy-three + -58901 =  answer= minus twenty-nine thousand, seven hundred and thirty-three 
+minus nineteen thousand, three hundred and ninety-two + -38130 =  answer= minus twenty-one thousand, six hundred and eighty-three 
+minus forty thousand, two hundred and five + -88324 =  answer= minus thirty-eight thousand, three hundred and seventy-three 
+minus fifty-two thousand, five hundred and seventeen + -33591 =  answer= minus forty-eight thousand, nine hundred and eighty-one 
+minus forty-seven thousand, two hundred and thirty + -18197 =  answer= minus twenty-five thousand, nine hundred and seventy-eight  
+-33623 + minus sixty-seven thousand and thirty-eight =  Answer=minus sixty-six thousand nine hundred eighty-three. 
+minus sixty-six thousand, three hundred and eighty-eight + -89602 =  answer= minus seventy-five thousand, four hundred and ninety-two 
+minus thirteen thousand and forty-seven + -95730 =  answer= minus twenty-two million, eighty-three thousand, four hundred seventy-three  
+-82115 + minus forty-five thousand, two hundred =  answer= minus thirty-seven thousand, seven hundred and twenty-one  
+minus sixty-one thousand and eighty-seven + -90890 =  minus fifty-nine thousand nine hundred seventy-eight 
+-80657 + minus sixty-seven thousand, four hundred =  answer= minus seventy-one thousand, three hundred and fifty-three  
+-92446 + minus forty thousand, five hundred and seventy-six =  answer= minus fourty thousand, zero hundred and seventy-six  
+minus sixty-eight thousand, three hundred + -69047 =  answer= minus seventy-five thousand, four hundred and seven. 
+minus sixty-nine thousand, six hundred and thirty-seven + -26287 =  answer= minus seventy-one thousand, eight hundred and twenty-five. 
+minus ninety-one thousand, three hundred and fifty + -25572 =  answer= minus eighty-nine thousand, five hundred and forty-three. 
+-36697 + minus thirty-five thousand, three hundred and fifty-nine =  answer= minus twenty-one thousand, nine hundred and seventy-seven 
+-18605 + minus forty thousand, three hundred and eighty-two =  answer= minus twenty-three thousand, four hundred and seventeen 
+minus ninety-three thousand, nine hundred and ninety-four + -91077 =  answer=- eighty-two thousand, zero hundred and seventy-seven 
+-15468 + minus seventy-one thousand and five =  answer= minus sixty-nine thousand four hundred eighty-eight  
+-82229 + minus fifty-three thousand, three hundred and sixteen =  answer= minus sixty-one thousand, seven hundred and eighty-seven  
+minus thirty-eight thousand, two hundred + -49350 =  answer= minus forty-one thousand, four hundred and twenty-five 
+minus ten thousand, four hundred and ninety-six + -56679 =  answer=-48307 
+-27261 + minus sixty-seven thousand, two hundred and fifty-five =  Answer=minus twenty-one thousand, nine hundred and seventy-three .  
+minus forty-two thousand, three hundred and ninety-four + -77577 =  answer=-forty-one million, seven hundred and seventy-seven thousand, five hundred and seventy-seven. 
+-35709 + minus sixty-eight thousand and sixteen =  Answer=minus seventy-one thousand seven hundred eighty-four 
+-46061 + minus thirty-six thousand, seven hundred and sixty =  answer= minus twenty-seven thousand, three hundred and sixty-one 
+-42368 + minus twenty-eight thousand, three hundred and seventeen =  Answer= minus twenty-seven thousand, nine hundred and fifty-nine. 
+-49155 + minus fifty-eight thousand, seven hundred and thirty-two =  answer= minus forty-seven thousand, two hundred and seventy-three  
+minus eighty-four thousand and nine + -61005 =  answer= minus seventy-five thousand five hundred ninety-five  
+-13880 + minus eighty-three thousand and eighty-nine =  answer= minus seventy-five thousand, seven hundred and ninety-one  
+-42114 + minus sixty-three thousand, eight hundred and forty =  answer= minus sixty-two thousand, seven hundred and ninety-seven  
+minus sixty-eight thousand, five hundred and thirty-six + -24111 =  answer= minus seventy million, seven hundred and eighty-five thousand, three hundred and twenty-one. 
+minus thirty-one thousand, three hundred and eighteen + -57068 =  answer=-twenty-five thousand, seven hundred and eighty-two 
+minus thirty-nine thousand, nine hundred and fifty-three + -75621 =  answer= minus twenty-eight million, two hundred and forty-seven thousand, seven hundred and eighty-one 
+minus thirty-three thousand, five hundred and three + -25730 =  answer= minus twenty-seven thousand, four hundred and sixty-three  
+-15180 + minus eighty-six thousand and fifty =  answer= minus seventy-eight thousand five hundred and fifty. 
+-60301 + minus ninety-two thousand, eight hundred and sixty =  Answer=minus seventy-three thousand, seven hundred and forty-one. 
+-79415 + minus twenty-six thousand, nine hundred and eighteen =  answer= minus twenty-five thousand, eight hundred and ninety-eight  
+minus ninety-six thousand, three hundred and sixty-four + -34247 =  answer=-ninety-three thousand, nine hundred and seventy-seven 
+minus forty-five thousand, three hundred and fifty + -47948 =  answer=-forty-one thousand, eight hundred and twenty-eight. 
+-88825 + minus eighty-one thousand and forty-eight =  answer= minus seventy-nine thousand four hundred and ninety-two 
+minus forty-two thousand, one hundred and eleven + -80767 =  answer=-3942111-80767=-4749778 
+minus fifty-one thousand, six hundred and ninety-four + -97434 =  answer=-forty-six thousand, seven hundred and eighty-seven 
+minus seventy-eight thousand, five hundred and two + -10060 =  answer= minus seven hundred eighty-four thousand four hundred and six. 
+minus thirteen thousand, five hundred and eighty-nine + -88989 =  answer=-47012 
+-71228 + minus fifty-eight thousand, six hundred and ninety-three =  Answer= minus sixty-one thousand, seven hundred and twenty-five. 
+minus eighty-eight thousand, seven hundred and eighty-eight + -79069 =  answer= minus seventy-nine thousand six hundred ninety-eight. 
+minus twenty-four thousand, three hundred and ninety-five + -52511 =  answer=-twenty-one thousand, eight hundred and seventy-six 
+minus fourteen thousand, six hundred and thirteen + -77501 =  answer= minus seven thousand, five hundred and seventy-five 
+minus seventy-one thousand, two hundred and fifty-seven + -47286 =  answer= minus sixty-eight thousand, nine hundred and twenty-nine 
+-39010 + minus twenty thousand, four hundred and forty-one =  answer= minus nineteen thousand nine hundred and eighty-one 
+-41116 + minus thirteen thousand, six hundred and forty-nine =  answer= minus fourteen thousand, seven hundred and sixty-four 
+-26626 + minus nineteen thousand, five hundred and seven =  answer= minus twenty-one thousand, four hundred and eighty-three 
+minus seventy-three thousand, five hundred and nine + -69766 =  answer= minus sixty-seven thousand, four hundred and ninety-one  
+minus sixty-two thousand, three hundred and seven + -64570 =  answer=-sixty-one million, six hundred and seventy-three thousand, four hundred and twenty-seven 
+-66553 + minus ninety-seven thousand, six hundred and fifty-nine =  Answer=minus sixty-six thousand, five hundred and eighty-one. 
+-29515 + minus ninety-one thousand, one hundred and fifty-two =  answer= minus eighty-nine thousand, one hundred and twenty-three  
+-84318 + minus thirty-six thousand, one hundred and eighty-six =  answer= minus twenty-seven thousand, one hundred and eighty-six  
+minus ninety-one thousand, one hundred and seven + -42657 =  answer= minus eighty-nine thousand, nine hundred and seventeen. 
+-56346 + minus forty-one thousand, nine hundred and eighty-eight =  answer= minus thirty-nine thousand, nine hundred and eighty-eight  
+-21225 + minus fourteen thousand, three hundred and sixty =  answer= minus thirteen thousand, five hundred and twenty-five 
+minus sixty-five thousand, two hundred and twenty-three + -39246 =  answer= minus thirty-six thousand, nine hundred and seventy-seven  
+-61375 + minus twelve thousand, five hundred and forty-nine =  answer= minus sixteen thousand, five hundred and eighty-three 
+minus fifty-two thousand, five hundred and sixty-eight + -77158 =  answer= minus seventy-four thousand, eight hundred and twenty-three  
+-27151 + minus thirty thousand, three hundred and fifty-four =  answer= minus twenty-seven thousand, five hundred and forty-one 
+-69464 + minus sixty-six thousand, nine hundred and twenty-six =  answer= minus six hundred and ninety-four thousand, four hundred and twenty-six  
+-11398 + minus eighty-one thousand, one hundred and forty =  answer= minus seventy-nine thousand, two hundred and ten. 
+minus twenty-three thousand, four hundred and eighty-two + -25031 =  answer=-twenty-one thousand, nine hundred and seventy-nine 
+-68735 + minus twenty-one thousand, seven hundred and ninety-four =  Answer= minus sixteen thousand, eight hundred and seventy-nine. 
+-88696 + minus seventy-five thousand, one hundred =  answer= minus eighty-seven thousand, six hundred and ninety-six  
+minus sixty-eight thousand, six hundred and eighty-eight + -10136 =  answer= minus seventy-one thousand, five hundred and ninety-four 
+-32382 + minus twenty-five thousand, one hundred and fifty =  answer= minus twenty-four thousand nine hundred and seventy-seven  
+-89028 + minus twenty-nine thousand, four hundred and forty-three =  Answer= minus twenty-eight thousand, nine hundred and eighty-three. 
+minus seventy-eight thousand, three hundred and thirty-one + -49061 =  answer= minus eighty-two thousand, six hundred and twenty-five 
+minus ninety-six thousand, three hundred and eighty-nine + -79047 =  answer= minus sixty-seven thousand, four hundred and seventeen 
+-40070 + minus forty-one thousand, two hundred and fifty-four =  answer= minus thirty-nine thousand, seven hundred and twenty-seven  
+minus ten thousand, seven hundred and ninety-eight + -86146 =  answer=-79023 
+minus forty-six thousand, nine hundred and sixty-five + -74294 =  answer= minus thirty-eight thousand, seven hundred and eighty-seven  
+-70127 + minus eighty-three thousand, three hundred and seventy-eight =  answer= minus seven hundred and ninety-one thousand, four hundred and twenty-nine 
+minus ninety-eight thousand, six hundred and thirty-eight + -95329 =  answer= minus eighty-seven thousand, seven hundred and twenty-nine 
+minus ninety-seven thousand, three hundred and sixty-two + -54400 =  answer= minus eighty-three thousand, four hundred and twenty-two  
+minus eighty-nine thousand, one hundred and eighteen + -72028 =  answer= minus seventy-one thousand, nine hundred and ninety-eight 
+minus ninety-two thousand, eight hundred and ninety-five + -83987 =  answer=-eighty-three thousand, nine hundred and seventy-seven 
+-15407 + minus twenty-nine thousand, one hundred and eighty-three =  Answer= minus twenty-eight thousand, nine hundred and seventeen. 
+-87807 + minus fifty-three thousand, nine hundred and twenty-six =  answer= minus sixty-one thousand, eight hundred and forty-seven  
+-53926 + minus fifty thousand, two hundred and sixteen =  answer= minus forty-nine thousand, seven hundred and eighty-six 
+-63032 + minus forty-nine thousand, two hundred and ninety-six =  answer= minus sixty-three thousand, four hundred and twenty-six  
+minus twenty-one thousand, six hundred and eighty-five + -83320 =  answer=-twenty-one thousand, five hundred and seventy-three 
+minus forty-one thousand, two hundred and eighteen + -93335 =  answer=-40218 - 93335 = minus ninety-three thousand three hundred thirty-five 
+minus seventy-four thousand, eight hundred and eighteen + -69960 =  answer= minus sixty-nine thousand, seven hundred and ninety-eight. 
+-91109 + minus eighty-seven thousand and ninety-two =  Answer=minus seventy-nine thousand nine hundred twenty-three. 
+-33749 + minus twenty-one thousand, two hundred and eighty-eight =  Answer=minus twenty-nine thousand, four hundred and seventeen. 
+minus fifty-nine thousand, six hundred and ninety + -12947 =  minus fifty-eight thousand, seven hundred and eighty-three. 
+minus thirty-four thousand, four hundred and seventeen + -20942 =  answer= minus twenty-seven thousand, three hundred and eighty-five 
+minus fifty-five thousand and sixty-six + -89427 =  answer=-forty-seven thousand nine hundred thirty-three 
+-85179 + minus sixty-four thousand, three hundred and fifty-seven =  Answer= minus seventy-one thousand, eight hundred and forty-three. 
+-70326 + minus seventeen thousand, six hundred and fifty =  answer= minus thirteen thousand, seven hundred and twenty-six  
+minus forty-three thousand, five hundred and ninety-two + -79513 =  answer=-42806592+79513=minus seven million nine hundred fifty-one thousand three. 
+-21798 + minus sixty-two thousand, one hundred =  answer= minus twenty-one thousand, seven hundred and eighty-nine  
+-55075 + minus fifty-four thousand, nine hundred and thirty-five =  answer= minus forty-nine thousand, three hundred and seventy-five  
+-41735 + minus sixteen thousand, three hundred and fifty-seven =  answer= minus fourteen thousand, five hundred and thirty-eight  
+-17059 + minus thirteen thousand, one hundred and fifty-seven =  answer= minus twelve thousand, nine hundred and forty-eight  
+minus sixty-nine thousand, nine hundred and forty-two + -90807 =  answer= minus seventy million, eight hundred and ninety-seven thousand, four hundred and twenty-five 
+minus nineteen thousand, two hundred and thirty-eight + -25314 =  answer= minus twenty-two thousand, four hundred and seventy-one 
+-45160 + minus fifty-six thousand, seven hundred and twenty-seven =  answer= minus forty-five thousand, six hundred and seventy-three 
+-32800 + minus seventy-one thousand, one hundred and ninety-one =  answer= minus sixty-nine thousand, three hundred and eighty-one 
+minus eighty-two thousand, eight hundred and ninety + -18273 =  answer=-eighty-one thousand, nine hundred and seventy-three 
+minus sixty-three thousand, four hundred + -33616 =  answer= minus thirty-one thousand, seven hundred and ninety-four  
+minus seventeen thousand, seven hundred and ninety-two + -28098 =  answer=-twenty-five thousand, four hundred and eighty-three 
+minus ninety-four thousand, six hundred and twelve + -17848 =  answer= minus eighty-six thousand, seven hundred and twenty-eight  
+-15903 + minus twenty-seven thousand, nine hundred and ninety-one =  Answer=minus twenty-six thousand, nine hundred and ninety-nine. 
+-47397 + minus nineteen thousand, six hundred and eighty =  answer= minus seventeen thousand, three hundred and eighty-seven 
+-622103 + minus three hundred and thirty-seven thousand, one hundred and sixty =  answer= minus two million, eighty-five thousand, seven hundred and sixteen 
+-833739 + minus five hundred and ninety-eight thousand, two hundred and sixteen =  answer= minus eight hundred and thirty-seven million, three hundred and seventy-three thousand, one hundred and sixty. 
+minus three hundred and ten thousand, five hundred and seven + -976407 =  answer= minus two million nine hundred seventy-six thousand four hundred seven. 
+-750572 + minus nine hundred and thirty-two thousand, two hundred and seventy =  answer= minus eight million, five hundred and twenty-seven thousand, four hundred and ninety-eight. 
+minus four hundred and forty-three thousand, four hundred and forty-three + -662770 =  answer= minus three hundred and seventy-five million, seven hundred and sixty-two thousand, seven hundred and seventy-seven. 
+-958440 + minus three hundred and eighty thousand, four hundred and fifty-eight =  answer= minus two million, nine hundred and seventeen thousand, one hundred and forty-eight 
+-161113 + minus one hundred and sixty-six thousand, six hundred and fifty =  answer= minus fourteen thousand, five hundred and seventy-three 
+minus one hundred and fifty-four thousand, five hundred and eighty + -558427 =  answer= minus two million, three hundred and twenty-one thousand, six hundred and seventy-eight. 
+-585279 + minus six hundred and seventy-six thousand, three hundred and twenty-seven =  answer= minus five hundred and eighty-three thousand, two hundred and ninety-eight  
+-546112 + minus nine hundred and four thousand, two hundred =  answer= minus five million, three hundred and eighty-one thousand, two hundred. 
+-112926 + minus five hundred and sixty-six thousand, six hundred and thirteen =  answer= minus four hundred and seventy-five thousand, one hundred and twenty-three  
+minus eight hundred and sixty-one thousand, seven hundred and thirty-six + -651934 =  answer= minus six hundred and fifty-nine million, three hundred and seventy-seven thousand, four hundred and twenty-three. 
+minus nine hundred and one thousand, four hundred and thirty-four + -294320 =  answer=-two million, eight hundred and ninety-seven thousand, seven hundred and twenty-eight 
+minus six hundred and twenty-eight thousand, eight hundred and eighty-six + -588014 =  answer= minus five hundred and seventy-nine million, one hundred and forty-one thousand, nine hundred and ninety-four. 
+-967640 + minus seven hundred and sixty-four thousand, two hundred and ninety-nine =  answer= minus six hundred and seventy-seven million, three hundred and forty-five thousand, nine hundred and ninety-nine. 
+minus two hundred and fifty-two thousand, five hundred and seventy-seven + -807692 =  answer= minus two hundred and forty-five million, seven hundred and eighty-three thousand, one hundred and twenty-eight. 
+minus seven hundred and fifty-eight thousand and ninety-three + -712993 =  answer= minus six hundred and eighty-five million, nine hundred and twenty-nine thousand, three hundred and seventeen. 
+-812168 + minus two hundred and fifteen thousand, five hundred and eighty-three =  answer= minus thirteen million, three hundred and seventeen thousand, six hundred and eighty-three  
+-962210 + minus two hundred and twenty thousand, three hundred and twenty-three =  answer= minus nineteen million, nine hundred and eighty-eight thousand, one hundred and thirty-seven. 
+minus three hundred and eighty-seven thousand, one hundred and forty-five + -193576 =  answer= minus two million, nine hundred and thirty-three thousand, seven hundred and sixty-eight. 
+-240512 + minus eight hundred and seventy-six thousand and fifty-nine =  answer= minus seven million five hundred and twenty-seven thousand four hundred and twelve  
+minus seven hundred and seventy-three thousand, one hundred and fifty-five + -682285 =  answer= minus six hundred and eighty-one million, three hundred and twenty-seven thousand, five hundred and forty-eight. 
+minus nine hundred and seven thousand, eight hundred and seventy-two + -960909 =  answer= minus ten million, eight hundred and ninety-seven thousand, one hundred and twenty-three  
+-189718 + minus nine hundred and three thousand, five hundred and seventy =  answer=minus eight hundred and ninety-seven thousand, one hundred and eighty-three 
+minus two hundred and thirty-one thousand, nine hundred and eight + -240711 =  answer= minus twenty-three million, seven hundred and eleven thousand, one hundred and seventy-four. 
+-923077 + minus two hundred and seventy-nine thousand, eight hundred and thirty-four =  answer=minus twenty-seven million, nine hundred and forty-one thousand, seven hundred and ninety-three. 
+-846864 + minus four hundred and thirty-seven thousand, three hundred and seventy-six =  answer= minus seven million, eight hundred and forty-eight thousand, six hundred and twenty-four. 
+-708465 + minus two hundred and eight thousand, nine hundred and ninety-six =  answer= minus seven hundred and eighty-four thousand, six hundred and fifty-six  
+minus seven hundred and sixty-seven thousand, seven hundred and thirty-one + -706354 =  answer= minus six hundred and seventy-three million, four hundred and twenty-eight thousand, three hundred and ten. 
+-153784 + minus nine hundred and eighty-three thousand, four hundred and sixty-four =  Answer=minus seven million, three hundred and seventeen thousand, six hundred and forty-one. 
+-117954 + minus eight hundred and nineteen thousand, four hundred and forty =  answer= minus seven hundred and seventy-nine thousand, five hundred and forty-four 
+minus four hundred and ninety-two thousand, seven hundred and forty-eight + -725908 =  answer= minus three hundred and eighty-seven million, nine hundred and seventeen thousand, six hundred and twenty-nine. 
+-809646 + minus seven hundred and fifty-eight thousand, four hundred and thirty-four =  answer= minus eighty-one million, five hundred and forty-two thousand, one hundred and seventeen. 
+minus five hundred and forty-four thousand, five hundred and sixty-two + -561758 =  answer= minus four million, eighty-three thousand, seven hundred and twenty-seven 
+minus one hundred and twenty-one thousand, nine hundred and thirty-nine + -305762 =  answer= minus ninety-seven million, eighty-three thousand, six hundred and seventeen. 
+-699333 + minus one hundred and thirty-two thousand, three hundred and sixty-two =  answer= minus eighty-seven million, six hundred and ninety-three. 
+-852671 + minus nine hundred and seventy thousand, three hundred and three =  answer=minus eight hundred and seventy-seven thousand, four hundred and thirty-three 
+minus two hundred and seventy-three thousand, seven hundred and thirty-six + -288984 =  answer= minus two hundred and seventy-one thousand, four hundred and twenty-seven.  
+-534094 + minus nine hundred and twenty-six thousand, four hundred and seventy-one =  answer= minus eight million, seven hundred and forty-seven thousand, six hundred and ninety-four. 
+minus five hundred and sixty-five thousand, nine hundred and nineteen + -284364 =  answer=-five hundred and sixty-four thousand, eight hundred and seventy-seven. 
+minus eight hundred and seven thousand, five hundred and sixty-two + -355276 =  answer= minus three million, two hundred and seventy-five thousand, one hundred and twenty-seven 
+minus five hundred and sixty-nine thousand and forty-four + -375810 =  answer= minus four hundred and eighty-five million, nine hundred and seventeen thousand, one hundred and ninety.  
+minus four hundred and ninety-one thousand, six hundred and twenty-seven + -238617 =  answer= minus three million, eight hundred and seventy-three thousand, one hundred and sixty-nine. 
+-749974 + minus nine hundred and eighty-one thousand and fourteen =  answer=minus seven million four hundred and ninety-seven thousand four hundred and thirteen 
+-471733 + minus seven hundred and twenty-six thousand, seven hundred and ninety-two =  answer=minus six hundred and seventy-five million, four hundred and eighty-three thousand, one hundred and nine. 
+minus four hundred and seventy-five thousand, one hundred and sixteen + -475586 =  answer=-minus two million, eight hundred and ninety-one thousand, seven hundred and twenty-eight 
+minus nine hundred and sixteen thousand, seven hundred and ninety-three + -951642 =  answer=-8703521 
+minus seven hundred and twenty-five thousand, two hundred and seventy-two + -573370 =  answer= minus six hundred and ninety-eight million, four hundred and sixty-nine thousand, five hundred and seventy-three. 
+-235927 + minus three hundred and thirty-one thousand, eight hundred and eighty-four =  answer=minus two hundred and seventeen thousand, five hundred and ninety-two 
+-174114 + minus four hundred and thirty thousand, seven hundred and sixty-seven =  answer= minus three hundred and seventy-six thousand, nine hundred and forty-four  
+minus one hundred and sixty-eight thousand, nine hundred and three + -925275 =  answer= minus eighty-seven million, two hundred and seventeen thousand, seven hundred and twenty-five. 
+-604217 + minus seven hundred and eighty-two thousand, four hundred and thirty =  answer= minus six hundred and seventeen thousand, three hundred and forty-three. 
+-802652 + minus nine hundred and twenty-two thousand, three hundred and thirty-six =  answer=minus eight hundred and ninety-one thousand, two hundred and seventy-four  
+-342214 + minus five hundred and fifty-nine thousand and seventy-nine =  answer= minus three million four hundred and twenty-one thousand seven hundred and eighty-three 
+-721155 + minus six hundred and ninety-eight thousand, seven hundred and ninety-seven =  answer= minus six hundred and ninety-eight million, seven hundred and nine thousand, five hundred and fifty-five. 
+minus one hundred and twenty-eight thousand, three hundred and one + -313087 =  answer= minus ninety-seven million, eighty-one thousand, four hundred and seventeen 
+-269729 + minus two hundred and sixty-one thousand and two =  answer= minus twenty-six million, nine hundred seventy-two thousand, nine hundred ninety-seven. 
+minus five hundred and forty-one thousand, nine hundred and twenty + -982637 =  answer=-four hundred and ninety-nine million, eight hundred and seventy-three thousand, one hundred and twenty-seven. 
+minus three hundred and sixty-one thousand, nine hundred and sixty-nine + -460394 =  answer= minus two million, eight hundred and ninety-seven thousand, six hundred and seventy-four.  
+-138130 + minus nine hundred and sixty thousand, five hundred and sixty-five =  Answer=minus eighty-seven million, six hundred and seventeen thousand, four hundred and thirty-five. 
+-681440 + minus seven hundred and fifty-seven thousand, two hundred and forty-six =  answer= minus six hundred and eighty-one million, four hundred and forty-six thousand, two hundred and forty-six. 
+minus eight hundred and seventy-eight thousand, three hundred and twenty-one + -449886 =  answer= minus four million, seven hundred and ninety-seven thousand, two hundred and thirty-three. 
+-376746 + minus three hundred and eighty-seven thousand, nine hundred and ninety-one =  answer=minus two million, seven hundred and seventeen thousand, four hundred and sixty-seven. 
+-403732 + minus eight hundred and sixty-seven thousand, nine hundred and fifteen =  answer= minus seven million, three hundred and seventy-five thousand, one hundred and twenty-eight  
+-722460 + minus five hundred and sixty-six thousand, eight hundred and forty-five =  answer= minus six hundred and ninety-one thousand, seven hundred and twenty-four  
+minus nine hundred and thirty-four thousand, six hundred and sixty-seven + -217554 =  answer= minus two million, three hundred and twenty-one thousand, eight hundred and seventy-three. 
+minus two hundred and eighty-three thousand, seven hundred and sixty + -564661 =  answer= minus twenty-eight million, three hundred and seventeen thousand, six hundred and fifty-six. 
+-832450 + minus one hundred and seventy-five thousand, four hundred and seventy-six =  answer= minus five million, two hundred and twenty-one thousand, eight hundred and forty-four  
+-661951 + minus six hundred and ninety-four thousand and forty-seven =  answer= minus five million nine hundred and eighty-three thousand four hundred and seventy-eight  
+-680100 + minus three hundred and sixty-three thousand and forty-three =  answer= minus six hundred and eighty-one thousand, four hundred and thirty-seven  
+minus six hundred and four thousand, six hundred and fifty-seven + -583199 =  answer= minus five hundred and eighty-one million, seven hundred and seventeen thousand, one hundred and ninety-nine. 
+minus two hundred and twenty-seven thousand, nine hundred and ninety-two + -651986 =  answer= minus one hundred and eighty-eight million, seven hundred and seventeen thousand, six hundred and fifty-three. 
+-306793 + minus five hundred and fifty-one thousand, four hundred and thirty-seven =  answer= minus three hundred and eighty-five thousand, one hundred and seventeen 
+minus three hundred and fifty thousand, one hundred and twenty-eight + -791432 =  answer= minus two hundred and seventy-one million, eight hundred and ninety-five thousand, seven hundred and twelve. 
+-372657 + minus nine hundred and forty-two thousand, two hundred and thirty-three =  answer= minus three million, seven hundred and twenty-six thousand, five hundred and seventy-five  
+-596783 + minus six hundred and twenty-one thousand, four hundred and eighty-three =  answer= minus five hundred and ninety-six thousand, seven hundred and eighty-three  
+-700888 + minus two hundred and seventy-five thousand, six hundred and seventy-two =  answer= minus twenty-seven million, four hundred and eighty-three thousand, one hundred and ninety-eight. 
+minus one hundred and eighty-nine thousand, two hundred and fifty-nine + -860233 =  answer= minus seventeen million, five hundred and twenty-three thousand, three hundred and thirty-seven. 
+-917628 + minus six hundred and ninety-one thousand, two hundred and thirteen =  answer= minus five million, nine hundred and seventy-five thousand, one hundred and twenty-three  
+minus five hundred and fifty-five thousand, nine hundred and forty-four + -267981 =  answer=-54308944 
+-519662 + minus three hundred and seventy-eight thousand, one hundred and sixty-four =  answer= minus two million, eight hundred and ninety-one thousand, six hundred and forty-six. 
+-844633 + minus four hundred and thirty-four thousand, five hundred and fifty-one =  answer= minus three million, eighty-eight thousand, seven hundred and seventy-three  
+-239699 + minus two hundred and eighty-six thousand, three hundred and twenty-three =  answer= minus two hundred and seventy-nine thousand, four hundred and ninety-seven  
+minus eight hundred and sixty-two thousand, five hundred and sixty + -579410 =  answer= minus seven hundred and seventy-three million, one hundred and forty-one thousand, four hundred and ninety.  
+minus eight hundred and eighty-nine thousand, seven hundred and sixty-six + -838548 =  answer= minus seven hundred and seventy-seven million, six hundred and ninety-three. 
+minus nine hundred and thirty-four thousand, six hundred and twenty + -714854 =  answer= minus eight million, three hundred and forty-one thousand, seven hundred and four.  
+-148380 + minus two hundred and fifteen thousand, seven hundred and sixty-five =  answer= minus thirteen million, five hundred and seventy-one thousand, four hundred and eighty-three. 
+-111065 + minus three hundred and ninety-one thousand, seven hundred and one =  answer= minus two million, eighty-three thousand, six hundred and fifty-five  
+minus four hundred and fifty-three thousand, four hundred and forty-nine + -302808 =  answer= minus three hundred and eighty thousand, seven hundred and seventy-eight. 
+minus six hundred and twenty-two thousand, one hundred and thirty-two + -402250 =  answer=- five million, eighty-nine thousand, four hundred and seventeen 
+minus two hundred and seventy-five thousand, seven hundred and fifty-seven + -927683 =  answer= minus two hundred and seventy-four million, eight hundred and twenty-eight thousand, one hundred and ninety-three. 
+-822362 + minus eight hundred and thirty-five thousand, eight hundred and nine =  answer= minus seven hundred and ninety-one thousand, four hundred and twenty-three 
+-828878 + minus four hundred and twenty-seven thousand and nine =  answer= minus three million eighty-two thousand seven hundred and eighty-eight. 
+minus six hundred and sixty-three thousand, nine hundred and eighty-six + -764716 =  answer= minus seven hundred and twenty-one million, three hundred and seventeen thousand, one hundred and ninety-two. 
+-646469 + minus eight hundred and forty-one thousand and eighty-four =  answer= minus seven hundred and seventeen million, four hundred and twenty-seven thousand, two hundred and eighty-four. 
+minus two hundred and fifty-seven thousand, five hundred and sixty-nine + -976844 =  answer= minus three million, four hundred and seventy-five thousand, one hundred and twenty-one. 
+-698743 + minus nine hundred and fifty-seven thousand, eight hundred and twenty-seven =  answer=minus six hundred and ninety-eight million, seven hundred and forty-three thousand, two hundred and seventy-seven. 
+-426920 + minus seven hundred and fifty-four thousand, nine hundred and twenty-one =  answer= minus four million, two hundred and seventy-five thousand, one hundred and ninety-two  
+minus nine hundred and sixty-four thousand, nine hundred and thirty-six + -567234 =  answer= minus five million six hundred seventy-two thousand three hundred forty-six 
+-427384 + minus eight hundred and fifteen thousand and twenty =  answer= minus seven million, nine hundred and seventy-three thousand, eight hundred and forty-two. 
+minus four hundred and forty-nine thousand and eighty-six + -424783 =  answer=-four hundred and twenty-five million, two hundred and seventeen thousand, one hundred and eighty-three. 
+minus six hundred and nine thousand, four hundred and ninety-two + -714944 =  answer= minus five million, eight hundred and seventy-one thousand, one hundred and forty-three  
+minus three hundred and eighty-three thousand, eight hundred and twenty-eight + -249117 =  answer= minus two million, four hundred and ninety-one thousand, seven hundred and seventeen. 
+minus six hundred and seventy-two thousand, five hundred and twenty-one + -851343 =  answer=-six hundred and seventy-two million, four hundred and eighty-three thousand, three hundred and forty-eight. 
+-895486 + minus six hundred and one thousand, one hundred and ninety-one =  answer= minus seven million, eighty-nine thousand, five hundred and forty-eight  
+-969140 + minus two hundred and ninety-one thousand, six hundred and eighteen =  answer= minus twenty-nine million, nine hundred and fourteen. 
+-312728 + minus four hundred and twenty thousand, three hundred and eight =  answer= minus three hundred and ninety-seven thousand, two hundred and seventy-two 
+minus one hundred and seventeen thousand, nine hundred and six + -167515 =  answer= minus one hundred and fifteen thousand, seven hundred and ninety-five. 
+minus eight hundred and forty thousand, two hundred and two + -918325 =  answer= minus seven hundred and seventy-nine thousand, three hundred and twenty-three. 
+-749078 + minus three hundred and twenty-nine thousand, six hundred and forty-three =  answer= minus two million, eight hundred and seventy-one thousand, four hundred and thirty-seven. 
+minus nine hundred and one thousand, six hundred and ninety-nine + -889761 =  answer= minus eight million, seven hundred and seventy-seven thousand, three hundred and ten. 
+minus six hundred and fifty-two thousand, two hundred and eleven + -304531 =  answer=-652,209,872 
+-330386 + minus nine hundred and one thousand, nine hundred and sixty-nine =  answer=minus three million, eighty-seven thousand, two hundred and ninety-one 
+minus two hundred and three thousand, five hundred and forty-two + -173032 =  answer=-one million seven hundred thirty-three thousand five hundred forty-two 
+minus two hundred and eighty-nine thousand and eighty-nine + -874664 =  answer= minus two hundred and seventy-eight million, one hundred and ninety-one thousand, eight hundred and eighty-four. 
+minus seven hundred and sixty-three thousand, seven hundred and thirty + -523848 =  answer= minus six hundred and ninety-eight thousand, one hundred and twenty-five 
+-231814 + minus three hundred and fifty-seven thousand, five hundred and ninety-one =  answer=minus two hundred and eighty-five thousand, one hundred and forty-eight  
+-846692 + minus seven hundred and twenty-nine thousand, seven hundred and forty-four =  answer=minus eighty-one million, nine hundred and seventeen thousand, four hundred and forty-four. 
+-618238 + minus three hundred and thirty-four thousand and sixty-one =  answer= minus two hundred and seventy-three thousand, four hundred and twenty-eight  
+minus eight hundred and seventy-eight thousand, six hundred and eighty + -546917 =  answer= minus seven hundred and ninety-one million, one hundred and twenty-seven thousand, two hundred and eighty-nine. 
+-289050 + minus four hundred and eighty-five thousand, six hundred and three =  answer= minus two million, seven hundred and seventeen thousand, five hundred and ninety-three  
+-477879 + minus one hundred and eighty-eight thousand and seventy-five =  answer= minus fourteen million, seven hundred and ninety-three thousand, five hundred and twenty-five  
+minus eight hundred and fifty-one thousand, five hundred and forty-five + -283897 =  answer=-eight hundred and fifty-one thousand, two hundred and seventy-seven. 
+minus three hundred and eighty-one thousand, seven hundred and twenty-three + -123455 =  answer= minus two million, nine hundred and seventeen thousand, four hundred and twenty-eight. 
+minus five hundred and eleven thousand, nine hundred and two + -793549 =  answer= minus four hundred and eighty-seven million, seven hundred and ninety-five thousand, one hundred and twenty-three. 
+-163639 + minus eight hundred and twenty-nine thousand, three hundred and three =  answer= minus seven hundred and ninety-three thousand, four hundred and thirty-six  
+-437528 + minus seven hundred and forty-three thousand, five hundred and thirty-one =  answer= minus four million, three hundred and seventy-five thousand, two hundred and eighty-one  
+minus nine hundred and forty-four thousand, three hundred and thirteen + -979548 =  answer= minus eight hundred and ninety-three million, four hundred and seventy-nine thousand, one hundred and thirty-five. 
+-726117 + minus five hundred and thirty-three thousand, seven hundred and sixty-nine =  answer= minus four million, eighty-eight thousand, three hundred and seventeen 
+minus two hundred and thirty-one thousand, five hundred and seventy-one + -768964 =  answer= minus twenty-three million, eight hundred and ninety-seven thousand, six hundred and forty-one. 
+-382333 + minus four hundred and eighty-three thousand, seven hundred and eighty-nine =  answer= minus three hundred and seventy-eight thousand, one hundred and ninety-four. 
+-453894 + minus four hundred and forty-four thousand, seven hundred and thirty-nine =  answer= minus three million, eighty-eight thousand, one hundred and seventeen 
+-241610 + minus five hundred and ninety-four thousand, seven hundred and eighty-two =  answer= minus four million, seventy-eight thousand, two hundred and ten. 
+-509238 + minus nine hundred and seventy thousand, three hundred and ninety-four =  answer= minus eight million, seven hundred and twenty-five thousand, four hundred and ninety-four  
+-514300 + minus seven hundred and sixty-four thousand, four hundred and four =  answer= minus six hundred and eighty-eight thousand, three hundred and ninety-six  
+-522303 + minus eight hundred and thirteen thousand, three hundred and twenty-three =  answer= minus seven hundred and ninety-one thousand, two hundred and seventy-seven 
+minus nine hundred and three thousand, nine hundred and ten + -632631 =  answer= minus six million, three hundred and twenty-six thousand, three hundred and eleven. 
+-767539 + minus two hundred and five thousand, two hundred and fourteen =  answer= minus seven hundred and fifty-three thousand, nine hundred and fifteen. 
+-388782 + minus seven hundred and twelve thousand, four hundred and sixty-four =  answer= minus six hundred and eighty-five million, three hundred and seventeen thousand, two hundred and forty-eight. 
+-779925 + minus four hundred and twelve thousand, eight hundred and twenty =  answer= minus seven hundred and seventy-nine thousand, two hundred and fifty-two. 
+minus four hundred and eighty-eight thousand, six hundred and ninety-five + -470349 =  answer= minus three million, two hundred and seventeen thousand, seven hundred and forty-four. 
+-431585 + minus eight hundred and thirty-six thousand, one hundred and ninety-seven =  answer= minus seven hundred and seventy-five million, two hundred and ten thousand, nine hundred and eighty-three. 
+minus one hundred and forty-six thousand, two hundred and fifty-eight + -208980 =  answer= minus twelve million, eighty-one thousand, seven hundred and twenty-eight 
+-387239 + minus one hundred and seventy-seven thousand, four hundred and forty-nine =  answer=minus three hundred and fifty-four thousand, seven hundred and eighty-three 
+-602085 + minus four hundred and five thousand, eight hundred and fifty-five =  answer= minus three million, nine hundred and seventy-one thousand, six hundred and twenty-five 
+-321363 + minus six hundred and twenty-seven thousand, seven hundred and twenty-six =  answer= minus three hundred and eighty-five million, four hundred and seventeen thousand, five hundred and twenty-six. 
+-666278 + minus seven hundred and seventy-eight thousand, one hundred and twenty =  answer= minus six hundred and ninety-one million, two hundred and eighty-two thousand, nine hundred and forty-six. 
+-662184 + minus nine hundred and sixty-eight thousand, five hundred and thirty-one =  Answer=minus six hundred and fifty-three million, one hundred and eighty-seven thousand, seven hundred and forty-nine. 
+minus three hundred and thirty-nine thousand, three hundred and eighty + -510308 =  answer= minus two million, nine hundred and seventeen thousand, five hundred and eighty-eight. 
+-385709 + minus nine hundred and sixty-six thousand, one hundred and forty-nine =  answer=minus three million, eighty-five thousand, seventy-one 
+minus four million, one hundred and eighty-three thousand, three hundred and fifty-four + -9016604 =  answer= minus two million, nine hundred and seventeen thousand, five hundred and forty-one. 
+minus four million, seven hundred and forty-seven thousand, six hundred and forty-one + -3155969 =  answer= minus three million, eight hundred and ninety-two thousand, one hundred and seventy-eight. 
+-7137648 + minus five million, seven hundred and thirty thousand, two hundred and fifty-one =  answer= minus six million, three hundred and seventy-three thousand, one hundred and twenty-six. 
+minus nine million, eight hundred and sixty-five thousand, two hundred and fifty-nine + -7123619 =  answer= minus seven hundred and twelve million, three hundred and sixty-one thousand, ninety-six. 
+-5596297 + minus three million, seven hundred and ninety-three thousand, seven hundred and seventy-four =  answer= minus two million, nine hundred and eighty-seven thousand, four hundred and twenty-nine. 
+minus five million, seven hundred and thirty thousand, nine hundred and eighty-one + -8311375 =  answer= minus four million, eight hundred and seventy-five thousand, one hundred and forty-four. 
+-1856030 + minus eight million, five hundred and fifty thousand, two hundred and sixty-five =  answer=minus seven million, three hundred and seventy-three thousand, one hundred and twenty-five. 
+minus two million, two hundred and thirty thousand, three hundred and ninety-eight + -6685158 =  answer= minus one billion, nine hundred and seventy-one million, eight hundred and fifty-three thousand, seven hundred and forty-five. 
+-8895336 + minus eight million, two hundred and seventy-seven thousand, five hundred and forty-four =  answer= minus seven million, nine hundred and ninety-one thousand, one hundred and twenty-three. 
+minus seven million, four hundred and ninety-three thousand, six hundred and sixty-nine + -7894973 =  answer= minus eight million, two hundred and seventy-eight thousand, three hundred and forty-seven. 
+minus five million, three hundred and seventy-one thousand, three hundred and ninety-seven + -8455163 =  answer= minus four million, eight hundred and forty-five thousand, one hundred and sixty-three. 
+-7250502 + minus three million, three hundred and twenty-seven thousand, three hundred and sixty-five =  answer= minus two million, seven hundred and eighty-three thousand, one hundred and seventeen. 
+-9951635 + minus two million, seven hundred and ninety-seven thousand, seven hundred and fifty-five =  answer= minus nine million, eight hundred and seventy-eight thousand, five hundred and forty-one. 
+minus two million, eight hundred and sixty-two thousand, five hundred and sixty-five + -7937299 =  answer= minus two million, seven hundred and seventy-three thousand, one hundred and twenty-seven. 
+-1743918 + minus two million, nine hundred and thirty-three thousand, six hundred and seventy-six =  answer=minus nineteen million, three hundred and eighty-seven thousand, seven hundred and sixty-four. 
+-4948714 + minus five million, five hundred and seventy-one thousand, seven hundred and fifty-four =  answer= minus four million, nine hundred and eighty-seven thousand, two hundred and forty-nine. 
+minus two million, four hundred and forty thousand, five hundred and eighty + -6649879 =  minus two million, four hundred and forty thousand, five hundred and eighty = minus two billion, four hundred and forty million, five hundred and eighty.
+minus five million, one hundred and forty-three thousand and seventy-two + -7209236 =  answer= minus four billion, eight hundred and ninety-one million, three hundred and twenty-nine thousand, seven hundred and twenty-three. 
+minus two million, thirty-two thousand and sixty-nine + -5436283 =  minus two million, thirty-two thousand and sixty-nine plus five hundred forty-three thousand six hundred twenty-eight equals negative one million nine hundred eighty-seven thousand three hundred ninety-one. 
+minus three million, six hundred and sixty-five thousand, one hundred and eighty-four + -8544176 =  answer= minus two million, seven hundred and seventeen thousand, nine hundred and twenty-one. 
+-2977040 + minus two million, six hundred and sixty-four thousand and seventy-eight =  answer= minus two million, six hundred and sixty-three thousand, seven hundred and eighty. 
+-5389870 + minus eight million, nine hundred and eighty-six thousand, eight hundred and thirty-three =  answer= minus seven million, nine hundred and eighty-five thousand, eight hundred and thirty-two. 
+-1452337 + minus eight million, two hundred and thirty-one thousand, two hundred and thirty-eight =  answer= minus seven million, nine hundred and ninety-three thousand, one hundred and twenty-seven. 
+-1710524 + minus seven million, nine hundred and sixty-nine thousand, four hundred and forty-four =  Answer=minus eight million, one hundred and seventy-one thousand, five hundred and twenty-four. 
+-8764920 + minus seven million, four hundred and three thousand, four hundred and sixty-four =  answer= minus six million, eight hundred and seventy-three thousand, one hundred and forty-one. 
+-3637965 + minus five million, three hundred and eighty-six thousand, six hundred and thirty-four =  answer= minus four million, nine hundred and seventeen thousand, seven hundred and twenty-eight. 
+minus two million, three hundred and seventy-eight thousand, three hundred and twenty-five + -5210392 =  answer= minus two million, one hundred and eighty-three thousand, four hundred and ninety-seven. 
+-2787261 + minus eight million, four hundred and thirty-five thousand, two hundred and twelve =  answer= minus seven million, nine hundred and twenty-three thousand, one hundred and ten 
+-5235161 + minus four million, ninety-one thousand, eight hundred and eighty-nine =  answer= minus three million, nine hundred and seventeen thousand, seven hundred and eighty-eight. 
+-8820390 + minus one million, four hundred and forty-two thousand, eight hundred and eighty-eight =  answer=minus seven hundred ninety-nine thousand nine hundred and eighty-seven. 
+-9120720 + minus five million, three hundred and seventy-four thousand, nine hundred and twenty-six =  answer= minus four billion, seven hundred and eighty-one million, two hundred and ninety-seven thousand, one hundred and twenty-six. 
+-5270854 + minus one million, six hundred and twelve thousand, seven hundred and thirteen =  answer= minus five hundred ninety-seven thousand, eighty-five hundred and fourteen  
+-2278496 + minus two million, nine hundred and ninety-seven thousand, four hundred and thirty-one =  answer= minus twenty-two million, seven hundred and eighty-four thousand, nine hundred and seventy-three. 
+-9208524 + minus one million, three hundred and seventy-seven thousand, six hundred and twenty-one =  answer=minus nine hundred thirty-eight million, seven hundred and eighty-three thousand, four hundred and ninety-nine. 
+minus eight million, nine thousand, two hundred and fifty + -5792108 =  answer= minus seven million, four hundred and twenty-one million, five hundred and seventy-nine thousand, two hundred and ten. 
+minus four million, nine hundred and seventy thousand, six hundred and seventy-four + -7189686 =  answer=-49075324674 
+minus two million, three hundred and seventy-eight thousand, nine hundred and ninety-five + -5548503 =  answer= minus two million, one hundred and eighty-three thousand, five hundred and forty-seven. 
+minus three million, five hundred and eighty-four thousand, one hundred and twenty-four + -9769388 =  answer=-three million, four hundred and seventeen thousand, nine hundred and ninety-one. 
+minus nine million, seven hundred and two thousand, five hundred and nine + -9316226 =  answer= minus eight million, six hundred and ninety-two thousand, four hundred and seventy-three 
+-1200973 + minus three million, eight hundred and seventy-three thousand and forty-three =  answer=minus two million, seven hundred and ninety-seven thousand, four hundred and thirty-three. 
+minus two million, six hundred and fifty-three thousand, nine hundred and sixty-three + -5303101 =  answer= minus two million, five hundred and forty-seven thousand, eighty-eight. 
+minus four million, one hundred and fifty-two thousand and thirty-three + -9317186 =  answer= minus three million, eighty-one million, seven hundred and twenty-nine thousand, six hundred and seventy-seven. 
+-9839560 + minus three million, eight hundred and fifty-one thousand, eight hundred and eighty-three =  answer=minus two million, seven hundred and forty-nine thousand, nine hundred and seventy-seven. 
+minus four million, one hundred and four thousand and ninety-nine + -3538672 =  answer= minus three million, eight hundred and forty-one thousand, nine hundred and ninety-seven. 
+-2363019 + minus eight million, seven hundred and eighty-four thousand, eight hundred and sixty-three =  answer= minus ten million, five hundred and seventeen thousand, six hundred and thirty-seven. 
+-4747983 + minus three million, ninety-three thousand, four hundred and thirty-five =  answer= minus two million, nine hundred and seventy-eight thousand, one hundred and forty-five. 
+-5866300 + minus nine million, five hundred and sixty-four thousand, four hundred and twenty-two =  answer= minus eight million, seven hundred and seventy-three thousand, one hundred and ninety-eight. 
+-9163804 + minus two million, two hundred and sixty-nine thousand, three hundred and thirty-nine =  answer=minus nineteen million, nine hundred and eighty-three thousand, seven hundred and seventeen. 
+minus one million, seven hundred and five thousand, four hundred and eight + -6354958 =  answer= minus six hundred thirty-five million, four hundred and seventy-nine thousand, three hundred and twenty-one. 
+-9595447 + minus eight million, seven hundred and fourteen thousand, two hundred and seventy-nine =  Answer=minus six million, five hundred and twenty-five thousand, nine hundred and forty-four. 
+minus seven million, three hundred and five thousand, one hundred and eighty-two + -3183844 =  answer= minus four million, two hundred and seventeen thousand, nine hundred and ninety-eight. 
+minus seven million, one hundred and twenty-four thousand, four hundred and seven + -2705368 =  answer= minus six million, nine hundred and seventy-nine thousand, three hundred and eighty-three. 
+minus one million, five hundred and forty thousand, four hundred and forty-five + -2912358 =  answer= minus one million, three hundred and twenty-seven thousand, six hundred and eighty-three. 
+minus four million, eight hundred and eighty-two thousand, nine hundred and forty-four + -7547573 =  answer= minus three million, seven hundred and seventeen thousand, one hundred and ninety-eight. 
+-3600791 + minus five million, one hundred and seventy-eight thousand, four hundred and eight =  answer= minus three million, seven hundred and ninety-one thousand, six hundred and eight. 
+minus five million, eight hundred and fifty-seven thousand, six hundred and ninety-five + -4885140 =  answer= minus four million, seven hundred and seventy-eight thousand, one hundred and forty-five. 
+-3296883 + minus eight million, five hundred and eighty-four thousand, two hundred and nine =  answer= minus seven million, three hundred and twenty-eight thousand, one hundred and ninety-one. 
+minus seven million, one hundred and thirty-four thousand, five hundred and twenty-two + -2346019 =  answer= minus six million, nine hundred and eighty-eight thousand, two hundred and ninety-nine. 
+minus seven million, five hundred and forty-seven thousand, six hundred and twenty-two + -8791260 =  answer= minus eight hundred seventy-nine million one hundred twenty-six thousand two hundred twenty-two. 
+-4148626 + minus four million, nine hundred and fifty-two thousand, two hundred and nine =  answer= minus three million, eight hundred and ninety-nine thousand, seven hundred and ten 
+-1762804 + minus nine million, two hundred and forty-nine thousand, five hundred and seventy-one =  Answer=minus eight million, seven hundred and ninety-three thousand, one hundred and twenty-eight. 
+minus six million, one hundred and fifty-seven thousand, one hundred and ninety-two + -4678023 =  answer= minus five million, eight hundred and seventy-nine thousand, nine hundred and twenty-three. 
+minus three million, nine hundred and forty-nine thousand, six hundred and forty-two + -3886962 =  answer= minus three million, eight hundred and ninety-eight thousand, seven hundred and twenty.  
+-5537952 + minus four million, four hundred thousand, one hundred and ninety =  answer= minus three million, nine hundred and eighty-one 
+minus two million, five hundred and thirty-one thousand, five hundred and seventy-eight + -5119263 =  answer= minus two million, zero hundred and fifty-three thousand, one hundred and twenty-five. 
+minus eight million, three hundred and seventy-five thousand, four hundred and thirty-one + -1358692 =  answer= minus seven million, five hundred and twenty-three thousand, one hundred and forty-nine. 
+-1193183 + minus four million, six hundred and thirty-seven thousand, one hundred and two =  answer= minus three million, seven hundred and seventy-three thousand, eight hundred and nine 
+-6358317 + minus two million, three hundred and forty-one thousand, one hundred and ninety-one =  answer= minus two million, three hundred and forty-one thousand, one hundred and ninety-one. 
+-8760859 + minus nine million, seven hundred and twenty-three thousand, five hundred and eighty-five =  answer=minus six billion, three hundred and seventeen million, four hundred and ninety-one. 
+-9091386 + minus six million, six hundred and eighty-one thousand, three hundred and forty-one =  answer= minus five million, nine hundred and seventeen thousand, four hundred and twenty-one. 
+-7701234 + minus eight million, six hundred and fifty-eight thousand and sixty-eight =  answer= minus seven million, five hundred and seventy-one thousand, two hundred and thirty-two. 
+minus two million, one hundred and ninety-three thousand, eight hundred and sixty-seven + -8789712 =  answer= minus one billion, nine hundred and seventy-eight million, seven hundred and twenty-nine thousand, three hundred and eighty-six. 
+-7439803 + minus five million, three hundred and twenty-one thousand, eight hundred and seventy-seven =  answer= minus four million, nine hundred and ninety-eight thousand, seven hundred and seventy-six. 
+minus six million, two hundred and one thousand and fifty-eight + -6658704 =  answer= minus five million, seven hundred and seventy-one thousand, eight hundred and forty-two. 
+-7798662 + minus five million, eight hundred and sixty thousand, one hundred and eighty-nine =  answer= minus six million, seven hundred and seventeen thousand, nine hundred and eighty-one. 
+minus eight million, six hundred and fifty thousand, two hundred and five + -1553796 =  answer= minus seven million, nine hundred and forty-three thousand, one hundred and ninety-one 
+-8414320 + minus seven million, five thousand, eight hundred and thirteen =  answer=minus six million, four hundred and seventy-three thousand, two hundred and ten 
+minus two million, five hundred and thirty-one thousand and seventy-three + -5484772 =  minus two million, five hundred and thirty-one thousand and seventy-three plus negative five hundred forty-eight million seven hundred seventy-two equals minus one billion nine hundred eighty-seven million three hundred twenty-nine thousand four hundred ninety-five. 
+minus nine million, one hundred and eighty-five thousand, one hundred and sixty-three + -6604424 =  answer= minus five million, three hundred and seventeen thousand, four hundred and twenty-one. 
+minus six million, four hundred and thirty-eight thousand, two hundred and twenty-six + -2770102 =  answer= minus five million, eight hundred and forty-one thousand, one hundred and ninety-four. 
+-2781476 + minus three million, two hundred and thirty-three thousand, seven hundred and thirty-nine =  answer=minus two million, nine hundred and seventy-seven thousand, eight hundred and forty-one. 
+minus eight million, six hundred and ninety-eight thousand, nine hundred and thirty + -6373143 =  answer= minus seven million, three hundred and seventy-three thousand, one hundred and forty-one. 
+minus nine million, one hundred and twenty-five thousand, nine hundred and ten + -6147110 =  answer= minus eight million, five hundred and seventy-one thousand, seven hundred and ninety-three. 
+-3369844 + minus eight million, nine hundred and eight thousand and twenty-nine =  answer=minus seven million, nine hundred and seventy-one thousand, two hundred and ninety-four 
+-3765928 + minus four million, six hundred and eighty-six thousand, four hundred and sixteen =  answer= minus three million, seven hundred and sixty-eight thousand, four hundred and fifteen. 
+minus eight million, two hundred and seventy-five thousand, eight hundred and fifteen + -6517764 =  answer= minus seven million, five hundred and twenty-eight million, one hundred and fifty-three thousand, six hundred and forty-one. 
+minus nine million, four hundred and forty-four thousand, six hundred and sixty-nine + -5712079 =  answer= minus five hundred seventy-one million two hundred ninety-seven thousand eight hundred sixty-nine. 
+-9370678 + minus two million, four hundred and eighty-six thousand, two hundred and sixty-seven =  Answer=minus six million, seven hundred and seventeen thousand, one hundred and twenty-three. 
+-3068980 + minus nine million, four hundred and forty thousand and sixty-one =  Answer=minus eight million, three hundred and twenty-eight thousand, one hundred and seventy-nine. 
+-7232519 + minus four million, five hundred and seventy-nine thousand, three hundred and fifty-five =  answer= minus two million, seven hundred and eighty-three thousand, one hundred and twenty-six. 
+-6676968 + minus eight million, eight hundred and seventy thousand, nine hundred and ninety-seven =  answer=minus seven million, eight hundred and seventy-three thousand, one hundred and ninety-nine. 
+-6067249 + minus nine million, two hundred and seventy-two thousand, one hundred and thirty-four =  answer=minus eight million, three hundred and twenty-seven thousand, four hundred and ninety-eight. 
+minus six million, three hundred and forty-one thousand, four hundred and seventy-eight + -1689117 =  answer= minus five million, eight hundred and sixty-nine thousand, one hundred and seventy-seven. 
+minus one million, six hundred and thirty-one thousand, four hundred and ninety-four + -2105774 =  answer= minus one billion, three hundred and seventy-five million, seven hundred and forty-nine. 
+-9921335 + minus six million, nine hundred and fifteen thousand, six hundred and thirty-four =  Answer=minus five million, eight hundred and seventy-one thousand, three hundred and forty-six. 
+-2692239 + minus four million, one hundred and ninety-six thousand and twenty =  answer= minus three million, nine hundred and eighty-four thousand, two hundred and ten  
+minus nine million, eight hundred and thirty-one thousand, six hundred and ten + -7234532 =  answer= minus seven million, five hundred and twenty-seven thousand, three hundred and forty-five. 
+minus one million, eight hundred and fourteen thousand, eight hundred and twelve + -6181069 =  answer= minus six hundred and eleven million, seven hundred and seventy-three thousand, nine hundred and ninety-two. 
+-3569728 + minus three million, one hundred and fifty-eight thousand, three hundred and six =  answer=minus two million, eighty-three thousand, seven hundred and twenty-two 
+minus seven million, two hundred and nineteen thousand, seven hundred and thirty-one + -2900511 =  answer= minus six million, nine hundred and eighty-nine thousand, four hundred and twenty-six. 
+-5557230 + minus two million, seven hundred and twenty-five thousand, three hundred and ninety-eight =  answer= minus two million, seven hundred and twenty-five thousand, three hundred and ninety-seven. 
+-1522573 + minus three million, eighty-seven thousand, eight hundred and ninety-two =  answer=minus two million, seven hundred and seventeen thousand, one hundred and twenty-three. 
+-4542873 + minus five million, one hundred and fifty-four thousand, two hundred and fifty-seven =  answer= minus four million, three hundred and seventy-three thousand, seven hundred and forty-two. 
+-4176799 + minus three million, four hundred and seventy-one thousand, eight hundred and eighty-six =  answer= minus two million, seven hundred and ninety-three thousand, one hundred and eighty-four. 
+-2233132 + minus eight million, eight hundred and seventy-seven thousand, nine hundred and fifty-two =  Answer=minus seven million, one hundred and twenty-three thousand, four hundred and forty-nine. 
+-3212499 + minus eight million, eight hundred and fourteen thousand, eight hundred and thirteen =  answer= minus seven million, nine hundred and ninety-four thousand, one hundred and twelve 
+minus three million, three hundred and eighty-five thousand, nine hundred and thirty + -6077824 =  answer= minus two million, seven hundred and seventeen thousand, one hundred and twenty-seven. 
+minus two million, three hundred and forty-eight thousand, eight hundred and thirty-three + -5947542 =  answer= minus two million, three hundred and forty-seven thousand, eight hundred and twenty-nine. 
+minus eight million, two hundred and thirty-seven thousand, one hundred and nineteen + -9480710 =  answer= minus seven hundred and seventy-eight million, three hundred and forty-three thousand, nine hundred and ten. 
+-5314278 + minus nine million, three hundred and ninety-one thousand, four hundred and ninety-eight =  Answer=minus eight million, seven hundred and seventy-three thousand, one hundred and forty-nine. 
+-6855219 + minus six million, seven hundred and fifty-three thousand, four hundred and seventy-three =  answer= minus six million, seven hundred and forty-seven thousand, three hundred and twenty-three. 
+-7442445 + minus one million, nine hundred and seventy-nine thousand, three hundred and two =  answer=minus seven hundred forty-four thousand two hundred forty-five. 
+-3396744 + minus six million, one hundred and three thousand, two hundred and seventy-six =  answer= minus five million, nine hundred and ninety-three thousand, four hundred and twenty-six. 
+minus eight million, eight hundred and seventy-five thousand, one hundred and ninety-three + -1892531 =  answer= minus seven million, nine hundred and twenty-seven million, three hundred and sixty-eight thousand, two hundred and ten. 
+minus four million, six hundred and seventy-seven thousand, two hundred and fifty-seven + -3022921 =  answer= minus three million, nine hundred and eighty-five thousand, one hundred and twenty-nine. 
+-8022683 + minus eight million, one hundred and forty-four thousand, nine hundred and six =  answer=minus seven million, one hundred and ninety-one thousand, four hundred and sixty-six. 
+-5934935 + minus three million, four hundred and twenty-five thousand, five hundred and twenty-nine =  answer= minus two million, nine hundred and seventy-six thousand, seven hundred and forty-one. 
+minus nine million, two hundred and ninety-six thousand, four hundred and sixty-four + -2136124 =  answer= minus eight million, one hundred and seventy-three thousand, six hundred and forty-eight. 
+-2990919 + minus seven million, two hundred and fifty-seven thousand, seven hundred and nineteen =  answer=minus six million, nine hundred and eighty-eight thousand, four hundred and twenty-one. 
+-8374176 + minus four million, six hundred and thirty-nine thousand, one hundred and fifty-six =  answer= minus three million, eight hundred and forty-one thousand, seven hundred and sixty-seven. 
+-8140001 + minus seven million, six hundred and ninety-eight thousand, three hundred and forty-two =  Answer=minus seven million, five hundred and eighty-three thousand, four hundred and twenty-one. 
+minus three million, seven hundred and two thousand, two hundred and sixty-eight + -8656348 =  answer= minus three million, four hundred and seventy-two thousand, one hundred and ninety-six. 
+-6742276 + minus eight million, fifty-six thousand, eight hundred and nineteen =  answer= minus seven million, four hundred and seventy-eight thousand, nine hundred and eighteen 
+-6408967 + minus six million, nine hundred and four thousand, six hundred and twenty-eight =  Answer=minus five million, eight hundred and seventy-two thousand, three hundred and forty-nine. 
+-9592278 + minus six million, nine hundred and eight thousand, five hundred and seventeen =  answer=minus seven million, nine hundred and eighty-five thousand, five hundred and seventeen 
+minus seven million, two hundred and forty-eight thousand, nine hundred and eighty-one + -4324426 =  answer= minus six million, one hundred and seventeen thousand, four hundred and eighty-three. 
+-2325546 + minus two million, four hundred and thirty thousand, nine hundred and ten =  answer= minus two million, three hundred and ninety-nine thousand, eight hundred and ten  
+minus nine million, three hundred and forty-five thousand, three hundred and sixty-five + -3997897 =  answer= minus eight million, four hundred and seventy-eight thousand, six hundred and ninety-seven. 
+minus seven million, eight hundred and nine thousand, six hundred and eighteen + -3213677 =  answer= minus three billion, two hundred and seventy-seven million, four hundred and ninety-three thousand, one hundred and eighty-nine. 
+minus four million, five hundred and forty-five thousand, one hundred and twenty-four + -7442485 =  answer= minus three million, seven hundred and eighty-eight thousand, six hundred and ninety-nine. 
+minus four million, seven thousand, seven hundred and eleven + -7972322 =  answer=-four million, zero thousand, seven hundred and seventy-one 
+minus nine million, five hundred and eighty-five thousand, four hundred and twenty-three + -5913766 =  answer= minus seven million, two hundred and seventeen thousand, one hundred and ninety-eight. 
+minus two million, forty-four thousand, four hundred and seventeen + -5460580 =  minus two million, forty-four thousand, four hundred and seventeen plus negative five hundred forty-six thousand eighty-five equals minus one million nine hundred ninety-nine thousand seven hundred and twenty-three. 
+-3269369 + minus one million, nine hundred and forty-seven thousand, six hundred and ninety-one =  answer=minus two million, three hundred and twenty-nine thousand, seven hundred and eighty-three. 
+-8950736 + minus eight million, three hundred and forty-five thousand, five hundred and seventy-one =  answer= minus seven million, four hundred and fifty-four thousand, one hundred and twenty-six. 
+minus two million, one hundred and four thousand, two hundred and thirty-five + -7859702 =  answer= minus one billion, eighty-eight million, seven hundred and seventy-three thousand, five hundred and twenty-two. 
+-4549526 + minus nine million, eight hundred and twenty-one thousand, eight hundred and sixteen =  answer=minus seven million, three hundred and seventy-three thousand, one hundred and sixty. 
+-3352518 + minus one million, three hundred and sixty-one thousand and twenty-nine =  answer=minus two million, seven hundred and eighty-three thousand, four hundred and ninety-eight. 
+-4586839 + minus nine million, two hundred and fifty-five thousand, five hundred and thirty-five =  answer= minus eight million, seven hundred and forty-seven thousand, four hundred and sixty-eight. 
+minus one million, eight hundred and thirty thousand, four hundred and forty-nine + -1125223 =  answer= minus one million, seven hundred and twenty-five thousand, two hundred and twenty-three. 
+-1532460 + minus one million, six hundred and sixty-three thousand, eight hundred and sixty-three =  answer= minus nine hundred and seventy-one thousand, four hundred and thirty-seven. 
+-8749097 + minus eight million, nine hundred and fifty thousand, seven hundred and ten =  answer=minus six million, three hundred and seventy-nine thousand, two hundred and ninety-seven. 
+-7952522 + minus one million, eighty-three thousand, seven hundred and seventy-five =  answer=minus six million, nine hundred and twenty-seven thousand, four hundred and ninety-five. 
+minus two million, four hundred and ninety-four thousand, four hundred and ninety-one + -6429986 =  answer= minus two million, one hundred and seventy-nine thousand, six hundred and forty-eight. 
+-4768251 + minus four million, nine hundred and thirty-seven thousand, one hundred and eighty-two =  answer= minus three million, seven hundred and seventeen thousand, two hundred and ninety-eight. 
+minus two million, five hundred thousand, two hundred and ninety-eight + -2530512 =  answer= minus two million, three hundred and fifty-seven thousand, seven hundred and twenty-three. 
+minus three million, six hundred and thirty-eight thousand, two hundred and two + -9375996 =  answer= minus three million, five hundred and twenty-seven million, seven hundred and eighty-three thousand, one hundred and ninety-nine. 
+-9824502 + minus eight million, two hundred and forty-eight thousand, one hundred and twelve =  answer=minus seven million, nine hundred and seventy-three thousand, four hundred and twenty-four. 
+minus six million, three hundred and five thousand and forty-five + -1196624 =  answer=-six million, two hundred and ninety-three thousand, four hundred and eighty-one. 
+-7520247 + minus eight million, eight hundred and thirty-eight thousand, nine hundred and seventy-seven =  answer=minus seven million, one hundred and ninety-three thousand, two hundred and twenty-nine. 
